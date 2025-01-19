@@ -1,0 +1,42 @@
+{
+  "users": {
+    "Anna": {
+      "offers": {
+        "Item1": ["Item3", "Item4", "Item2"]
+      }
+    },
+    "Bartek": {
+      "offers": {
+        "Item2": ["Item4", "Item1", "Item3"]
+      }
+    },
+    "Celina": {
+      "offers": {
+        "Item3": ["Item2", "Item4", "Item1"]
+      }
+    },
+    "Damian": {
+      "offers": {
+        "Item4": ["Item1", "Item2", "Item3"]
+      }
+    }
+  },
+  "items": {
+    "Item1": {
+      "owner": "Anna",
+      "name": "Gra A"
+    },
+    "Item2": {
+      "owner": "Bartek",
+      "name": "Gra B"
+    },
+    "Item3": {
+      "owner": "Celina",
+      "name": "Gra C"
+    },
+    "Item4": {
+      "owner": "Damian",
+      "name": "Gra D"
+    }
+  }
+}

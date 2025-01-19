@@ -1,0 +1,33 @@
+{
+    "users": {
+        "Alice": {
+            "offers": {
+                "item1": ["item2", "item3"]
+            }
+        },
+        "Bob": {
+            "offers": {
+                "item2": ["item3", "item1"]
+            }
+        },
+        "Charlie": {
+            "offers": {
+                "item3": ["item1", "item2"]
+            }
+        }
+    },
+    "items": {
+        "item1": {
+            "owner": "Alice",
+            "name": "Zestaw szachów"
+        },
+        "item2": {
+            "owner": "Bob",
+            "name": "Gra Monopoly"
+        },
+        "item3": {
+            "owner": "Charlie",
+            "name": "Scrabble"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "C:\\Users\\szyma\\Desktop\\System wspomagania i monitorowania procesu wymiany gier\\data\\for_tests\\analysis.json": {
+        "execution_time_seconds": 0.7266511917114258,
+        "memory_usage_MB": 13.2474946975708,
+        "num_users": 3,
+        "num_items": 3,
+        "num_exchanges": 3,
+        "num_warnings": 0,
+        "participation_percent": 100.0,
+        "overall_effectiveness_percent": 200.0
+    },
+    "C:\\Users\\szyma\\Desktop\\System wspomagania i monitorowania procesu wymiany gier\\data\\for_tests\\test.json": {
+        "execution_time_seconds": 0.09525132179260254,
+        "memory_usage_MB": 0.9755916595458984,
+        "num_users": 5,
+        "num_items": 7,
+        "num_exchanges": 6,
+        "num_warnings": 0,
+        "participation_percent": 100.0,
+        "overall_effectiveness_percent": 171.42857142857142
+    }
+}

@@ -1,0 +1,4 @@
+data_set,execution_time_seconds,memory_usage_MB,num_users,num_items,num_cycles_found,num_exchanges,num_warnings,overall_effectiveness_percent,participation_percent
+markham.json,1.4274718761444092,24.526392936706543,21,401,67,17,17,4.166666666666666,52.38095238095239
+norwegian_trade.json,0.08622169494628906,0.9917144775390625,4,32,1,2,2,6.25,50.0
+rustic_board.json,0.08116531372070312,1.0048351287841797,4,70,26,6,6,10.526315789473683,100.0

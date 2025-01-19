@@ -1,0 +1,41 @@
+{
+    "C:\\Users\\szyma\\Desktop\\System wspomagania i monitorowania procesu wymiany gier\\data\\benelux_nov_2015_trade.json": {
+        "execution_time_seconds": 3.6736347675323486,
+        "memory_usage_MB": 2.458742141723633,
+        "num_users": 40,
+        "num_items": 732,
+        "num_cycles_found": 329,
+        "num_cycles_selected": 4,
+        "num_exchanges": 17,
+        "genetic_algorithm_time_seconds": 3.49897837638855,
+        "participation_percent": 27.500000000000004,
+        "overall_effectiveness_percent": 2.4495677233429394,
+        "num_warnings": 15
+    },
+    "C:\\Users\\szyma\\Desktop\\System wspomagania i monitorowania procesu wymiany gier\\data\\danish_may_2016_trade.json": {
+        "execution_time_seconds": 0.4731583595275879,
+        "memory_usage_MB": 1.1529130935668945,
+        "num_users": 18,
+        "num_items": 303,
+        "num_cycles_found": 3,
+        "num_cycles_selected": 2,
+        "num_exchanges": 5,
+        "genetic_algorithm_time_seconds": 0.4531667232513428,
+        "participation_percent": 22.22222222222222,
+        "overall_effectiveness_percent": 1.644736842105263,
+        "num_warnings": 62
+    },
+    "C:\\Users\\szyma\\Desktop\\System wspomagania i monitorowania procesu wymiany gier\\data\\european_july_2018_trade.json": {
+        "execution_time_seconds": 0.6283149719238281,
+        "memory_usage_MB": 5.726827621459961,
+        "num_users": 57,
+        "num_items": 832,
+        "num_cycles_found": 7,
+        "num_cycles_selected": 2,
+        "num_exchanges": 8,
+        "genetic_algorithm_time_seconds": 0.46892857551574707,
+        "participation_percent": 14.035087719298245,
+        "overall_effectiveness_percent": 0.5988023952095809,
+        "num_warnings": 443
+    }
+}

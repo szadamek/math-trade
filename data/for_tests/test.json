@@ -1,0 +1,40 @@
+{
+  "users": {
+    "User1": {
+      "offers": {
+        "itemA": ["itemB", "itemC"]
+      }
+    },
+    "User2": {
+      "offers": {
+        "itemB": ["itemD", "itemA"],
+	"itemG": ["itemF"]
+      }
+    },
+    "User3": {
+      "offers": {
+        "itemC": ["itemD", "itemE"],
+	"itemF": ["itemG"]
+      }
+    },
+    "User4": {
+      "offers": {
+        "itemD": ["itemE"]
+      }
+    },
+    "User5": {
+      "offers": {
+        "itemE": ["itemA"]
+      }
+    }
+  },
+  "items": {
+    "itemA": {"name": "ItemA", "owner": "User1"},
+    "itemB": {"name": "ItemB", "owner": "User2"},
+    "itemC": {"name": "ItemC", "owner": "User3"},
+    "itemD": {"name": "ItemD", "owner": "User4"},
+    "itemE": {"name": "ItemE", "owner": "User5"},
+    "itemF": {"name": "ItemF", "owner": "User3"},
+    "itemG": {"name": "ItemG", "owner": "User2"}
+  }
+}

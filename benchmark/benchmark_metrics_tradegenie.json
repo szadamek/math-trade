@@ -1,0 +1,146 @@
+{
+    "benelux_nov_2015_trade": {
+        "execution_time_seconds": 23.057963609695435,
+        "memory_usage_MB": 2.6953420639038086,
+        "num_cycles_found": 2727,
+        "num_exchanges": 17,
+        "overall_effectiveness_percent": 2.4495677233429394,
+        "participation_percent": 27.500000000000004
+    },
+    "danish_may_2016_trade": {
+        "execution_time_seconds": 0.5254390239715576,
+        "memory_usage_MB": 1.1528902053833008,
+        "num_cycles_found": 3,
+        "num_exchanges": 5,
+        "overall_effectiveness_percent": 1.644736842105263,
+        "participation_percent": 22.22222222222222
+    },
+    "european_july_2018_trade": {
+        "execution_time_seconds": 0.6986789703369141,
+        "memory_usage_MB": 5.726743698120117,
+        "num_cycles_found": 13,
+        "num_exchanges": 11,
+        "overall_effectiveness_percent": 0.8233532934131738,
+        "participation_percent": 14.035087719298245
+    },
+    "fall_2021_trade": {
+        "execution_time_seconds": 5.880306005477905,
+        "memory_usage_MB": 15.764625549316406,
+        "num_cycles_found": 441,
+        "num_exchanges": 38,
+        "overall_effectiveness_percent": 2.235294117647059,
+        "participation_percent": 24.503311258278146
+    },
+    "german_feb_2014_trade": {
+        "execution_time_seconds": 3.279632568359375,
+        "memory_usage_MB": 4.542464256286621,
+        "num_cycles_found": 220,
+        "num_exchanges": 21,
+        "overall_effectiveness_percent": 1.289134438305709,
+        "participation_percent": 22.36842105263158
+    },
+    "german_nov_2015_trade": {
+        "execution_time_seconds": 0.9025416374206543,
+        "memory_usage_MB": 11.993941307067871,
+        "num_cycles_found": 14,
+        "num_exchanges": 8,
+        "overall_effectiveness_percent": 0.21231422505307856,
+        "participation_percent": 6.521739130434782
+    },
+    "greek": {
+        "execution_time_seconds": 7.632691144943237,
+        "memory_usage_MB": 4.545866966247559,
+        "num_cycles_found": 477,
+        "num_exchanges": 40,
+        "overall_effectiveness_percent": 7.547169811320755,
+        "participation_percent": 40.0
+    },
+    "israeli_math_trade": {
+        "execution_time_seconds": 12.96270751953125,
+        "memory_usage_MB": 1.3294849395751953,
+        "num_cycles_found": 1646,
+        "num_exchanges": 19,
+        "overall_effectiveness_percent": 5.654761904761905,
+        "participation_percent": 34.61538461538461
+    },
+    "juni_2020_trade": {
+        "execution_time_seconds": 0.6495509147644043,
+        "memory_usage_MB": 0.3963956832885742,
+        "num_cycles_found": 3,
+        "num_exchanges": 6,
+        "overall_effectiveness_percent": 3.389830508474576,
+        "participation_percent": 45.45454545454545
+    },
+    "markham": {
+        "execution_time_seconds": 4.013468980789185,
+        "memory_usage_MB": 2.4213714599609375,
+        "num_cycles_found": 376,
+        "num_exchanges": 24,
+        "overall_effectiveness_percent": 5.88235294117647,
+        "participation_percent": 57.14285714285714
+    },
+    "norway_norsk": {
+        "execution_time_seconds": 1.141735315322876,
+        "memory_usage_MB": 0.4118499755859375,
+        "num_cycles_found": 70,
+        "num_exchanges": 10,
+        "overall_effectiveness_percent": 9.615384615384617,
+        "participation_percent": 41.66666666666667
+    },
+    "norwegian_trade": {
+        "execution_time_seconds": 0.36239051818847656,
+        "memory_usage_MB": 0.1256723403930664,
+        "num_cycles_found": 1,
+        "num_exchanges": 2,
+        "overall_effectiveness_percent": 6.25,
+        "participation_percent": 50.0
+    },
+    "romanian_oct_2018_trade": {
+        "execution_time_seconds": 0.5460207462310791,
+        "memory_usage_MB": 1.8220434188842773,
+        "num_cycles_found": 2,
+        "num_exchanges": 5,
+        "overall_effectiveness_percent": 1.7064846416382253,
+        "participation_percent": 20.833333333333336
+    },
+    "rustic_board": {
+        "execution_time_seconds": 0.9276106357574463,
+        "memory_usage_MB": 0.1638774871826172,
+        "num_cycles_found": 30,
+        "num_exchanges": 8,
+        "overall_effectiveness_percent": 14.035087719298245,
+        "participation_percent": 100.0
+    },
+    "swiss_trade": {
+        "execution_time_seconds": 0.7409405708312988,
+        "memory_usage_MB": 0.5421943664550781,
+        "num_cycles_found": 8,
+        "num_exchanges": 6,
+        "overall_effectiveness_percent": 3.896103896103896,
+        "participation_percent": 33.33333333333333
+    },
+    "uk_april_2016": {
+        "execution_time_seconds": 1.073683500289917,
+        "memory_usage_MB": 12.353925704956055,
+        "num_cycles_found": 10,
+        "num_exchanges": 16,
+        "overall_effectiveness_percent": 0.46920821114369504,
+        "participation_percent": 9.696969696969697
+    },
+    "uk_oct_2014_trade": {
+        "execution_time_seconds": 72.66196775436401,
+        "memory_usage_MB": 8.254133224487305,
+        "num_cycles_found": 2346,
+        "num_exchanges": 40,
+        "overall_effectiveness_percent": 2.452483139178418,
+        "participation_percent": 24.166666666666668
+    },
+    "war_games_trade": {
+        "execution_time_seconds": 0.7917642593383789,
+        "memory_usage_MB": 4.193707466125488,
+        "num_cycles_found": 7,
+        "num_exchanges": 13,
+        "overall_effectiveness_percent": 1.5719467956469164,
+        "participation_percent": 13.541666666666666
+    }
+}

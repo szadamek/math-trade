@@ -1,0 +1,3909 @@
+{
+    "users": {
+        "Brygmann17": {
+            "offers": {
+                "0310-SPYRI": [
+                    "0320-TROYES",
+                    "0303-CYCLA",
+                    "0128-SHACRO",
+                    "0285-SHACRO",
+                    "0068-FODTE",
+                    "0253-EMIDOM",
+                    "0050-WQTACG"
+                ],
+                "0311-LONDON": [
+                    "0320-TROYES",
+                    "0303-CYCLA",
+                    "0128-SHACRO",
+                    "0285-SHACRO"
+                ],
+                "0312-SOTM": [
+                    "0320-TROYES",
+                    "0303-CYCLA",
+                    "0128-SHACRO",
+                    "0285-SHACRO",
+                    "0068-FODTE"
+                ],
+                "0313-CWE": [
+                    "0320-TROYES",
+                    "0303-CYCLA",
+                    "0128-SHACRO",
+                    "0285-SHACRO",
+                    "0068-FODTE",
+                    "0253-EMIDOM",
+                    "0050-WQTACG",
+                    "0057-INNOV",
+                    "0048-PTC",
+                    "0234-EPC",
+                    "0141-PAXPOR",
+                    "0090-LOOQUE",
+                    "0309-LLOD"
+                ]
+            },
+            "wants": {}
+        },
+        "GamingHobo": {
+            "offers": {
+                "%ShaCro": [
+                    "0128-SHACRO",
+                    "0285-SHACRO"
+                ],
+                "0139-HIGFRO": [
+                    "0068-FODTE"
+                ],
+                "0140-LOS": [
+                    "0068-FODTE",
+                    "0320-TROYES",
+                    "0254-EARREB"
+                ],
+                "0141-PAXPOR": [
+                    "0068-FODTE",
+                    "0320-TROYES",
+                    "0254-EARREB"
+                ],
+                "0233-ENTRO": [
+                    "0068-FODTE",
+                    "0320-TROYES",
+                    "0254-EARREB"
+                ],
+                "0266-COR": [
+                    "0068-FODTE",
+                    "0320-TROYES",
+                    "0254-EARREB"
+                ],
+                "0309-LLOD": [
+                    "0068-FODTE",
+                    "0320-TROYES",
+                    "0300-AND"
+                ]
+            },
+            "wants": {}
+        },
+        "goblen": {
+            "offers": {
+                "0124-DOAI": [
+                    "0068-FODTE"
+                ],
+                "0125-LASSTA": [
+                    "0153-1DTCMC",
+                    "0053-DICTOW",
+                    "0014-CARNOI"
+                ],
+                "0126-MYTHO": [
+                    "0153-1DTCMC",
+                    "0053-DICTOW",
+                    "0014-CARNOI",
+                    "0119-VANUA"
+                ],
+                "0127-RAOAA": [
+                    "0153-1DTCMC",
+                    "0053-DICTOW",
+                    "0014-CARNOI",
+                    "0068-FODTE",
+                    "0119-VANUA",
+                    "0018-EOTS"
+                ],
+                "0128-SHACRO": [
+                    "0153-1DTCMC"
+                ],
+                "0129-SHITE": [
+                    "0153-1DTCMC",
+                    "0053-DICTOW",
+                    "0014-CARNOI",
+                    "0018-EOTS"
+                ],
+                "0130-RUNAGE": [
+                    "0153-1DTCMC",
+                    "0053-DICTOW",
+                    "0014-CARNOI",
+                    "0068-FODTE",
+                    "0119-VANUA",
+                    "0018-EOTS"
+                ]
+            },
+            "wants": {}
+        },
+        "Haekle": {
+            "offers": {
+                "0148-COMMC": [
+                    "0133-SWTQG"
+                ],
+                "0149-LASTN": [
+                    "0133-SWTQG",
+                    "0145-TOBAGO",
+                    "0068-FODTE"
+                ],
+                "0150-SE4": [
+                    "0133-SWTQG",
+                    "0145-TOBAGO",
+                    "0068-FODTE"
+                ]
+            },
+            "wants": {}
+        },
+        "krangor": {
+            "offers": {
+                "%Arcan": [
+                    "0043-ARCAN",
+                    "0178-ARCAN"
+                ],
+                "%GoT": [
+                    "0016-GOT",
+                    "0235-GOT"
+                ],
+                "%HigFro": [
+                    "0022-HIGFRO",
+                    "0139-HIGFRO",
+                    "0277-HIGFRO",
+                    "0308-HIGFRO"
+                ],
+                "%ShaCro": [
+                    "0128-SHACRO",
+                    "0285-SHACRO"
+                ],
+                "0123-011": [],
+                "0131-FRAG": [],
+                "0132-GOBINC": [],
+                "0133-SWTQG": [],
+                "0134-RUNEB": [],
+                "0135-RUNMID": [],
+                "0136-COMPO": [],
+                "0151-RDI": [],
+                "0152-LOOT": [],
+                "0242-MWA": [],
+                "0265-WHEND": []
+            },
+            "wants": {}
+        },
+        "l-hansen": {
+            "offers": {
+                "%ShaCro": [
+                    "0128-SHACRO",
+                    "0285-SHACRO"
+                ],
+                "0173-THRON": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ],
+                "0174-APR": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ],
+                "0175-AGGRA": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ],
+                "0176-ARTIC": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ],
+                "0177-BANG": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ],
+                "0178-ARCAN": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ],
+                "0179-ALCAT": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ],
+                "0180-BIGBAD": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ],
+                "0181-BARBA": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ],
+                "0182-BAKARI": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ],
+                "0183-BURBAT": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ],
+                "0184-BAEVM": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ],
+                "0185-DOK": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ],
+                "0186-DED": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ],
+                "0187-CPP": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ],
+                "0188-COUP": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ],
+                "0189-CPACHP": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ],
+                "0190-BROKER": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ],
+                "0191-CTEC": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ],
+                "0192-ELCAB": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ],
+                "0193-BAGQFM": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ],
+                "0194-CCC": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ],
+                "0195-ETCG": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ],
+                "0196-TROLL": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ],
+                "0197-DARCUL": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ],
+                "0198-CC": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ],
+                "0199-CONTLTWATWTLON": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ],
+                "0200-GALEKS": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ],
+                "0201-PICTI": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ],
+                "0202-HTDOS": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ],
+                "0203-LOTR": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ],
+                "0204-MOVEIT": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ],
+                "0205-GOTTCG": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ],
+                "0206-WBL": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ],
+                "0207-HUNHIG": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ],
+                "0208-HCG": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ],
+                "0209-LOBO77": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ],
+                "0210-MOBPIC": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ],
+                "0211-LUPUS": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ],
+                "0212-WANIGO": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ],
+                "0213-COE": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ],
+                "0214-KINGD": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ],
+                "0215-LDRH": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ],
+                "0216-MERMAZ": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ],
+                "0217-WCMFG": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ],
+                "0218-GNUMI": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ],
+                "0219-MAGIN": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ],
+                "0220-GOSU": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ],
+                "0221-WAAB": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ],
+                "0222-W4C": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ],
+                "0223-W4C": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ],
+                "0224-W4C": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ],
+                "0225-W4C": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ],
+                "0226-HHA": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ],
+                "0227-MONMAY": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ],
+                "0228-TAXA": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ],
+                "0229-STOHJD": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ],
+                "0230-BVSE": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ],
+                "0231-CLEOP": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ],
+                "0232-DDCG": [
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0068-FODTE"
+                ]
+            },
+            "wants": {}
+        },
+        "lillington": {
+            "offers": {
+                "0037-PERGA": [
+                    "0072-ROYALS",
+                    "0299-AND",
+                    "0300-AND",
+                    "0282-SEELA"
+                ],
+                "0038-SYARD": [
+                    "0072-ROYALS",
+                    "0299-AND",
+                    "0300-AND",
+                    "0282-SEELA",
+                    "0297-AND",
+                    "0298-AND"
+                ],
+                "0039-DUNBAZ": [
+                    "0072-ROYALS",
+                    "0299-AND",
+                    "0300-AND",
+                    "0282-SEELA"
+                ],
+                "0040-WORCON": [
+                    "0072-ROYALS",
+                    "0299-AND",
+                    "0300-AND",
+                    "0282-SEELA",
+                    "0297-AND",
+                    "0298-AND"
+                ],
+                "0041-LIGDIC": [
+                    "0072-ROYALS",
+                    "0299-AND",
+                    "0300-AND",
+                    "0282-SEELA",
+                    "0297-AND",
+                    "0298-AND"
+                ]
+            },
+            "wants": {}
+        },
+        "madster321": {
+            "offers": {
+                "0153-1DTCMC": [
+                    "0056-MKBG",
+                    "0320-TROYES",
+                    "0133-SWTQG",
+                    "0316-LOA",
+                    "0136-COMPO"
+                ],
+                "0154-7WON": [
+                    "0056-MKBG",
+                    "0320-TROYES",
+                    "0133-SWTQG",
+                    "0316-LOA",
+                    "0136-COMPO",
+                    "0285-SHACRO",
+                    "0071-QUANT",
+                    "0138-REEFE",
+                    "0291-MWA",
+                    "0141-PAXPOR",
+                    "0072-ROYALS",
+                    "0273-TAKEN",
+                    "0118-TRAINS"
+                ],
+                "0155-EDO": [
+                    "0056-MKBG",
+                    "0320-TROYES",
+                    "0133-SWTQG",
+                    "0316-LOA",
+                    "0136-COMPO",
+                    "0285-SHACRO"
+                ],
+                "0156-EXOPL": [
+                    "0056-MKBG",
+                    "0320-TROYES",
+                    "0133-SWTQG",
+                    "0316-LOA",
+                    "0136-COMPO",
+                    "0285-SHACRO"
+                ],
+                "0267-MWA": [
+                    "0056-MKBG",
+                    "0320-TROYES",
+                    "0133-SWTQG",
+                    "0316-LOA",
+                    "0136-COMPO",
+                    "0285-SHACRO",
+                    "0071-QUANT",
+                    "0138-REEFE",
+                    "0291-MWA",
+                    "0141-PAXPOR",
+                    "0072-ROYALS"
+                ],
+                "0268-LAISLA": [
+                    "0056-MKBG",
+                    "0320-TROYES",
+                    "0133-SWTQG",
+                    "0316-LOA",
+                    "0136-COMPO",
+                    "0285-SHACRO",
+                    "0071-QUANT",
+                    "0138-REEFE",
+                    "0291-MWA",
+                    "0141-PAXPOR",
+                    "0072-ROYALS",
+                    "0273-TAKEN",
+                    "0118-TRAINS",
+                    "0263-SAMUR",
+                    "0067-FRESCO",
+                    "0253-EMIDOM"
+                ],
+                "0269-ANPO6G": [
+                    "0056-MKBG",
+                    "0320-TROYES",
+                    "0133-SWTQG",
+                    "0316-LOA",
+                    "0136-COMPO",
+                    "0285-SHACRO"
+                ],
+                "0270-ANDDP": [
+                    "0056-MKBG",
+                    "0320-TROYES",
+                    "0133-SWTQG",
+                    "0316-LOA",
+                    "0136-COMPO",
+                    "0285-SHACRO",
+                    "0071-QUANT",
+                    "0138-REEFE",
+                    "0291-MWA",
+                    "0141-PAXPOR",
+                    "0072-ROYALS",
+                    "0273-TAKEN",
+                    "0118-TRAINS"
+                ]
+            },
+            "wants": {}
+        },
+        "Maxxor": {
+            "offers": {
+                "0046-HERILR": [
+                    "0133-SWTQG",
+                    "0172-WOWTB",
+                    "0285-SHACRO",
+                    "0254-EARREB",
+                    "0118-TRAINS",
+                    "0170-POLPRE",
+                    "0300-AND",
+                    "0264-TTB",
+                    "0304-GOTTBGSE",
+                    "0149-LASTN",
+                    "0009-WEE",
+                    "0128-SHACRO",
+                    "0299-AND",
+                    "0154-7WON",
+                    "0266-COR",
+                    "0303-CYCLA",
+                    "0001-PUERT",
+                    "0090-LOOQUE",
+                    "0267-MWA"
+                ],
+                "0047-NOTHA": [
+                    "0133-SWTQG",
+                    "0172-WOWTB",
+                    "0285-SHACRO",
+                    "0254-EARREB",
+                    "0118-TRAINS",
+                    "0170-POLPRE",
+                    "0300-AND",
+                    "0264-TTB",
+                    "0304-GOTTBGSE",
+                    "0149-LASTN",
+                    "0009-WEE",
+                    "0128-SHACRO",
+                    "0299-AND",
+                    "0154-7WON",
+                    "0266-COR",
+                    "0303-CYCLA",
+                    "0001-PUERT",
+                    "0090-LOOQUE",
+                    "0267-MWA",
+                    "0234-EPC",
+                    "0253-EMIDOM",
+                    "0258-PACGROTRBS",
+                    "0145-TOBAGO",
+                    "0269-ANPO6G",
+                    "0240-WARINV",
+                    "0263-SAMUR",
+                    "0298-AND",
+                    "0124-DOAI",
+                    "0270-ANDDP",
+                    "0155-EDO",
+                    "0148-COMMC",
+                    "0312-SOTM",
+                    "0138-REEFE",
+                    "0126-MYTHO",
+                    "0134-RUNEB"
+                ],
+                "0048-PTC": [
+                    "0133-SWTQG",
+                    "0172-WOWTB",
+                    "0285-SHACRO"
+                ],
+                "0049-SS": [
+                    "0133-SWTQG",
+                    "0172-WOWTB",
+                    "0285-SHACRO",
+                    "0254-EARREB",
+                    "0118-TRAINS",
+                    "0170-POLPRE",
+                    "0300-AND",
+                    "0264-TTB",
+                    "0304-GOTTBGSE",
+                    "0149-LASTN",
+                    "0009-WEE",
+                    "0128-SHACRO",
+                    "0299-AND",
+                    "0154-7WON",
+                    "0266-COR",
+                    "0303-CYCLA",
+                    "0001-PUERT",
+                    "0090-LOOQUE",
+                    "0267-MWA",
+                    "0234-EPC",
+                    "0253-EMIDOM",
+                    "0258-PACGROTRBS",
+                    "0145-TOBAGO",
+                    "0269-ANPO6G",
+                    "0240-WARINV",
+                    "0263-SAMUR",
+                    "0298-AND",
+                    "0124-DOAI",
+                    "0270-ANDDP",
+                    "0155-EDO",
+                    "0148-COMMC",
+                    "0312-SOTM",
+                    "0138-REEFE",
+                    "0126-MYTHO",
+                    "0134-RUNEB",
+                    "0273-TAKEN",
+                    "0244-ARCSCA",
+                    "0268-LAISLA",
+                    "0119-VANUA",
+                    "0256-FORMU",
+                    "0242-MWA",
+                    "0013-HTG",
+                    "0252-DUNROL",
+                    "0286-NOVCRY",
+                    "0010-THURN",
+                    "0301-CARCA",
+                    "0130-RUNAGE",
+                    "0297-AND",
+                    "0117-PLASTE",
+                    "0153-1DTCMC",
+                    "0034-IEOTP",
+                    "0156-EXOPL",
+                    "0099-TGBY",
+                    "0112-KILSHA",
+                    "0076-4SALE",
+                    "0311-LONDON",
+                    "0236-FLEET",
+                    "0144-FORISL",
+                    "0011-RED7",
+                    "0151-RDI",
+                    "0173-THRON",
+                    "0147-BLUEP",
+                    "0272-SHADO"
+                ],
+                "0050-WQTACG": [
+                    "0133-SWTQG",
+                    "0172-WOWTB",
+                    "0285-SHACRO"
+                ],
+                "0051-GOTTCG": [
+                    "0133-SWTQG",
+                    "0172-WOWTB",
+                    "0285-SHACRO",
+                    "0254-EARREB",
+                    "0118-TRAINS",
+                    "0170-POLPRE",
+                    "0300-AND",
+                    "0264-TTB",
+                    "0304-GOTTBGSE",
+                    "0149-LASTN",
+                    "0009-WEE",
+                    "0128-SHACRO",
+                    "0299-AND",
+                    "0154-7WON",
+                    "0266-COR",
+                    "0303-CYCLA",
+                    "0001-PUERT",
+                    "0090-LOOQUE",
+                    "0267-MWA",
+                    "0234-EPC",
+                    "0253-EMIDOM",
+                    "0258-PACGROTRBS",
+                    "0145-TOBAGO",
+                    "0269-ANPO6G",
+                    "0240-WARINV",
+                    "0263-SAMUR",
+                    "0298-AND",
+                    "0124-DOAI",
+                    "0270-ANDDP",
+                    "0155-EDO",
+                    "0148-COMMC",
+                    "0312-SOTM",
+                    "0138-REEFE",
+                    "0126-MYTHO",
+                    "0134-RUNEB",
+                    "0273-TAKEN",
+                    "0244-ARCSCA",
+                    "0268-LAISLA",
+                    "0119-VANUA",
+                    "0256-FORMU",
+                    "0242-MWA",
+                    "0013-HTG",
+                    "0252-DUNROL",
+                    "0286-NOVCRY",
+                    "0010-THURN",
+                    "0297-AND",
+                    "0117-PLASTE",
+                    "0153-1DTCMC",
+                    "0034-IEOTP",
+                    "0156-EXOPL",
+                    "0099-TGBY",
+                    "0112-KILSHA"
+                ],
+                "0052-BITSOC": [
+                    "0133-SWTQG",
+                    "0172-WOWTB"
+                ],
+                "0053-DICTOW": [
+                    "0133-SWTQG",
+                    "0172-WOWTB"
+                ],
+                "0054-COCTCG": [
+                    "0133-SWTQG",
+                    "0172-WOWTB",
+                    "0285-SHACRO",
+                    "0254-EARREB",
+                    "0118-TRAINS",
+                    "0170-POLPRE",
+                    "0300-AND",
+                    "0264-TTB",
+                    "0304-GOTTBGSE",
+                    "0149-LASTN",
+                    "0009-WEE",
+                    "0128-SHACRO",
+                    "0299-AND",
+                    "0154-7WON",
+                    "0266-COR",
+                    "0303-CYCLA",
+                    "0001-PUERT",
+                    "0090-LOOQUE",
+                    "0267-MWA",
+                    "0234-EPC",
+                    "0253-EMIDOM",
+                    "0258-PACGROTRBS",
+                    "0145-TOBAGO",
+                    "0269-ANPO6G",
+                    "0240-WARINV",
+                    "0263-SAMUR",
+                    "0298-AND",
+                    "0124-DOAI",
+                    "0270-ANDDP",
+                    "0155-EDO",
+                    "0148-COMMC",
+                    "0312-SOTM",
+                    "0138-REEFE",
+                    "0126-MYTHO"
+                ],
+                "0055-HOLLY": [
+                    "0133-SWTQG",
+                    "0172-WOWTB",
+                    "0285-SHACRO"
+                ],
+                "0056-MKBG": [
+                    "0133-SWTQG",
+                    "0172-WOWTB"
+                ],
+                "0057-INNOV": [
+                    "0133-SWTQG",
+                    "0172-WOWTB",
+                    "0285-SHACRO",
+                    "0254-EARREB",
+                    "0118-TRAINS",
+                    "0170-POLPRE",
+                    "0300-AND",
+                    "0264-TTB",
+                    "0304-GOTTBGSE",
+                    "0149-LASTN",
+                    "0299-AND"
+                ],
+                "0058-INFIL": [
+                    "0133-SWTQG",
+                    "0172-WOWTB",
+                    "0285-SHACRO",
+                    "0254-EARREB",
+                    "0118-TRAINS",
+                    "0170-POLPRE",
+                    "0300-AND",
+                    "0264-TTB",
+                    "0304-GOTTBGSE",
+                    "0149-LASTN",
+                    "0009-WEE",
+                    "0128-SHACRO",
+                    "0299-AND",
+                    "0154-7WON",
+                    "0266-COR",
+                    "0303-CYCLA",
+                    "0001-PUERT",
+                    "0090-LOOQUE",
+                    "0267-MWA",
+                    "0234-EPC",
+                    "0253-EMIDOM",
+                    "0258-PACGROTRBS",
+                    "0145-TOBAGO",
+                    "0269-ANPO6G",
+                    "0240-WARINV",
+                    "0263-SAMUR",
+                    "0298-AND",
+                    "0124-DOAI",
+                    "0270-ANDDP",
+                    "0155-EDO",
+                    "0148-COMMC",
+                    "0312-SOTM"
+                ],
+                "0059-WARINV": [
+                    "0133-SWTQG",
+                    "0172-WOWTB",
+                    "0285-SHACRO",
+                    "0254-EARREB",
+                    "0118-TRAINS",
+                    "0170-POLPRE",
+                    "0300-AND",
+                    "0264-TTB",
+                    "0304-GOTTBGSE"
+                ],
+                "0060-ARKHA": [
+                    "0133-SWTQG",
+                    "0172-WOWTB",
+                    "0285-SHACRO",
+                    "0254-EARREB",
+                    "0300-AND",
+                    "0264-TTB"
+                ],
+                "0061-MOM": [
+                    "0133-SWTQG",
+                    "0172-WOWTB"
+                ],
+                "0062-MOMFA": [
+                    "0133-SWTQG",
+                    "0172-WOWTB"
+                ],
+                "0063-MAT": [
+                    "0133-SWTQG",
+                    "0172-WOWTB",
+                    "0285-SHACRO",
+                    "0254-EARREB",
+                    "0118-TRAINS",
+                    "0170-POLPRE",
+                    "0300-AND",
+                    "0264-TTB",
+                    "0304-GOTTBGSE",
+                    "0149-LASTN",
+                    "0009-WEE",
+                    "0128-SHACRO",
+                    "0299-AND",
+                    "0154-7WON",
+                    "0266-COR",
+                    "0303-CYCLA",
+                    "0001-PUERT",
+                    "0090-LOOQUE",
+                    "0267-MWA",
+                    "0234-EPC",
+                    "0253-EMIDOM",
+                    "0258-PACGROTRBS",
+                    "0145-TOBAGO",
+                    "0269-ANPO6G",
+                    "0240-WARINV",
+                    "0263-SAMUR",
+                    "0298-AND",
+                    "0124-DOAI",
+                    "0270-ANDDP",
+                    "0155-EDO",
+                    "0148-COMMC",
+                    "0312-SOTM",
+                    "0138-REEFE",
+                    "0126-MYTHO",
+                    "0134-RUNEB",
+                    "0273-TAKEN",
+                    "0244-ARCSCA",
+                    "0268-LAISLA",
+                    "0119-VANUA",
+                    "0256-FORMU",
+                    "0242-MWA",
+                    "0013-HTG",
+                    "0252-DUNROL",
+                    "0117-PLASTE",
+                    "0153-1DTCMC",
+                    "0034-IEOTP",
+                    "0156-EXOPL",
+                    "0099-TGBY",
+                    "0112-KILSHA"
+                ],
+                "0064-ZPOCA": [
+                    "0133-SWTQG",
+                    "0172-WOWTB",
+                    "0285-SHACRO"
+                ],
+                "0065-CATAN": [
+                    "0133-SWTQG",
+                    "0172-WOWTB",
+                    "0285-SHACRO",
+                    "0254-EARREB",
+                    "0118-TRAINS",
+                    "0170-POLPRE",
+                    "0300-AND",
+                    "0264-TTB",
+                    "0304-GOTTBGSE",
+                    "0149-LASTN",
+                    "0009-WEE",
+                    "0128-SHACRO",
+                    "0299-AND",
+                    "0154-7WON",
+                    "0266-COR",
+                    "0303-CYCLA",
+                    "0001-PUERT",
+                    "0090-LOOQUE",
+                    "0267-MWA",
+                    "0234-EPC",
+                    "0253-EMIDOM",
+                    "0258-PACGROTRBS",
+                    "0145-TOBAGO",
+                    "0269-ANPO6G",
+                    "0240-WARINV",
+                    "0124-DOAI",
+                    "0270-ANDDP",
+                    "0155-EDO"
+                ],
+                "0066-SWTCG": [
+                    "0133-SWTQG",
+                    "0172-WOWTB",
+                    "0285-SHACRO",
+                    "0254-EARREB",
+                    "0118-TRAINS",
+                    "0170-POLPRE",
+                    "0300-AND",
+                    "0264-TTB",
+                    "0304-GOTTBGSE"
+                ],
+                "0067-FRESCO": [
+                    "0133-SWTQG",
+                    "0172-WOWTB",
+                    "0285-SHACRO",
+                    "0254-EARREB",
+                    "0118-TRAINS",
+                    "0300-AND",
+                    "0264-TTB"
+                ],
+                "0068-FODTE": [
+                    "0133-SWTQG",
+                    "0172-WOWTB"
+                ],
+                "0069-INCGOL": [
+                    "0133-SWTQG",
+                    "0172-WOWTB",
+                    "0285-SHACRO",
+                    "0254-EARREB",
+                    "0118-TRAINS",
+                    "0170-POLPRE",
+                    "0300-AND",
+                    "0264-TTB",
+                    "0304-GOTTBGSE",
+                    "0149-LASTN",
+                    "0299-AND",
+                    "0154-7WON",
+                    "0266-COR",
+                    "0090-LOOQUE"
+                ],
+                "0070-INVAD": [
+                    "0133-SWTQG",
+                    "0172-WOWTB",
+                    "0285-SHACRO",
+                    "0254-EARREB",
+                    "0118-TRAINS",
+                    "0170-POLPRE",
+                    "0300-AND",
+                    "0264-TTB",
+                    "0304-GOTTBGSE",
+                    "0149-LASTN",
+                    "0009-WEE",
+                    "0128-SHACRO",
+                    "0299-AND",
+                    "0154-7WON",
+                    "0266-COR",
+                    "0303-CYCLA",
+                    "0001-PUERT",
+                    "0090-LOOQUE",
+                    "0267-MWA",
+                    "0234-EPC",
+                    "0253-EMIDOM",
+                    "0258-PACGROTRBS",
+                    "0124-DOAI",
+                    "0270-ANDDP",
+                    "0155-EDO"
+                ],
+                "0071-QUANT": [
+                    "0133-SWTQG",
+                    "0172-WOWTB",
+                    "0285-SHACRO"
+                ],
+                "0072-ROYALS": [
+                    "0133-SWTQG",
+                    "0172-WOWTB",
+                    "0285-SHACRO",
+                    "0254-EARREB",
+                    "0118-TRAINS",
+                    "0300-AND",
+                    "0264-TTB"
+                ],
+                "0073-SMCTBG": [
+                    "0133-SWTQG",
+                    "0172-WOWTB"
+                ],
+                "0074-W4C": [
+                    "0133-SWTQG",
+                    "0172-WOWTB"
+                ],
+                "0075-ZOMBI": [
+                    "0133-SWTQG",
+                    "0172-WOWTB",
+                    "0285-SHACRO",
+                    "0254-EARREB",
+                    "0118-TRAINS",
+                    "0170-POLPRE",
+                    "0300-AND",
+                    "0264-TTB",
+                    "0304-GOTTBGSE",
+                    "0149-LASTN",
+                    "0009-WEE",
+                    "0128-SHACRO",
+                    "0299-AND",
+                    "0154-7WON",
+                    "0266-COR",
+                    "0303-CYCLA",
+                    "0001-PUERT",
+                    "0090-LOOQUE",
+                    "0267-MWA",
+                    "0234-EPC",
+                    "0253-EMIDOM",
+                    "0258-PACGROTRBS",
+                    "0145-TOBAGO",
+                    "0269-ANPO6G",
+                    "0240-WARINV",
+                    "0263-SAMUR",
+                    "0298-AND",
+                    "0124-DOAI",
+                    "0270-ANDDP",
+                    "0155-EDO",
+                    "0148-COMMC",
+                    "0312-SOTM"
+                ],
+                "0084-MEM44": [
+                    "0133-SWTQG",
+                    "0172-WOWTB"
+                ],
+                "0085-DSP": [
+                    "0133-SWTQG",
+                    "0172-WOWTB",
+                    "0285-SHACRO",
+                    "0254-EARREB",
+                    "0118-TRAINS",
+                    "0170-POLPRE",
+                    "0300-AND",
+                    "0264-TTB",
+                    "0304-GOTTBGSE"
+                ],
+                "0103-HERAZ": [
+                    "0133-SWTQG",
+                    "0172-WOWTB",
+                    "0285-SHACRO",
+                    "0254-EARREB",
+                    "0118-TRAINS",
+                    "0170-POLPRE",
+                    "0300-AND",
+                    "0264-TTB",
+                    "0304-GOTTBGSE",
+                    "0149-LASTN",
+                    "0009-WEE",
+                    "0128-SHACRO",
+                    "0299-AND",
+                    "0154-7WON",
+                    "0266-COR",
+                    "0303-CYCLA",
+                    "0001-PUERT",
+                    "0090-LOOQUE",
+                    "0267-MWA",
+                    "0234-EPC",
+                    "0253-EMIDOM",
+                    "0258-PACGROTRBS",
+                    "0145-TOBAGO",
+                    "0269-ANPO6G",
+                    "0240-WARINV",
+                    "0263-SAMUR",
+                    "0298-AND",
+                    "0124-DOAI",
+                    "0270-ANDDP",
+                    "0155-EDO",
+                    "0148-COMMC",
+                    "0312-SOTM",
+                    "0138-REEFE",
+                    "0126-MYTHO"
+                ],
+                "0104-EGO": [
+                    "0133-SWTQG",
+                    "0172-WOWTB",
+                    "0285-SHACRO",
+                    "0254-EARREB",
+                    "0118-TRAINS",
+                    "0170-POLPRE",
+                    "0300-AND",
+                    "0264-TTB",
+                    "0304-GOTTBGSE",
+                    "0149-LASTN",
+                    "0009-WEE",
+                    "0128-SHACRO",
+                    "0299-AND",
+                    "0154-7WON",
+                    "0266-COR",
+                    "0303-CYCLA",
+                    "0001-PUERT",
+                    "0090-LOOQUE",
+                    "0267-MWA",
+                    "0234-EPC",
+                    "0253-EMIDOM",
+                    "0258-PACGROTRBS",
+                    "0145-TOBAGO",
+                    "0269-ANPO6G",
+                    "0124-DOAI",
+                    "0270-ANDDP",
+                    "0155-EDO"
+                ],
+                "0105-LOTR": [
+                    "0133-SWTQG",
+                    "0172-WOWTB",
+                    "0285-SHACRO",
+                    "0254-EARREB",
+                    "0118-TRAINS",
+                    "0170-POLPRE",
+                    "0300-AND",
+                    "0264-TTB",
+                    "0304-GOTTBGSE",
+                    "0149-LASTN",
+                    "0009-WEE",
+                    "0128-SHACRO",
+                    "0299-AND",
+                    "0154-7WON",
+                    "0266-COR",
+                    "0303-CYCLA",
+                    "0001-PUERT",
+                    "0090-LOOQUE",
+                    "0267-MWA",
+                    "0234-EPC",
+                    "0253-EMIDOM",
+                    "0258-PACGROTRBS",
+                    "0145-TOBAGO",
+                    "0269-ANPO6G",
+                    "0240-WARINV",
+                    "0263-SAMUR",
+                    "0298-AND",
+                    "0124-DOAI",
+                    "0270-ANDDP",
+                    "0155-EDO",
+                    "0148-COMMC",
+                    "0312-SOTM",
+                    "0138-REEFE",
+                    "0126-MYTHO"
+                ],
+                "0106-CASKNI": [
+                    "0133-SWTQG",
+                    "0172-WOWTB",
+                    "0285-SHACRO",
+                    "0254-EARREB",
+                    "0118-TRAINS",
+                    "0170-POLPRE",
+                    "0300-AND",
+                    "0264-TTB",
+                    "0304-GOTTBGSE",
+                    "0149-LASTN",
+                    "0009-WEE",
+                    "0128-SHACRO",
+                    "0299-AND",
+                    "0154-7WON",
+                    "0266-COR",
+                    "0303-CYCLA",
+                    "0001-PUERT",
+                    "0090-LOOQUE",
+                    "0267-MWA",
+                    "0234-EPC",
+                    "0253-EMIDOM",
+                    "0258-PACGROTRBS",
+                    "0145-TOBAGO",
+                    "0269-ANPO6G",
+                    "0240-WARINV",
+                    "0263-SAMUR",
+                    "0298-AND",
+                    "0124-DOAI",
+                    "0270-ANDDP",
+                    "0155-EDO",
+                    "0148-COMMC",
+                    "0312-SOTM",
+                    "0138-REEFE",
+                    "0126-MYTHO",
+                    "0134-RUNEB",
+                    "0273-TAKEN",
+                    "0244-ARCSCA",
+                    "0268-LAISLA",
+                    "0119-VANUA",
+                    "0256-FORMU",
+                    "0242-MWA",
+                    "0013-HTG",
+                    "0252-DUNROL",
+                    "0286-NOVCRY",
+                    "0117-PLASTE",
+                    "0153-1DTCMC",
+                    "0034-IEOTP",
+                    "0156-EXOPL",
+                    "0099-TGBY",
+                    "0112-KILSHA"
+                ],
+                "0287-W4AOBR": [
+                    "0133-SWTQG",
+                    "0172-WOWTB"
+                ],
+                "0288-WFBBFSP": [
+                    "0133-SWTQG",
+                    "0172-WOWTB"
+                ],
+                "0289-SPYFA": [
+                    "0133-SWTQG",
+                    "0172-WOWTB",
+                    "0285-SHACRO",
+                    "0254-EARREB",
+                    "0118-TRAINS",
+                    "0170-POLPRE",
+                    "0300-AND",
+                    "0264-TTB",
+                    "0304-GOTTBGSE",
+                    "0149-LASTN",
+                    "0009-WEE",
+                    "0128-SHACRO",
+                    "0299-AND",
+                    "0154-7WON",
+                    "0266-COR",
+                    "0303-CYCLA",
+                    "0001-PUERT",
+                    "0090-LOOQUE",
+                    "0267-MWA",
+                    "0234-EPC"
+                ],
+                "0290-MDMAVX": [
+                    "0133-SWTQG",
+                    "0172-WOWTB",
+                    "0285-SHACRO",
+                    "0254-EARREB",
+                    "0118-TRAINS",
+                    "0170-POLPRE",
+                    "0300-AND",
+                    "0264-TTB",
+                    "0304-GOTTBGSE",
+                    "0149-LASTN",
+                    "0009-WEE",
+                    "0299-AND",
+                    "0154-7WON",
+                    "0266-COR",
+                    "0303-CYCLA",
+                    "0001-PUERT",
+                    "0090-LOOQUE",
+                    "0267-MWA"
+                ],
+                "0291-MWA": [
+                    "0133-SWTQG",
+                    "0172-WOWTB",
+                    "0285-SHACRO",
+                    "0300-AND",
+                    "0264-TTB"
+                ],
+                "0292-DDTFABGEWEP": [
+                    "0133-SWTQG",
+                    "0172-WOWTB",
+                    "0285-SHACRO",
+                    "0254-EARREB",
+                    "0118-TRAINS",
+                    "0170-POLPRE",
+                    "0300-AND",
+                    "0264-TTB",
+                    "0304-GOTTBGSE",
+                    "0149-LASTN",
+                    "0009-WEE",
+                    "0128-SHACRO",
+                    "0299-AND",
+                    "0154-7WON",
+                    "0266-COR",
+                    "0090-LOOQUE"
+                ],
+                "0293-DDBG": [
+                    "0133-SWTQG",
+                    "0172-WOWTB",
+                    "0285-SHACRO",
+                    "0254-EARREB",
+                    "0118-TRAINS",
+                    "0170-POLPRE",
+                    "0300-AND",
+                    "0264-TTB",
+                    "0304-GOTTBGSE",
+                    "0149-LASTN",
+                    "0009-WEE",
+                    "0128-SHACRO",
+                    "0299-AND",
+                    "0154-7WON",
+                    "0266-COR",
+                    "0090-LOOQUE"
+                ],
+                "0294-VEGAS": [
+                    "0133-SWTQG",
+                    "0172-WOWTB",
+                    "0285-SHACRO",
+                    "0264-TTB"
+                ],
+                "0295-HEROQ": [
+                    "0133-SWTQG"
+                ],
+                "0315-STEAM": [
+                    "0133-SWTQG",
+                    "0172-WOWTB",
+                    "0285-SHACRO",
+                    "0254-EARREB",
+                    "0264-TTB"
+                ],
+                "0316-LOA": [
+                    "0133-SWTQG",
+                    "0172-WOWTB"
+                ],
+                "0317-RUNEW": [
+                    "0133-SWTQG",
+                    "0172-WOWTB"
+                ],
+                "0318-SMAWOR": [
+                    "0133-SWTQG",
+                    "0172-WOWTB"
+                ],
+                "0319-AGENTS": [
+                    "0133-SWTQG",
+                    "0172-WOWTB",
+                    "0285-SHACRO",
+                    "0254-EARREB",
+                    "0118-TRAINS",
+                    "0170-POLPRE",
+                    "0300-AND",
+                    "0264-TTB",
+                    "0304-GOTTBGSE",
+                    "0149-LASTN",
+                    "0009-WEE",
+                    "0128-SHACRO",
+                    "0299-AND",
+                    "0154-7WON",
+                    "0266-COR",
+                    "0303-CYCLA",
+                    "0001-PUERT",
+                    "0090-LOOQUE",
+                    "0267-MWA",
+                    "0234-EPC",
+                    "0253-EMIDOM",
+                    "0258-PACGROTRBS",
+                    "0145-TOBAGO",
+                    "0269-ANPO6G",
+                    "0240-WARINV",
+                    "0124-DOAI",
+                    "0270-ANDDP",
+                    "0155-EDO",
+                    "0148-COMMC",
+                    "0312-SOTM"
+                ],
+                "0320-TROYES": [
+                    "0133-SWTQG"
+                ]
+            },
+            "wants": {}
+        },
+        "Michael_Olsen": {
+            "offers": {
+                "0017-CBS": [],
+                "0018-EOTS": [
+                    "0133-SWTQG",
+                    "0172-WOWTB",
+                    "0269-ANPO6G",
+                    "0134-RUNEB",
+                    "0254-EARREB"
+                ],
+                "0019-WE1": [
+                    "0133-SWTQG"
+                ],
+                "0020-OGRE": [
+                    "0133-SWTQG"
+                ],
+                "0021-WWIBTB": [
+                    "0133-SWTQG",
+                    "0172-WOWTB",
+                    "0269-ANPO6G"
+                ],
+                "0022-HIGFRO": [
+                    "0133-SWTQG",
+                    "0172-WOWTB",
+                    "0269-ANPO6G",
+                    "0134-RUNEB",
+                    "0254-EARREB"
+                ],
+                "0023-BTTFTCG": [
+                    "0133-SWTQG",
+                    "0172-WOWTB",
+                    "0269-ANPO6G",
+                    "0134-RUNEB",
+                    "0254-EARREB",
+                    "0316-LOA",
+                    "0015-AIRCOM",
+                    "0125-LASSTA",
+                    "0084-MEM44",
+                    "0148-COMMC",
+                    "0291-MWA",
+                    "0242-MWA",
+                    "0196-TROLL",
+                    "0258-PACGROTRBS",
+                    "0265-WHEND"
+                ],
+                "0024-BOBSE": [
+                    "0133-SWTQG",
+                    "0172-WOWTB",
+                    "0269-ANPO6G",
+                    "0134-RUNEB"
+                ],
+                "0025-BOB": [
+                    "0133-SWTQG",
+                    "0172-WOWTB",
+                    "0269-ANPO6G",
+                    "0134-RUNEB",
+                    "0254-EARREB",
+                    "0316-LOA",
+                    "0015-AIRCOM",
+                    "0125-LASSTA",
+                    "0084-MEM44",
+                    "0148-COMMC",
+                    "0291-MWA",
+                    "0242-MWA",
+                    "0196-TROLL",
+                    "0258-PACGROTRBS",
+                    "0265-WHEND",
+                    "0321-ECG"
+                ],
+                "0026-MAGES": [
+                    "0133-SWTQG",
+                    "0172-WOWTB",
+                    "0269-ANPO6G",
+                    "0134-RUNEB",
+                    "0254-EARREB",
+                    "0316-LOA",
+                    "0015-AIRCOM",
+                    "0125-LASSTA",
+                    "0084-MEM44",
+                    "0148-COMMC",
+                    "0291-MWA",
+                    "0242-MWA",
+                    "0196-TROLL",
+                    "0258-PACGROTRBS",
+                    "0265-WHEND",
+                    "0321-ECG"
+                ],
+                "0027-MOSRAI": [
+                    "0133-SWTQG",
+                    "0172-WOWTB",
+                    "0269-ANPO6G",
+                    "0134-RUNEB",
+                    "0254-EARREB"
+                ],
+                "0028-SOIJ": [
+                    "0133-SWTQG",
+                    "0172-WOWTB",
+                    "0269-ANPO6G",
+                    "0134-RUNEB",
+                    "0254-EARREB"
+                ],
+                "0029-STECON": [
+                    "0133-SWTQG",
+                    "0172-WOWTB",
+                    "0269-ANPO6G",
+                    "0134-RUNEB",
+                    "0254-EARREB"
+                ],
+                "0030-SACICIT2C": [
+                    "0133-SWTQG",
+                    "0172-WOWTB",
+                    "0269-ANPO6G",
+                    "0134-RUNEB",
+                    "0254-EARREB",
+                    "0316-LOA",
+                    "0125-LASSTA"
+                ],
+                "0031-STAFLU": [
+                    "0133-SWTQG",
+                    "0172-WOWTB",
+                    "0269-ANPO6G",
+                    "0134-RUNEB",
+                    "0254-EARREB",
+                    "0316-LOA",
+                    "0015-AIRCOM",
+                    "0125-LASSTA",
+                    "0084-MEM44",
+                    "0148-COMMC",
+                    "0291-MWA",
+                    "0242-MWA",
+                    "0196-TROLL",
+                    "0258-PACGROTRBS",
+                    "0265-WHEND",
+                    "0321-ECG"
+                ],
+                "0032-COHEFSE": [
+                    "0133-SWTQG",
+                    "0172-WOWTB",
+                    "0269-ANPO6G",
+                    "0134-RUNEB",
+                    "0254-EARREB"
+                ],
+                "0033-GUNSL": [],
+                "0034-IEOTP": [
+                    "0133-SWTQG",
+                    "0172-WOWTB",
+                    "0269-ANPO6G",
+                    "0134-RUNEB",
+                    "0254-EARREB",
+                    "0316-LOA",
+                    "0015-AIRCOM"
+                ],
+                "0035-TWIIMP": [
+                    "0133-SWTQG",
+                    "0172-WOWTB"
+                ],
+                "0036-WWIPTOO": [
+                    "0133-SWTQG",
+                    "0172-WOWTB",
+                    "0269-ANPO6G",
+                    "0134-RUNEB",
+                    "0254-EARREB"
+                ],
+                "0285-SHACRO": [
+                    "0133-SWTQG",
+                    "0172-WOWTB",
+                    "0269-ANPO6G",
+                    "0134-RUNEB",
+                    "0254-EARREB"
+                ],
+                "0286-NOVCRY": [
+                    "0133-SWTQG",
+                    "0172-WOWTB",
+                    "0269-ANPO6G",
+                    "0134-RUNEB",
+                    "0254-EARREB",
+                    "0316-LOA"
+                ],
+                "0297-AND": [
+                    "0133-SWTQG",
+                    "0172-WOWTB",
+                    "0269-ANPO6G",
+                    "0134-RUNEB",
+                    "0254-EARREB",
+                    "0316-LOA",
+                    "0015-AIRCOM",
+                    "0125-LASSTA",
+                    "0084-MEM44",
+                    "0148-COMMC",
+                    "0291-MWA",
+                    "0242-MWA",
+                    "0196-TROLL"
+                ],
+                "0298-AND": [
+                    "0133-SWTQG",
+                    "0172-WOWTB",
+                    "0269-ANPO6G",
+                    "0134-RUNEB",
+                    "0254-EARREB",
+                    "0316-LOA",
+                    "0015-AIRCOM"
+                ],
+                "0299-AND": [
+                    "0133-SWTQG",
+                    "0172-WOWTB",
+                    "0269-ANPO6G",
+                    "0134-RUNEB"
+                ],
+                "0300-AND": [
+                    "0133-SWTQG",
+                    "0172-WOWTB",
+                    "0269-ANPO6G"
+                ]
+            },
+            "wants": {}
+        },
+        "MMejnholt": {
+            "offers": {
+                "0107-STE": [
+                    "0320-TROYES",
+                    "0056-MKBG",
+                    "0304-GOTTBGSE",
+                    "0119-VANUA",
+                    "0093-QUARA",
+                    "0154-7WON",
+                    "0289-SPYFA",
+                    "0008-LOTRB",
+                    "0052-BITSOC",
+                    "0013-HTG",
+                    "0084-MEM44",
+                    "0316-LOA",
+                    "0061-MOM",
+                    "0068-FODTE",
+                    "0138-REEFE",
+                    "0236-FLEET",
+                    "0170-POLPRE",
+                    "0310-SPYRI",
+                    "0149-LASTN",
+                    "0147-BLUEP",
+                    "0144-FORISL",
+                    "0244-ARCSCA",
+                    "0183-BURBAT"
+                ],
+                "0108-BLOMAN": [
+                    "0320-TROYES",
+                    "0056-MKBG",
+                    "0304-GOTTBGSE",
+                    "0119-VANUA",
+                    "0093-QUARA",
+                    "0154-7WON",
+                    "0289-SPYFA",
+                    "0008-LOTRB",
+                    "0052-BITSOC",
+                    "0013-HTG",
+                    "0084-MEM44",
+                    "0316-LOA",
+                    "0061-MOM",
+                    "0068-FODTE",
+                    "0138-REEFE",
+                    "0236-FLEET",
+                    "0170-POLPRE",
+                    "0310-SPYRI"
+                ],
+                "0234-EPC": [
+                    "0320-TROYES",
+                    "0056-MKBG",
+                    "0304-GOTTBGSE",
+                    "0119-VANUA",
+                    "0093-QUARA"
+                ],
+                "0235-GOT": [
+                    "0320-TROYES",
+                    "0056-MKBG",
+                    "0304-GOTTBGSE",
+                    "0119-VANUA",
+                    "0093-QUARA",
+                    "0154-7WON",
+                    "0289-SPYFA",
+                    "0008-LOTRB",
+                    "0052-BITSOC",
+                    "0013-HTG"
+                ],
+                "0302-DUST": [
+                    "0320-TROYES",
+                    "0056-MKBG",
+                    "0304-GOTTBGSE",
+                    "0119-VANUA",
+                    "0093-QUARA",
+                    "0154-7WON",
+                    "0289-SPYFA",
+                    "0008-LOTRB",
+                    "0052-BITSOC",
+                    "0013-HTG",
+                    "0084-MEM44",
+                    "0316-LOA",
+                    "0061-MOM",
+                    "0068-FODTE",
+                    "0138-REEFE",
+                    "0236-FLEET",
+                    "0170-POLPRE",
+                    "0310-SPYRI",
+                    "0149-LASTN",
+                    "0147-BLUEP",
+                    "0144-FORISL",
+                    "0244-ARCSCA",
+                    "0183-BURBAT",
+                    "0153-1DTCMC",
+                    "0092-PI",
+                    "0064-ZPOCA"
+                ],
+                "0303-CYCLA": [
+                    "0320-TROYES"
+                ]
+            },
+            "wants": {}
+        },
+        "Nakul": {
+            "offers": {
+                "%ShaCro": [
+                    "0128-SHACRO",
+                    "0285-SHACRO"
+                ],
+                "0158-AOF": [
+                    "0050-WQTACG"
+                ],
+                "0159-AWFUL": [
+                    "0050-WQTACG"
+                ],
+                "0160-ECG": [
+                    "0050-WQTACG"
+                ],
+                "0161-HRCGSVG": [
+                    "0050-WQTACG"
+                ],
+                "0162-MRP": [
+                    "0050-WQTACG"
+                ],
+                "0163-NOTR": [
+                    "0050-WQTACG"
+                ],
+                "0164-POWER": [
+                    "0050-WQTACG"
+                ],
+                "0165-PSOS": [
+                    "0050-WQTACG"
+                ],
+                "0166-REDAC": [
+                    "0050-WQTACG"
+                ],
+                "0167-SKITT": [
+                    "0050-WQTACG"
+                ],
+                "0168-WRECK": [
+                    "0050-WQTACG"
+                ],
+                "0169-ZIMP": [
+                    "0050-WQTACG"
+                ],
+                "0170-POLPRE": [
+                    "0050-WQTACG"
+                ],
+                "0171-GFS": [
+                    "0050-WQTACG"
+                ],
+                "0321-ECG": [
+                    "0050-WQTACG"
+                ]
+            },
+            "wants": {}
+        },
+        "parabellum76": {
+            "offers": {
+                "%ShaCro": [
+                    "0128-SHACRO",
+                    "0285-SHACRO"
+                ],
+                "0001-PUERT": [
+                    "0133-SWTQG",
+                    "0135-RUNMID",
+                    "0162-MRP",
+                    "0294-VEGAS",
+                    "0033-GUNSL"
+                ],
+                "0002-WARSTA": [
+                    "0133-SWTQG",
+                    "0135-RUNMID",
+                    "0162-MRP",
+                    "0294-VEGAS",
+                    "0033-GUNSL"
+                ],
+                "0003-MINE": [
+                    "0133-SWTQG",
+                    "0135-RUNMID",
+                    "0162-MRP",
+                    "0294-VEGAS",
+                    "0033-GUNSL"
+                ],
+                "0004-OOS": [
+                    "0133-SWTQG",
+                    "0135-RUNMID",
+                    "0162-MRP",
+                    "0294-VEGAS",
+                    "0033-GUNSL",
+                    "0145-TOBAGO"
+                ],
+                "0005-KLUMP": [
+                    "0133-SWTQG",
+                    "0135-RUNMID",
+                    "0162-MRP",
+                    "0294-VEGAS",
+                    "0033-GUNSL",
+                    "0145-TOBAGO"
+                ],
+                "0006-INFCIT": [
+                    "0133-SWTQG",
+                    "0135-RUNMID",
+                    "0162-MRP",
+                    "0294-VEGAS",
+                    "0033-GUNSL",
+                    "0145-TOBAGO"
+                ],
+                "0007-WILDE": [
+                    "0133-SWTQG",
+                    "0135-RUNMID",
+                    "0162-MRP",
+                    "0294-VEGAS",
+                    "0033-GUNSL",
+                    "0145-TOBAGO"
+                ],
+                "0008-LOTRB": [
+                    "0133-SWTQG",
+                    "0135-RUNMID",
+                    "0162-MRP",
+                    "0294-VEGAS",
+                    "0033-GUNSL"
+                ],
+                "0009-WEE": [
+                    "0133-SWTQG",
+                    "0135-RUNMID",
+                    "0162-MRP",
+                    "0294-VEGAS",
+                    "0033-GUNSL"
+                ],
+                "0010-THURN": [
+                    "0133-SWTQG",
+                    "0135-RUNMID",
+                    "0162-MRP",
+                    "0294-VEGAS",
+                    "0033-GUNSL",
+                    "0145-TOBAGO"
+                ],
+                "0011-RED7": [
+                    "0133-SWTQG",
+                    "0135-RUNMID",
+                    "0162-MRP",
+                    "0294-VEGAS",
+                    "0033-GUNSL",
+                    "0145-TOBAGO"
+                ],
+                "0012-GETBIT": [
+                    "0133-SWTQG",
+                    "0135-RUNMID",
+                    "0162-MRP",
+                    "0294-VEGAS",
+                    "0033-GUNSL",
+                    "0145-TOBAGO"
+                ],
+                "0013-HTG": [
+                    "0133-SWTQG",
+                    "0135-RUNMID",
+                    "0162-MRP",
+                    "0294-VEGAS",
+                    "0033-GUNSL"
+                ],
+                "0014-CARNOI": [
+                    "0133-SWTQG",
+                    "0135-RUNMID",
+                    "0162-MRP",
+                    "0294-VEGAS",
+                    "0033-GUNSL",
+                    "0145-TOBAGO"
+                ],
+                "0015-AIRCOM": [
+                    "0133-SWTQG",
+                    "0135-RUNMID",
+                    "0162-MRP",
+                    "0294-VEGAS",
+                    "0033-GUNSL",
+                    "0145-TOBAGO"
+                ],
+                "0016-GOT": [
+                    "0133-SWTQG",
+                    "0135-RUNMID"
+                ],
+                "0042-BOTW": [
+                    "0133-SWTQG",
+                    "0135-RUNMID",
+                    "0162-MRP",
+                    "0294-VEGAS",
+                    "0033-GUNSL",
+                    "0145-TOBAGO"
+                ],
+                "0043-ARCAN": [
+                    "0133-SWTQG",
+                    "0135-RUNMID",
+                    "0162-MRP",
+                    "0294-VEGAS",
+                    "0033-GUNSL",
+                    "0145-TOBAGO"
+                ],
+                "0044-ATS": [
+                    "0133-SWTQG",
+                    "0135-RUNMID",
+                    "0162-MRP",
+                    "0294-VEGAS",
+                    "0033-GUNSL",
+                    "0145-TOBAGO"
+                ],
+                "0045-IIGD": [
+                    "0133-SWTQG",
+                    "0135-RUNMID",
+                    "0162-MRP",
+                    "0294-VEGAS",
+                    "0033-GUNSL",
+                    "0145-TOBAGO"
+                ],
+                "0076-4SALE": [
+                    "0133-SWTQG",
+                    "0135-RUNMID",
+                    "0162-MRP",
+                    "0294-VEGAS",
+                    "0033-GUNSL",
+                    "0145-TOBAGO"
+                ],
+                "0077-BHT": [
+                    "0133-SWTQG",
+                    "0135-RUNMID",
+                    "0162-MRP",
+                    "0294-VEGAS",
+                    "0033-GUNSL",
+                    "0145-TOBAGO"
+                ],
+                "0078-RABAT": [
+                    "0133-SWTQG",
+                    "0135-RUNMID",
+                    "0162-MRP",
+                    "0294-VEGAS",
+                    "0033-GUNSL",
+                    "0145-TOBAGO"
+                ],
+                "0079-BORC": [
+                    "0133-SWTQG",
+                    "0135-RUNMID",
+                    "0162-MRP",
+                    "0294-VEGAS",
+                    "0033-GUNSL",
+                    "0145-TOBAGO"
+                ],
+                "0080-WCCG2": [
+                    "0133-SWTQG",
+                    "0135-RUNMID",
+                    "0162-MRP",
+                    "0294-VEGAS",
+                    "0033-GUNSL",
+                    "0145-TOBAGO"
+                ],
+                "0081-HNAP3": [
+                    "0133-SWTQG",
+                    "0135-RUNMID",
+                    "0162-MRP",
+                    "0294-VEGAS",
+                    "0033-GUNSL",
+                    "0145-TOBAGO"
+                ],
+                "0082-MOC": [
+                    "0133-SWTQG",
+                    "0135-RUNMID",
+                    "0162-MRP",
+                    "0294-VEGAS",
+                    "0033-GUNSL",
+                    "0145-TOBAGO"
+                ],
+                "0083-GOTWI": [
+                    "0133-SWTQG",
+                    "0135-RUNMID",
+                    "0162-MRP",
+                    "0294-VEGAS",
+                    "0033-GUNSL",
+                    "0145-TOBAGO"
+                ],
+                "0086-UNETRE": [
+                    "0133-SWTQG",
+                    "0135-RUNMID",
+                    "0162-MRP",
+                    "0294-VEGAS",
+                    "0033-GUNSL",
+                    "0145-TOBAGO"
+                ],
+                "0087-BTMBG": [
+                    "0133-SWTQG",
+                    "0135-RUNMID",
+                    "0162-MRP",
+                    "0294-VEGAS",
+                    "0033-GUNSL",
+                    "0145-TOBAGO"
+                ],
+                "0088-BAC": [
+                    "0133-SWTQG",
+                    "0135-RUNMID",
+                    "0162-MRP",
+                    "0294-VEGAS",
+                    "0033-GUNSL",
+                    "0145-TOBAGO"
+                ],
+                "0089-ITBTCG": [
+                    "0133-SWTQG",
+                    "0135-RUNMID",
+                    "0162-MRP",
+                    "0294-VEGAS",
+                    "0033-GUNSL",
+                    "0145-TOBAGO"
+                ],
+                "0090-LOOQUE": [
+                    "0133-SWTQG",
+                    "0135-RUNMID",
+                    "0162-MRP",
+                    "0294-VEGAS",
+                    "0033-GUNSL",
+                    "0145-TOBAGO"
+                ],
+                "0091-NBOTN": [
+                    "0133-SWTQG",
+                    "0135-RUNMID",
+                    "0162-MRP",
+                    "0294-VEGAS",
+                    "0033-GUNSL",
+                    "0145-TOBAGO"
+                ],
+                "0092-PI": [
+                    "0133-SWTQG",
+                    "0135-RUNMID",
+                    "0162-MRP",
+                    "0294-VEGAS",
+                    "0033-GUNSL",
+                    "0145-TOBAGO"
+                ],
+                "0093-QUARA": [
+                    "0133-SWTQG",
+                    "0135-RUNMID",
+                    "0162-MRP",
+                    "0294-VEGAS",
+                    "0033-GUNSL",
+                    "0145-TOBAGO"
+                ],
+                "0094-RBOP": [
+                    "0133-SWTQG",
+                    "0135-RUNMID",
+                    "0162-MRP",
+                    "0294-VEGAS",
+                    "0033-GUNSL",
+                    "0145-TOBAGO"
+                ],
+                "0095-ROLIT": [
+                    "0133-SWTQG",
+                    "0135-RUNMID",
+                    "0162-MRP",
+                    "0294-VEGAS",
+                    "0033-GUNSL",
+                    "0145-TOBAGO"
+                ],
+                "0096-SALDIL": [
+                    "0133-SWTQG",
+                    "0135-RUNMID",
+                    "0162-MRP",
+                    "0294-VEGAS",
+                    "0033-GUNSL",
+                    "0145-TOBAGO"
+                ],
+                "0097-SKYLI": [
+                    "0133-SWTQG",
+                    "0135-RUNMID",
+                    "0162-MRP",
+                    "0294-VEGAS",
+                    "0033-GUNSL",
+                    "0145-TOBAGO"
+                ],
+                "0098-QDK": [
+                    "0133-SWTQG",
+                    "0135-RUNMID",
+                    "0162-MRP",
+                    "0294-VEGAS",
+                    "0033-GUNSL",
+                    "0145-TOBAGO"
+                ],
+                "0099-TGBY": [
+                    "0133-SWTQG",
+                    "0135-RUNMID",
+                    "0162-MRP",
+                    "0294-VEGAS",
+                    "0033-GUNSL",
+                    "0145-TOBAGO"
+                ],
+                "0100-WWTBAM": [
+                    "0133-SWTQG",
+                    "0135-RUNMID",
+                    "0162-MRP",
+                    "0294-VEGAS",
+                    "0033-GUNSL",
+                    "0145-TOBAGO"
+                ],
+                "0101-STTLEG": [
+                    "0133-SWTQG",
+                    "0135-RUNMID",
+                    "0162-MRP",
+                    "0294-VEGAS",
+                    "0033-GUNSL",
+                    "0145-TOBAGO"
+                ],
+                "0102-MUSEL": [
+                    "0133-SWTQG",
+                    "0135-RUNMID",
+                    "0162-MRP",
+                    "0294-VEGAS",
+                    "0033-GUNSL",
+                    "0145-TOBAGO"
+                ],
+                "0137-MTN": [
+                    "0133-SWTQG",
+                    "0135-RUNMID",
+                    "0162-MRP",
+                    "0294-VEGAS",
+                    "0033-GUNSL",
+                    "0145-TOBAGO"
+                ],
+                "0157-BEZZE": [
+                    "0133-SWTQG",
+                    "0135-RUNMID",
+                    "0162-MRP",
+                    "0294-VEGAS",
+                    "0033-GUNSL",
+                    "0145-TOBAGO"
+                ],
+                "0172-WOWTB": [
+                    "0133-SWTQG",
+                    "0135-RUNMID"
+                ],
+                "0301-CARCA": [
+                    "0133-SWTQG",
+                    "0135-RUNMID",
+                    "0162-MRP",
+                    "0294-VEGAS",
+                    "0033-GUNSL",
+                    "0145-TOBAGO"
+                ]
+            },
+            "wants": {}
+        },
+        "skemmuni": {
+            "offers": {
+                "0138-REEFE": [
+                    "0320-TROYES",
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0311-LONDON",
+                    "0162-MRP",
+                    "0231-CLEOP",
+                    "0268-LAISLA",
+                    "0296-AN3",
+                    "0300-AND",
+                    "0282-SEELA",
+                    "0239-PROSP"
+                ],
+                "0146-ALCAB": [
+                    "0320-TROYES",
+                    "0084-MEM44",
+                    "0061-MOM",
+                    "0311-LONDON",
+                    "0162-MRP",
+                    "0231-CLEOP",
+                    "0268-LAISLA",
+                    "0296-AN3",
+                    "0300-AND",
+                    "0282-SEELA",
+                    "0239-PROSP",
+                    "0001-PUERT",
+                    "0076-4SALE",
+                    "0289-SPYFA",
+                    "0060-ARKHA",
+                    "0069-INCGOL",
+                    "0047-NOTHA",
+                    "0249-CARCH",
+                    "0276-CARCH",
+                    "0072-ROYALS",
+                    "0037-PERGA",
+                    "0298-AND",
+                    "0299-AND",
+                    "0314-AN1D",
+                    "0014-CARNOI",
+                    "0252-DUNROL",
+                    "0112-KILSHA"
+                ]
+            },
+            "wants": {}
+        },
+        "Taibi": {
+            "offers": {
+                "0109-ACTIO": [
+                    "0296-AN3",
+                    "0300-AND",
+                    "0299-AND",
+                    "0298-AND",
+                    "0314-AN1D",
+                    "0297-AND"
+                ],
+                "0110-ACI": [
+                    "0296-AN3",
+                    "0300-AND",
+                    "0299-AND"
+                ],
+                "0111-JRB": [],
+                "0112-KILSHA": [
+                    "0296-AN3",
+                    "0300-AND",
+                    "0299-AND"
+                ],
+                "0113-KAC": [
+                    "0296-AN3",
+                    "0300-AND",
+                    "0299-AND",
+                    "0298-AND",
+                    "0314-AN1D",
+                    "0297-AND"
+                ],
+                "0114-KRIEG": [
+                    "0296-AN3",
+                    "0300-AND",
+                    "0299-AND",
+                    "0298-AND",
+                    "0314-AN1D",
+                    "0297-AND"
+                ],
+                "0115-LONGS": [
+                    "0296-AN3",
+                    "0300-AND",
+                    "0299-AND",
+                    "0298-AND",
+                    "0314-AN1D",
+                    "0297-AND"
+                ],
+                "0116-MOV": [],
+                "0117-PLASTE": [
+                    "0296-AN3",
+                    "0300-AND"
+                ],
+                "0118-TRAINS": [],
+                "0119-VANUA": [
+                    "0296-AN3",
+                    "0300-AND",
+                    "0299-AND",
+                    "0298-AND",
+                    "0314-AN1D"
+                ],
+                "0120-FAAVS": [
+                    "0296-AN3",
+                    "0300-AND",
+                    "0299-AND",
+                    "0298-AND",
+                    "0314-AN1D",
+                    "0297-AND"
+                ],
+                "0121-EQUIN": [
+                    "0296-AN3",
+                    "0300-AND",
+                    "0299-AND",
+                    "0298-AND",
+                    "0314-AN1D",
+                    "0297-AND"
+                ],
+                "0122-HARVAC": [
+                    "0296-AN3",
+                    "0300-AND",
+                    "0299-AND",
+                    "0298-AND",
+                    "0314-AN1D",
+                    "0297-AND"
+                ],
+                "0275-BUFFY": [
+                    "0296-AN3",
+                    "0300-AND",
+                    "0299-AND"
+                ],
+                "0276-CARCH": [
+                    "0296-AN3",
+                    "0300-AND",
+                    "0299-AND",
+                    "0298-AND",
+                    "0314-AN1D"
+                ],
+                "0277-HIGFRO": [
+                    "0296-AN3",
+                    "0300-AND",
+                    "0299-AND",
+                    "0298-AND",
+                    "0314-AN1D"
+                ],
+                "0278-TOWCEN": [
+                    "0296-AN3",
+                    "0300-AND",
+                    "0299-AND",
+                    "0298-AND",
+                    "0314-AN1D"
+                ],
+                "0279-TATJGR": [
+                    "0296-AN3",
+                    "0300-AND",
+                    "0299-AND",
+                    "0298-AND",
+                    "0314-AN1D"
+                ],
+                "0280-FRONIN": [
+                    "0296-AN3",
+                    "0300-AND",
+                    "0299-AND",
+                    "0298-AND",
+                    "0314-AN1D"
+                ],
+                "0281-FRONIN": [
+                    "0296-AN3",
+                    "0300-AND",
+                    "0299-AND"
+                ],
+                "0282-SEELA": [
+                    "0296-AN3",
+                    "0300-AND",
+                    "0299-AND",
+                    "0298-AND",
+                    "0314-AN1D"
+                ],
+                "0283-ROCFLI": [],
+                "0284-LOSLEG": [
+                    "0296-AN3",
+                    "0300-AND",
+                    "0299-AND",
+                    "0298-AND",
+                    "0314-AN1D"
+                ],
+                "0308-HIGFRO": [
+                    "0296-AN3",
+                    "0300-AND",
+                    "0299-AND",
+                    "0298-AND",
+                    "0314-AN1D"
+                ]
+            },
+            "wants": {}
+        },
+        "Tarkan": {
+            "offers": {
+                "0236-FLEET": [
+                    "0056-MKBG",
+                    "0133-SWTQG",
+                    "0316-LOA",
+                    "0285-SHACRO",
+                    "0295-HEROQ",
+                    "0061-MOM",
+                    "0154-7WON",
+                    "0303-CYCLA",
+                    "0060-ARKHA",
+                    "0128-SHACRO",
+                    "0170-POLPRE",
+                    "0296-AN3",
+                    "0299-AND",
+                    "0300-AND",
+                    "0073-SMCTBG",
+                    "0312-SOTM",
+                    "0298-AND",
+                    "0314-AN1D"
+                ],
+                "0237-HTDOS": [
+                    "0056-MKBG",
+                    "0133-SWTQG",
+                    "0316-LOA",
+                    "0285-SHACRO",
+                    "0295-HEROQ",
+                    "0061-MOM",
+                    "0154-7WON",
+                    "0303-CYCLA",
+                    "0060-ARKHA",
+                    "0128-SHACRO",
+                    "0170-POLPRE",
+                    "0296-AN3",
+                    "0299-AND",
+                    "0300-AND",
+                    "0073-SMCTBG",
+                    "0312-SOTM",
+                    "0298-AND"
+                ],
+                "0238-FEINS": [
+                    "0056-MKBG",
+                    "0133-SWTQG",
+                    "0316-LOA",
+                    "0285-SHACRO",
+                    "0295-HEROQ",
+                    "0061-MOM",
+                    "0154-7WON",
+                    "0303-CYCLA",
+                    "0060-ARKHA",
+                    "0128-SHACRO",
+                    "0170-POLPRE",
+                    "0296-AN3",
+                    "0299-AND",
+                    "0300-AND",
+                    "0073-SMCTBG",
+                    "0312-SOTM",
+                    "0298-AND",
+                    "0314-AN1D",
+                    "0001-PUERT",
+                    "0145-TOBAGO",
+                    "0090-LOOQUE",
+                    "0297-AND",
+                    "0054-COCTCG"
+                ],
+                "0239-PROSP": [
+                    "0056-MKBG",
+                    "0133-SWTQG",
+                    "0316-LOA",
+                    "0285-SHACRO",
+                    "0295-HEROQ",
+                    "0061-MOM",
+                    "0154-7WON",
+                    "0303-CYCLA",
+                    "0060-ARKHA",
+                    "0128-SHACRO",
+                    "0170-POLPRE",
+                    "0296-AN3",
+                    "0299-AND",
+                    "0300-AND",
+                    "0073-SMCTBG",
+                    "0312-SOTM"
+                ],
+                "0240-WARINV": [
+                    "0056-MKBG",
+                    "0133-SWTQG",
+                    "0316-LOA",
+                    "0285-SHACRO",
+                    "0295-HEROQ",
+                    "0061-MOM",
+                    "0154-7WON",
+                    "0303-CYCLA",
+                    "0060-ARKHA",
+                    "0128-SHACRO",
+                    "0170-POLPRE",
+                    "0296-AN3",
+                    "0299-AND",
+                    "0300-AND"
+                ],
+                "0241-ANIEXP": [
+                    "0056-MKBG",
+                    "0133-SWTQG",
+                    "0316-LOA",
+                    "0285-SHACRO",
+                    "0295-HEROQ",
+                    "0061-MOM",
+                    "0154-7WON",
+                    "0303-CYCLA",
+                    "0060-ARKHA",
+                    "0128-SHACRO",
+                    "0170-POLPRE",
+                    "0296-AN3",
+                    "0299-AND",
+                    "0300-AND",
+                    "0073-SMCTBG",
+                    "0312-SOTM",
+                    "0298-AND",
+                    "0314-AN1D",
+                    "0001-PUERT",
+                    "0145-TOBAGO",
+                    "0090-LOOQUE",
+                    "0297-AND",
+                    "0054-COCTCG",
+                    "0301-CARCA",
+                    "0045-IIGD"
+                ],
+                "0271-HAUJ": [
+                    "0056-MKBG",
+                    "0133-SWTQG",
+                    "0316-LOA",
+                    "0285-SHACRO",
+                    "0295-HEROQ",
+                    "0061-MOM",
+                    "0154-7WON",
+                    "0303-CYCLA",
+                    "0060-ARKHA",
+                    "0128-SHACRO",
+                    "0170-POLPRE",
+                    "0296-AN3",
+                    "0299-AND",
+                    "0300-AND",
+                    "0073-SMCTBG",
+                    "0312-SOTM",
+                    "0298-AND"
+                ],
+                "0272-SHADO": [
+                    "0056-MKBG",
+                    "0133-SWTQG",
+                    "0316-LOA",
+                    "0285-SHACRO",
+                    "0295-HEROQ"
+                ],
+                "0273-TAKEN": [
+                    "0056-MKBG",
+                    "0133-SWTQG",
+                    "0316-LOA",
+                    "0285-SHACRO",
+                    "0295-HEROQ",
+                    "0061-MOM"
+                ],
+                "0274-WCTF": [
+                    "0056-MKBG",
+                    "0133-SWTQG",
+                    "0316-LOA",
+                    "0285-SHACRO",
+                    "0295-HEROQ",
+                    "0061-MOM",
+                    "0154-7WON",
+                    "0303-CYCLA",
+                    "0060-ARKHA",
+                    "0128-SHACRO",
+                    "0170-POLPRE",
+                    "0296-AN3",
+                    "0299-AND",
+                    "0300-AND",
+                    "0073-SMCTBG",
+                    "0312-SOTM",
+                    "0298-AND",
+                    "0314-AN1D"
+                ]
+            },
+            "wants": {}
+        },
+        "Tyfo": {
+            "offers": {
+                "0147-BLUEP": [
+                    "0056-MKBG",
+                    "0154-7WON",
+                    "0320-TROYES",
+                    "0303-CYCLA",
+                    "0001-PUERT",
+                    "0273-TAKEN",
+                    "0084-MEM44",
+                    "0145-TOBAGO",
+                    "0304-GOTTBGSE",
+                    "0316-LOA",
+                    "0148-COMMC",
+                    "0067-FRESCO",
+                    "0289-SPYFA",
+                    "0073-SMCTBG",
+                    "0060-ARKHA",
+                    "0057-INNOV",
+                    "0048-PTC",
+                    "0311-LONDON",
+                    "0068-FODTE",
+                    "0315-STEAM",
+                    "0267-MWA",
+                    "0291-MWA",
+                    "0150-SE4",
+                    "0285-SHACRO",
+                    "0149-LASTN",
+                    "0050-WQTACG",
+                    "0312-SOTM",
+                    "0258-PACGROTRBS",
+                    "0116-MOV",
+                    "0234-EPC",
+                    "0170-POLPRE",
+                    "0009-WEE",
+                    "0141-PAXPOR",
+                    "0173-THRON",
+                    "0022-HIGFRO",
+                    "0277-HIGFRO",
+                    "0308-HIGFRO",
+                    "0310-SPYRI",
+                    "0055-HOLLY",
+                    "0066-SWTCG",
+                    "0266-COR",
+                    "0296-AN3",
+                    "0298-AND",
+                    "0299-AND",
+                    "0300-AND",
+                    "0314-AN1D",
+                    "0172-WOWTB",
+                    "0054-COCTCG",
+                    "0014-CARNOI",
+                    "0155-EDO",
+                    "0052-BITSOC",
+                    "0051-GOTTCG",
+                    "0305-GOTTCG",
+                    "0062-MOMFA",
+                    "0205-GOTTCG"
+                ]
+            },
+            "wants": {}
+        },
+        "Warium": {
+            "offers": {
+                "%ShaCro": [
+                    "0285-SHACRO",
+                    "0128-SHACRO"
+                ],
+                "0142-SMAASS": [],
+                "0143-PARTN": [],
+                "0144-FORISL": [],
+                "0145-TOBAGO": [],
+                "0296-AN3": [],
+                "0314-AN1D": []
+            },
+            "wants": {}
+        }
+    },
+    "items": {
+        "0001-PUERT": {
+            "name": "Puerto Rico",
+            "owner": "Parabellum76"
+        },
+        "0002-WARSTA": {
+            "name": "Warring States",
+            "owner": "Parabellum76"
+        },
+        "0003-MINE": {
+            "name": "Mine!",
+            "owner": "Parabellum76"
+        },
+        "0004-OOS": {
+            "name": "Out of Sight",
+            "owner": "Parabellum76"
+        },
+        "0005-KLUMP": {
+            "name": "Klumpeduns",
+            "owner": "Parabellum76"
+        },
+        "0006-INFCIT": {
+            "name": "Infinite City",
+            "owner": "Parabellum76"
+        },
+        "0007-WILDE": {
+            "name": "Wilderness",
+            "owner": "Parabellum76"
+        },
+        "0008-LOTRB": {
+            "name": "Lord of the Rings: Battlefields",
+            "owner": "Parabellum76"
+        },
+        "0009-WEE": {
+            "name": "Wiz-War (eighth edition)",
+            "owner": "Parabellum76"
+        },
+        "0010-THURN": {
+            "name": "Thurn and Taxis",
+            "owner": "Parabellum76"
+        },
+        "0012-GETBIT": {
+            "name": "Get Bit!",
+            "owner": "Parabellum76"
+        },
+        "0013-HTG": {
+            "name": "Homeland: The Game",
+            "owner": "Parabellum76"
+        },
+        "0014-CARNOI": {
+            "name": "Cargo Noir",
+            "owner": "Parabellum76"
+        },
+        "0015-AIRCOM": {
+            "name": "Airborne Commander",
+            "owner": "Parabellum76"
+        },
+        "0016-GOT": {
+            "name": "Galaxy of Trian",
+            "owner": "Parabellum76"
+        },
+        "0017-CBS": {
+            "name": "Carrier Battlegroup: Solitaire",
+            "owner": "Michael_Olsen"
+        },
+        "0018-EOTS": {
+            "name": "Empire of the Sun",
+            "owner": "Michael_Olsen"
+        },
+        "0020-OGRE": {
+            "name": "Ogre",
+            "owner": "Michael_Olsen"
+        },
+        "0021-WWIBTB": {
+            "name": "World War II: Barbarossa to Berlin",
+            "owner": "Michael_Olsen"
+        },
+        "0022-HIGFRO": {
+            "name": "High Frontier",
+            "owner": "Michael_Olsen"
+        },
+        "0023-BTTFTCG": {
+            "name": "Back to the Future: The Card Game",
+            "owner": "Michael_Olsen"
+        },
+        "0024-BOBSE": {
+            "name": "Band of Brothers: Screaming Eagles",
+            "owner": "Michael_Olsen"
+        },
+        "0025-BOB": {
+            "name": "Battle Over Britain",
+            "owner": "Michael_Olsen"
+        },
+        "0026-MAGES": {
+            "name": "Magestorm",
+            "owner": "Michael_Olsen"
+        },
+        "0027-MOSRAI": {
+            "name": "Mosby's Raiders",
+            "owner": "Michael_Olsen"
+        },
+        "0028-SOIJ": {
+            "name": "The Sands of Iwo Jima",
+            "owner": "Michael_Olsen"
+        },
+        "0029-STECON": {
+            "name": "Stellar Conquest",
+            "owner": "Michael_Olsen"
+        },
+        "0031-STAFLU": {
+            "name": "Star Fluxx",
+            "owner": "Michael_Olsen"
+        },
+        "0032-COHEFSE": {
+            "name": "Conflict of Heroes: Eastern Front – Solo Expansion",
+            "owner": "Michael_Olsen"
+        },
+        "0033-GUNSL": {
+            "name": "Gunslinger",
+            "owner": "Michael_Olsen"
+        },
+        "0034-IEOTP": {
+            "name": "Innovation: Echoes of the Past",
+            "owner": "Michael_Olsen"
+        },
+        "0035-TWIIMP": {
+            "name": "Twilight Imperium",
+            "owner": "Michael_Olsen"
+        },
+        "0036-WWIPTOO": {
+            "name": "World War II: Pacific Theater of Operations",
+            "owner": "Michael_Olsen"
+        },
+        "0037-PERGA": {
+            "name": "Pergamon",
+            "owner": "Lillington"
+        },
+        "0038-SYARD": {
+            "name": "Scotland Yard",
+            "owner": "Lillington"
+        },
+        "0039-DUNBAZ": {
+            "name": "Dungeon Bazar",
+            "owner": "Lillington"
+        },
+        "0040-WORCON": {
+            "name": "World Conquerors",
+            "owner": "Lillington"
+        },
+        "0041-LIGDIC": {
+            "name": "Ligretto Dice",
+            "owner": "Lillington"
+        },
+        "0042-BOTW": {
+            "name": "Blood of the Werewolf",
+            "owner": "Parabellum76"
+        },
+        "0043-ARCAN": {
+            "name": "Arcanum",
+            "owner": "Parabellum76"
+        },
+        "0044-ATS": {
+            "name": "Alcatraz: The Scapegoat",
+            "owner": "Parabellum76"
+        },
+        "0045-IIGD": {
+            "name": "If I'm Going Down...",
+            "owner": "Parabellum76"
+        },
+        "0046-HERILR": {
+            "name": "Heroica: Ilrion",
+            "owner": "Maxxor"
+        },
+        "0047-NOTHA": {
+            "name": "No Thanks!",
+            "owner": "Maxxor"
+        },
+        "0048-PTC": {
+            "name": "Pandemic: The Cure",
+            "owner": "Maxxor"
+        },
+        "0049-SS": {
+            "name": "Sneaks & Snitches",
+            "owner": "Maxxor"
+        },
+        "0050-WQTACG": {
+            "name": "Warhammer Quest: The Adventure Card Game",
+            "owner": "Maxxor"
+        },
+        "0051-GOTTCG": {
+            "name": "A Game of Thrones: The Card Game",
+            "owner": "Maxxor"
+        },
+        "0052-BITSOC": {
+            "name": "BioShock Infinite: The Siege of Columbia",
+            "owner": "Maxxor"
+        },
+        "0053-DICTOW": {
+            "name": "Dice Town",
+            "owner": "Maxxor"
+        },
+        "0054-COCTCG": {
+            "name": "Call of Cthulhu: The Card Game",
+            "owner": "Maxxor"
+        },
+        "0055-HOLLY": {
+            "name": "Dream Factory",
+            "owner": "Maxxor"
+        },
+        "0056-MKBG": {
+            "name": "Mage Knight Board Game",
+            "owner": "Maxxor"
+        },
+        "0057-INNOV": {
+            "name": "Innovation",
+            "owner": "Maxxor"
+        },
+        "0058-INFIL": {
+            "name": "Infiltration",
+            "owner": "Maxxor"
+        },
+        "0059-WARINV": {
+            "name": "Warhammer: Invasion",
+            "owner": "Maxxor"
+        },
+        "0060-ARKHA": {
+            "name": "Arkham Horror",
+            "owner": "Maxxor"
+        },
+        "0061-MOM": {
+            "name": "Mansions of Madness",
+            "owner": "Maxxor"
+        },
+        "0062-MOMFA": {
+            "name": "Mansions of Madness: Forbidden Alchemy",
+            "owner": "Maxxor"
+        },
+        "0063-MAT": {
+            "name": "Munchkin Adventure Time",
+            "owner": "Maxxor"
+        },
+        "0064-ZPOCA": {
+            "name": "Zpocalypse",
+            "owner": "Maxxor"
+        },
+        "0065-CATAN": {
+            "name": "Catan",
+            "owner": "Maxxor"
+        },
+        "0066-SWTCG": {
+            "name": "Star Wars: The Card Game",
+            "owner": "Maxxor"
+        },
+        "0067-FRESCO": {
+            "name": "Fresco",
+            "owner": "Maxxor"
+        },
+        "0068-FODTE": {
+            "name": "Fury of Dracula (third edition)",
+            "owner": "Maxxor"
+        },
+        "0069-INCGOL": {
+            "name": "Incan Gold",
+            "owner": "Maxxor"
+        },
+        "0070-INVAD": {
+            "name": "Invaders",
+            "owner": "Maxxor"
+        },
+        "0071-QUANT": {
+            "name": "Quantum",
+            "owner": "Maxxor"
+        },
+        "0072-ROYALS": {
+            "name": "Royals",
+            "owner": "Maxxor"
+        },
+        "0073-SMCTBG": {
+            "name": "Sid Meier's Civilization: The Board Game",
+            "owner": "Maxxor"
+        },
+        "0075-ZOMBI": {
+            "name": "Zombies!!!",
+            "owner": "Maxxor"
+        },
+        "0077-BHT": {
+            "name": "Battleship: Hidden Threat",
+            "owner": "Parabellum76"
+        },
+        "0078-RABAT": {
+            "name": "Rabat",
+            "owner": "Parabellum76"
+        },
+        "0079-BORC": {
+            "name": "The Battle of Red Cliffs",
+            "owner": "Parabellum76"
+        },
+        "0082-MOC": {
+            "name": "Murder of Crows",
+            "owner": "Parabellum76"
+        },
+        "0083-GOTWI": {
+            "name": "Game of Thrones: Westeros Intrigue",
+            "owner": "Parabellum76"
+        },
+        "0085-DSP": {
+            "name": "Der schwarze Pirat",
+            "owner": "Maxxor"
+        },
+        "0086-UNETRE": {
+            "name": "Unexpected Treasures",
+            "owner": "Parabellum76"
+        },
+        "0087-BTMBG": {
+            "name": "Beowulf: The Movie Board Game",
+            "owner": "Parabellum76"
+        },
+        "0088-BAC": {
+            "name": "Bonnie and Clyde",
+            "owner": "Parabellum76"
+        },
+        "0089-ITBTCG": {
+            "name": "I'm the Boss!: The Card Game",
+            "owner": "Parabellum76"
+        },
+        "0090-LOOQUE": {
+            "name": "Loony Quest",
+            "owner": "Parabellum76"
+        },
+        "0091-NBOTN": {
+            "name": "Ninjutsu: Battle of the Ninjas",
+            "owner": "Parabellum76"
+        },
+        "0092-PI": {
+            "name": "P.I.",
+            "owner": "Parabellum76"
+        },
+        "0093-QUARA": {
+            "name": "Quarantine",
+            "owner": "Parabellum76"
+        },
+        "0094-RBOP": {
+            "name": "Risk: Balance of Power",
+            "owner": "Parabellum76"
+        },
+        "0095-ROLIT": {
+            "name": "Rolit",
+            "owner": "Parabellum76"
+        },
+        "0096-SALDIL": {
+            "name": "Salomon's Dilemma",
+            "owner": "Parabellum76"
+        },
+        "0097-SKYLI": {
+            "name": "Skyline",
+            "owner": "Parabellum76"
+        },
+        "0098-QDK": {
+            "name": "Qwixx: Das Kartenspiel",
+            "owner": "Parabellum76"
+        },
+        "0099-TGBY": {
+            "name": "Tales & Games: Baba Yaga",
+            "owner": "Parabellum76"
+        },
+        "0100-WWTBAM": {
+            "name": "Who Wants to Be a Millionaire",
+            "owner": "Parabellum76"
+        },
+        "0101-STTLEG": {
+            "name": "Stratego Legends",
+            "owner": "Parabellum76"
+        },
+        "0102-MUSEL": {
+            "name": "Muselabyrinten",
+            "owner": "Parabellum76"
+        },
+        "0103-HERAZ": {
+            "name": "Hera and Zeus",
+            "owner": "Maxxor"
+        },
+        "0104-EGO": {
+            "name": "ego",
+            "owner": "Maxxor"
+        },
+        "0105-LOTR": {
+            "name": "Lord of the Rings",
+            "owner": "Maxxor"
+        },
+        "0106-CASKNI": {
+            "name": "Castle Knights",
+            "owner": "Maxxor"
+        },
+        "0107-STE": {
+            "name": "Star Trek: Expeditions",
+            "owner": "MMejnholt"
+        },
+        "0108-BLOMAN": {
+            "name": "Block Mania",
+            "owner": "MMejnholt"
+        },
+        "0109-ACTIO": {
+            "name": "Actionworks",
+            "owner": "Taibi"
+        },
+        "0110-ACI": {
+            "name": "Ancient Conquest II",
+            "owner": "Taibi"
+        },
+        "0111-JRB": {
+            "name": "JAB: Realtime Boxing",
+            "owner": "Taibi"
+        },
+        "0112-KILSHA": {
+            "name": "Kill Shakespeare",
+            "owner": "Taibi"
+        },
+        "0113-KAC": {
+            "name": "Kings and Castles",
+            "owner": "Taibi"
+        },
+        "0114-KRIEG": {
+            "name": "Kriegbot",
+            "owner": "Taibi"
+        },
+        "0115-LONGS": {
+            "name": "Longships",
+            "owner": "Taibi"
+        },
+        "0116-MOV": {
+            "name": "Merchant of Venus",
+            "owner": "Taibi"
+        },
+        "0117-PLASTE": {
+            "name": "Planet Steam",
+            "owner": "Taibi"
+        },
+        "0118-TRAINS": {
+            "name": "Trains",
+            "owner": "Taibi"
+        },
+        "0119-VANUA": {
+            "name": "Vanuatu",
+            "owner": "Taibi"
+        },
+        "0120-FAAVS": {
+            "name": "Fire & Axe: A Viking Saga",
+            "owner": "Taibi"
+        },
+        "0121-EQUIN": {
+            "name": "Equinox",
+            "owner": "Taibi"
+        },
+        "0122-HARVAC": {
+            "name": "Hard Vacuum",
+            "owner": "Taibi"
+        },
+        "0124-DOAI": {
+            "name": "Duel of Ages II",
+            "owner": "Goblen"
+        },
+        "0125-LASSTA": {
+            "name": "Last Starfleet",
+            "owner": "Goblen"
+        },
+        "0126-MYTHO": {
+            "name": "Mythotopia",
+            "owner": "Goblen"
+        },
+        "0127-RAOAA": {
+            "name": "Rune Age: Oath and Anvil",
+            "owner": "Goblen"
+        },
+        "0128-SHACRO": {
+            "name": "Shadowrun: Crossfire",
+            "owner": "Goblen"
+        },
+        "0129-SHITE": {
+            "name": "Shitenno",
+            "owner": "Goblen"
+        },
+        "0130-RUNAGE": {
+            "name": "Rune Age",
+            "owner": "Goblen"
+        },
+        "0131-FRAG": {
+            "name": "Frag",
+            "owner": "krangor"
+        },
+        "0132-GOBINC": {
+            "name": "Goblins, Inc.",
+            "owner": "krangor"
+        },
+        "0133-SWTQG": {
+            "name": "Star Wars: The Queen's Gambit",
+            "owner": "krangor"
+        },
+        "0134-RUNEB": {
+            "name": "Runebound (Second Edition)",
+            "owner": "krangor"
+        },
+        "0135-RUNMID": {
+            "name": "Runebound: Midnight",
+            "owner": "krangor"
+        },
+        "0136-COMPO": {
+            "name": "Compounded",
+            "owner": "krangor"
+        },
+        "0137-MTN": {
+            "name": "Mykerinos: The Nile",
+            "owner": "Parabellum76"
+        },
+        "0138-REEFE": {
+            "name": "Reef Encounter",
+            "owner": "skemmuni"
+        },
+        "0139-HIGFRO": {
+            "name": "High Frontier",
+            "owner": "GamingHobo"
+        },
+        "0140-LOS": {
+            "name": "League of Six",
+            "owner": "GamingHobo"
+        },
+        "0141-PAXPOR": {
+            "name": "Pax Porfiriana",
+            "owner": "GamingHobo"
+        },
+        "0142-SMAASS": {
+            "name": "Smart Ass",
+            "owner": "Warium"
+        },
+        "0143-PARTN": {
+            "name": "Partners",
+            "owner": "Warium"
+        },
+        "0144-FORISL": {
+            "name": "Forbidden Island",
+            "owner": "Warium"
+        },
+        "0145-TOBAGO": {
+            "name": "Tobago",
+            "owner": "Warium"
+        },
+        "0146-ALCAB": {
+            "name": "Al Cabohne",
+            "owner": "skemmuni"
+        },
+        "0147-BLUEP": {
+            "name": "Blueprints",
+            "owner": "Tyfo"
+        },
+        "0148-COMMC": {
+            "name": "Commands & Colors: Ancients",
+            "owner": "Haekle"
+        },
+        "0149-LASTN": {
+            "name": "Last Night on Earth: The Zombie Game",
+            "owner": "Haekle"
+        },
+        "0151-RDI": {
+            "name": "The Red Dragon Inn",
+            "owner": "krangor"
+        },
+        "0152-LOOT": {
+            "name": "Loot",
+            "owner": "krangor"
+        },
+        "0155-EDO": {
+            "name": "Edo",
+            "owner": "madster321"
+        },
+        "0156-EXOPL": {
+            "name": "Exoplanets",
+            "owner": "madster321"
+        },
+        "0157-BEZZE": {
+            "name": "Bezzerwizzer",
+            "owner": "Parabellum76"
+        },
+        "0158-AOF": {
+            "name": "Army of Frogs",
+            "owner": "Nakul"
+        },
+        "0159-AWFUL": {
+            "name": "The Awful Green Things From Outer Space",
+            "owner": "Nakul"
+        },
+        "0160-ECG": {
+            "name": "Epic Card Game",
+            "owner": "Nakul"
+        },
+        "0161-HRCGSVG": {
+            "name": "Hawken: Real-Time Card Game – Scout vs. Grenadier",
+            "owner": "Nakul"
+        },
+        "0162-MRP": {
+            "name": "Mission: Red Planet",
+            "owner": "Nakul"
+        },
+        "0163-NOTR": {
+            "name": "Nuns on the Run",
+            "owner": "Nakul"
+        },
+        "0164-POWER": {
+            "name": "Power",
+            "owner": "Nakul"
+        },
+        "0165-PSOS": {
+            "name": "PURGE: Sins of Science",
+            "owner": "Nakul"
+        },
+        "0166-REDAC": {
+            "name": "[redacted]",
+            "owner": "Nakul"
+        },
+        "0167-SKITT": {
+            "name": "Skittykitts",
+            "owner": "Nakul"
+        },
+        "0168-WRECK": {
+            "name": "Wreckage",
+            "owner": "Nakul"
+        },
+        "0169-ZIMP": {
+            "name": "Zombie in my Pocket",
+            "owner": "Nakul"
+        },
+        "0170-POLPRE": {
+            "name": "Police Precinct",
+            "owner": "Nakul"
+        },
+        "0171-GFS": {
+            "name": "Gunship: First Strike!",
+            "owner": "Nakul"
+        },
+        "0172-WOWTB": {
+            "name": "World of Warcraft: The Boardgame",
+            "owner": "Parabellum76"
+        },
+        "0173-THRON": {
+            "name": "A Game of Thrones (first edition)",
+            "owner": "l-hansen"
+        },
+        "0174-APR": {
+            "name": "Aber p  Rov",
+            "owner": "l-hansen"
+        },
+        "0175-AGGRA": {
+            "name": "Aggravation",
+            "owner": "l-hansen"
+        },
+        "0176-ARTIC": {
+            "name": "Articulate!",
+            "owner": "l-hansen"
+        },
+        "0177-BANG": {
+            "name": "BANG!",
+            "owner": "l-hansen"
+        },
+        "0178-ARCAN": {
+            "name": "Arcanum",
+            "owner": "l-hansen"
+        },
+        "0179-ALCAT": {
+            "name": "Alcatraz",
+            "owner": "l-hansen"
+        },
+        "0180-BIGBAD": {
+            "name": "Big Badaboom",
+            "owner": "l-hansen"
+        },
+        "0181-BARBA": {
+            "name": "Barbarossa",
+            "owner": "l-hansen"
+        },
+        "0182-BAKARI": {
+            "name": "Bakari",
+            "owner": "l-hansen"
+        },
+        "0183-BURBAT": {
+            "name": "Burger Battle",
+            "owner": "l-hansen"
+        },
+        "0184-BAEVM": {
+            "name": "Burg Appenzell Erweiterung: V llig mausgeflippt",
+            "owner": "l-hansen"
+        },
+        "0185-DOK": {
+            "name": "Dragons of Kir",
+            "owner": "l-hansen"
+        },
+        "0186-DED": {
+            "name": "Dog Eat Dog",
+            "owner": "l-hansen"
+        },
+        "0187-CPP": {
+            "name": "Crocodile Pool Party",
+            "owner": "l-hansen"
+        },
+        "0188-COUP": {
+            "name": "Coup",
+            "owner": "l-hansen"
+        },
+        "0189-CPACHP": {
+            "name": "Castle Panic: Any Color Hero Promo",
+            "owner": "l-hansen"
+        },
+        "0190-BROKER": {
+            "name": "Broker",
+            "owner": "l-hansen"
+        },
+        "0191-CTEC": {
+            "name": "Coloretto: The Extra Cards",
+            "owner": "l-hansen"
+        },
+        "0192-ELCAB": {
+            "name": "El Caballero",
+            "owner": "l-hansen"
+        },
+        "0193-BAGQFM": {
+            "name": "Bionicle Adventure Game: Quest For Makuta",
+            "owner": "l-hansen"
+        },
+        "0194-CCC": {
+            "name": "Citadel Combat Cards",
+            "owner": "l-hansen"
+        },
+        "0195-ETCG": {
+            "name": "Euphrates & Tigris: Contest of Kings",
+            "owner": "l-hansen"
+        },
+        "0196-TROLL": {
+            "name": "Cave Troll",
+            "owner": "l-hansen"
+        },
+        "0197-DARCUL": {
+            "name": "Dark Cults",
+            "owner": "l-hansen"
+        },
+        "0198-CC": {
+            "name": "Creatures & Cultists",
+            "owner": "l-hansen"
+        },
+        "0199-CONTLTWATWTLON": {
+            "name": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe – The Liberation of Narnia",
+            "owner": "l-hansen"
+        },
+        "0200-GALEKS": {
+            "name": "Galathea ekspeditionen",
+            "owner": "l-hansen"
+        },
+        "0201-PICTI": {
+            "name": "Pictionary",
+            "owner": "l-hansen"
+        },
+        "0202-HTDOS": {
+            "name": "The Hobbit: The Defeat of Smaug",
+            "owner": "l-hansen"
+        },
+        "0203-LOTR": {
+            "name": "Lord of the Rings",
+            "owner": "l-hansen"
+        },
+        "0204-MOVEIT": {
+            "name": "Move It",
+            "owner": "l-hansen"
+        },
+        "0205-GOTTCG": {
+            "name": "Game of Thrones: The Card Game",
+            "owner": "l-hansen"
+        },
+        "0206-WBL": {
+            "name": "WiseMan: Beyond Luck",
+            "owner": "l-hansen"
+        },
+        "0207-HUNHIG": {
+            "name": "Hungry Higgs",
+            "owner": "l-hansen"
+        },
+        "0208-HCG": {
+            "name": "The Hobbit Card Game",
+            "owner": "l-hansen"
+        },
+        "0210-MOBPIC": {
+            "name": "Moby Pick",
+            "owner": "l-hansen"
+        },
+        "0211-LUPUS": {
+            "name": "Lupusburg",
+            "owner": "l-hansen"
+        },
+        "0212-WANIGO": {
+            "name": "Wanted: Igor!",
+            "owner": "l-hansen"
+        },
+        "0213-COE": {
+            "name": "Chicken or Egg?",
+            "owner": "l-hansen"
+        },
+        "0214-KINGD": {
+            "name": "Kingdoms",
+            "owner": "l-hansen"
+        },
+        "0215-LDRH": {
+            "name": "Little Dead Riding Hood",
+            "owner": "l-hansen"
+        },
+        "0216-MERMAZ": {
+            "name": "Mertwig's Maze",
+            "owner": "l-hansen"
+        },
+        "0217-WCMFG": {
+            "name": "Winx Club Magical Fairy Game",
+            "owner": "l-hansen"
+        },
+        "0218-GNUMI": {
+            "name": "The Gnumies",
+            "owner": "l-hansen"
+        },
+        "0219-MAGIN": {
+            "name": "Maginor",
+            "owner": "l-hansen"
+        },
+        "0220-GOSU": {
+            "name": "GOSU",
+            "owner": "l-hansen"
+        },
+        "0221-WAAB": {
+            "name": "Warhammer Armies: Army Books",
+            "owner": "l-hansen"
+        },
+        "0226-HHA": {
+            "name": "Het Huis Anubis",
+            "owner": "l-hansen"
+        },
+        "0227-MONMAY": {
+            "name": "Monster Mayhem",
+            "owner": "l-hansen"
+        },
+        "0228-TAXA": {
+            "name": "Taxa",
+            "owner": "l-hansen"
+        },
+        "0229-STOHJD": {
+            "name": "Stormfulde H jder",
+            "owner": "l-hansen"
+        },
+        "0230-BVSE": {
+            "name": "BabeQuest: Viking-Con Special Edition",
+            "owner": "l-hansen"
+        },
+        "0231-CLEOP": {
+            "name": "Cleopatra and the Society of Architects",
+            "owner": "l-hansen"
+        },
+        "0232-DDCG": {
+            "name": "Deathtrap Dungeon: Card Game",
+            "owner": "l-hansen"
+        },
+        "0233-ENTRO": {
+            "name": "Entropy",
+            "owner": "GamingHobo"
+        },
+        "0234-EPC": {
+            "name": "Exodus: Proxima Centauri",
+            "owner": "MMejnholt"
+        },
+        "0235-GOT": {
+            "name": "Galaxy of Trian",
+            "owner": "MMejnholt"
+        },
+        "0236-FLEET": {
+            "name": "Fleet",
+            "owner": "Tarkan"
+        },
+        "0237-HTDOS": {
+            "name": "The Hobbit: The Desolation of Smaug",
+            "owner": "Tarkan"
+        },
+        "0238-FEINS": {
+            "name": "Feinschmecker",
+            "owner": "Tarkan"
+        },
+        "0239-PROSP": {
+            "name": "Prosperity",
+            "owner": "Tarkan"
+        },
+        "0240-WARINV": {
+            "name": "Warhammer: Invasion",
+            "owner": "Tarkan"
+        },
+        "0241-ANIEXP": {
+            "name": "Animal Express",
+            "owner": "Tarkan"
+        },
+        "0242-MWA": {
+            "name": "Mage Wars Academy",
+            "owner": "krangor"
+        },
+        "0265-WHEND": {
+            "name": "When Darkness Comes",
+            "owner": "krangor"
+        },
+        "0266-COR": {
+            "name": "City of Remnants",
+            "owner": "GamingHobo"
+        },
+        "0267-MWA": {
+            "name": "Mage Wars Arena",
+            "owner": "madster321"
+        },
+        "0268-LAISLA": {
+            "name": "La Isla",
+            "owner": "madster321"
+        },
+        "0270-ANDDP": {
+            "name": "Alt Name: Danish Design Pack",
+            "owner": "madster321"
+        },
+        "0271-HAUJ": {
+            "name": "The Hobbit: An Unexpected Journey",
+            "owner": "Tarkan"
+        },
+        "0272-SHADO": {
+            "name": "Shadowrift",
+            "owner": "Tarkan"
+        },
+        "0273-TAKEN": {
+            "name": "Takenoko",
+            "owner": "Tarkan"
+        },
+        "0274-WCTF": {
+            "name": "World Cup Tournament Football",
+            "owner": "Tarkan"
+        },
+        "0275-BUFFY": {
+            "name": "Buffy the Vampire Slayer: The Game",
+            "owner": "Taibi"
+        },
+        "0276-CARCH": {
+            "name": "Carcassonne: Hunters and Gatherers",
+            "owner": "Taibi"
+        },
+        "0277-HIGFRO": {
+            "name": "High Frontier",
+            "owner": "Taibi"
+        },
+        "0278-TOWCEN": {
+            "name": "Town Center",
+            "owner": "Taibi"
+        },
+        "0279-TATJGR": {
+            "name": "Tier auf Tier: Jetzt geht's rund!",
+            "owner": "Taibi"
+        },
+        "0280-FRONIN": {
+            "name": "The Front Nine",
+            "owner": "Taibi"
+        },
+        "0281-FRONIN": {
+            "name": "The Front Nine",
+            "owner": "Taibi"
+        },
+        "0282-SEELA": {
+            "name": "Seeland",
+            "owner": "Taibi"
+        },
+        "0283-ROCFLI": {
+            "name": "Rocket Flight",
+            "owner": "Taibi"
+        },
+        "0284-LOSLEG": {
+            "name": "Lost Legends",
+            "owner": "Taibi"
+        },
+        "0285-SHACRO": {
+            "name": "Shadowrun: Crossfire",
+            "owner": "Michael_Olsen"
+        },
+        "0286-NOVCRY": {
+            "name": "Nova Cry",
+            "owner": "Michael_Olsen"
+        },
+        "0288-WFBBFSP": {
+            "name": "Warhammer Fantasy Battle: Battle For Skull Pass",
+            "owner": "Maxxor"
+        },
+        "0289-SPYFA": {
+            "name": "Spyfall",
+            "owner": "Maxxor"
+        },
+        "0290-MDMAVX": {
+            "name": "Marvel Dice Masters: Avengers vs. X-Men",
+            "owner": "Maxxor"
+        },
+        "0291-MWA": {
+            "name": "Mage Wars Arena",
+            "owner": "Maxxor"
+        },
+        "0292-DDTFABGEWEP": {
+            "name": "Dungeons & Dragons: The Fantasy Adventure Board Game – Eternal Winter Expansion Pack",
+            "owner": "Maxxor"
+        },
+        "0293-DDBG": {
+            "name": "Dungeons & Dragons Basic Game",
+            "owner": "Maxxor"
+        },
+        "0294-VEGAS": {
+            "name": "Vegas Showdown",
+            "owner": "Maxxor"
+        },
+        "0295-HEROQ": {
+            "name": "HeroQuest",
+            "owner": "Maxxor"
+        },
+        "0297-AND": {
+            "name": "Alt Name: DKK100",
+            "owner": "Michael_Olsen"
+        },
+        "0298-AND": {
+            "name": "Alt Name: DKK150",
+            "owner": "Michael_Olsen"
+        },
+        "0299-AND": {
+            "name": "Alt Name: DKK200",
+            "owner": "Michael_Olsen"
+        },
+        "0300-AND": {
+            "name": "Alt Name: DKK250",
+            "owner": "Michael_Olsen"
+        },
+        "0301-CARCA": {
+            "name": "Carcassonne",
+            "owner": "Parabellum76"
+        },
+        "0302-DUST": {
+            "name": "Dust",
+            "owner": "MMejnholt"
+        },
+        "0303-CYCLA": {
+            "name": "Cyclades",
+            "owner": "MMejnholt"
+        },
+        "0304-GOTTBGSE": {
+            "name": "A Game of Thrones: The Board Game (Second Edition)",
+            "owner": "fluidgmx"
+        },
+        "0305-GOTTCG": {
+            "name": "A Game of Thrones: The Card Game",
+            "owner": "fluidgmx"
+        },
+        "0306-SCAND": {
+            "name": "Scandaroon",
+            "owner": "fluidgmx"
+        },
+        "0307-ZOMFLU": {
+            "name": "Zombie Fluxx",
+            "owner": "fluidgmx"
+        },
+        "0308-HIGFRO": {
+            "name": "High Frontier",
+            "owner": "Taibi"
+        },
+        "0309-LLOD": {
+            "name": "Lagoon: Land of Druids",
+            "owner": "GamingHobo"
+        },
+        "0310-SPYRI": {
+            "name": "Spyrium",
+            "owner": "Brygmann17"
+        },
+        "0311-LONDON": {
+            "name": "London",
+            "owner": "Brygmann17"
+        },
+        "0312-SOTM": {
+            "name": "Sentinels of the Multiverse",
+            "owner": "Brygmann17"
+        },
+        "0313-CWE": {
+            "name": "Carcassonne: Winter Edition",
+            "owner": "Brygmann17"
+        },
+        "0315-STEAM": {
+            "name": "Age of Steam",
+            "owner": "Maxxor"
+        },
+        "0316-LOA": {
+            "name": "Legends of Andor",
+            "owner": "Maxxor"
+        },
+        "0317-RUNEW": {
+            "name": "Runewars",
+            "owner": "Maxxor"
+        },
+        "0318-SMAWOR": {
+            "name": "Small World",
+            "owner": "Maxxor"
+        },
+        "0319-AGENTS": {
+            "name": "The Agents",
+            "owner": "Maxxor"
+        },
+        "0320-TROYES": {
+            "name": "Troyes",
+            "owner": "Maxxor"
+        },
+        "0321-ECG": {
+            "name": "Epic Card Game",
+            "owner": "Nakul"
+        },
+        "%ShaCro": {
+            "name": "%ShaCro",
+            "owner": "GamingHobo"
+        },
+        "0150-SE4": {
+            "name": "0150-SE4",
+            "owner": "Haekle"
+        },
+        "%Arcan": {
+            "name": "%Arcan",
+            "owner": "krangor"
+        },
+        "%GoT": {
+            "name": "%GoT",
+            "owner": "krangor"
+        },
+        "%HigFro": {
+            "name": "%HigFro",
+            "owner": "krangor"
+        },
+        "0123-011": {
+            "name": "0123-011",
+            "owner": "krangor"
+        },
+        "0209-LOBO77": {
+            "name": "0209-LOBO77",
+            "owner": "l-hansen"
+        },
+        "0222-W4C": {
+            "name": "0222-W4C",
+            "owner": "l-hansen"
+        },
+        "0223-W4C": {
+            "name": "0223-W4C",
+            "owner": "l-hansen"
+        },
+        "0224-W4C": {
+            "name": "0224-W4C",
+            "owner": "l-hansen"
+        },
+        "0225-W4C": {
+            "name": "0225-W4C",
+            "owner": "l-hansen"
+        },
+        "0153-1DTCMC": {
+            "name": "0153-1DTCMC",
+            "owner": "madster321"
+        },
+        "0154-7WON": {
+            "name": "0154-7WON",
+            "owner": "madster321"
+        },
+        "0269-ANPO6G": {
+            "name": "0269-ANPO6G",
+            "owner": "madster321"
+        },
+        "0074-W4C": {
+            "name": "0074-W4C",
+            "owner": "Maxxor"
+        },
+        "0084-MEM44": {
+            "name": "0084-MEM44",
+            "owner": "Maxxor"
+        },
+        "0287-W4AOBR": {
+            "name": "0287-W4AOBR",
+            "owner": "Maxxor"
+        },
+        "0019-WE1": {
+            "name": "0019-WE1",
+            "owner": "Michael_Olsen"
+        },
+        "0030-SACICIT2C": {
+            "name": "0030-SACICIT2C",
+            "owner": "Michael_Olsen"
+        },
+        "0011-RED7": {
+            "name": "0011-RED7",
+            "owner": "parabellum76"
+        },
+        "0076-4SALE": {
+            "name": "0076-4SALE",
+            "owner": "parabellum76"
+        },
+        "0080-WCCG2": {
+            "name": "0080-WCCG2",
+            "owner": "parabellum76"
+        },
+        "0081-HNAP3": {
+            "name": "0081-HNAP3",
+            "owner": "parabellum76"
+        },
+        "0296-AN3": {
+            "name": "0296-AN3",
+            "owner": "Warium"
+        },
+        "0314-AN1D": {
+            "name": "0314-AN1D",
+            "owner": "Warium"
+        }
+    }
+}

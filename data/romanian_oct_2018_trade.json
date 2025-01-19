@@ -1,0 +1,5487 @@
+{
+    "users": {
+        "26october": {
+            "offers": {
+                "0208-PHASOC": [
+                    "0090-AN2L",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0088-AN1L",
+                    "0233-COISE",
+                    "0179-TORRE",
+                    "0087-AN1L",
+                    "0205-BATTL",
+                    "0086-AN1L",
+                    "0031-AROTP",
+                    "0246-WF1",
+                    "0076-OOTGC",
+                    "0038-LFW",
+                    "0071-ENDEA",
+                    "0079-POMPE",
+                    "0084-AN1L",
+                    "0085-AN1L",
+                    "0242-DOM"
+                ],
+                "0209-XALAPA": [
+                    "0090-AN2L",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0088-AN1L",
+                    "0233-COISE",
+                    "0179-TORRE",
+                    "0087-AN1L",
+                    "0205-BATTL",
+                    "0086-AN1L",
+                    "0031-AROTP",
+                    "0246-WF1",
+                    "0076-OOTGC",
+                    "0038-LFW",
+                    "0071-ENDEA",
+                    "0079-POMPE",
+                    "0084-AN1L",
+                    "0085-AN1L",
+                    "0242-DOM",
+                    "0237-DICCIT",
+                    "0161-NMBR9",
+                    "0112-KOT",
+                    "0268-BELFO",
+                    "0171-KANAG",
+                    "0150-LOSEXP",
+                    "0037-KOTPU",
+                    "0041-PSTE",
+                    "0068-TOURIA"
+                ],
+                "0210-ROBKNI": [
+                    "0090-AN2L",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0088-AN1L",
+                    "0233-COISE",
+                    "0179-TORRE",
+                    "0087-AN1L",
+                    "0205-BATTL",
+                    "0086-AN1L",
+                    "0031-AROTP",
+                    "0246-WF1",
+                    "0076-OOTGC",
+                    "0038-LFW",
+                    "0071-ENDEA",
+                    "0079-POMPE",
+                    "0084-AN1L",
+                    "0085-AN1L",
+                    "0242-DOM",
+                    "0237-DICCIT",
+                    "0161-NMBR9",
+                    "0112-KOT",
+                    "0268-BELFO",
+                    "0171-KANAG",
+                    "0150-LOSEXP",
+                    "0037-KOTPU",
+                    "0041-PSTE",
+                    "0068-TOURIA",
+                    "0030-AHTCG",
+                    "0115-SECHIT",
+                    "0001-CODEN",
+                    "0149-CHTROQ",
+                    "0022-EIGEMP",
+                    "0080-AN5L",
+                    "0081-AN5L",
+                    "0082-AN5L",
+                    "0083-AN7L",
+                    "0167-AN7L",
+                    "0252-GAME",
+                    "0026-SHEEP",
+                    "0106-SASTDG",
+                    "0027-CRAKAR",
+                    "0135-NATFLU",
+                    "0229-5SR",
+                    "0017-BITTEN"
+                ],
+                "0211-SMCTBG": [
+                    "0090-AN2L",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0088-AN1L",
+                    "0233-COISE",
+                    "0179-TORRE",
+                    "0087-AN1L",
+                    "0205-BATTL"
+                ],
+                "0212-SUM": [
+                    "0090-AN2L",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0088-AN1L",
+                    "0233-COISE",
+                    "0179-TORRE",
+                    "0087-AN1L",
+                    "0205-BATTL",
+                    "0086-AN1L",
+                    "0031-AROTP",
+                    "0246-WF1",
+                    "0076-OOTGC",
+                    "0038-LFW"
+                ],
+                "0213-ULTWAR": [
+                    "0090-AN2L",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0088-AN1L",
+                    "0233-COISE",
+                    "0179-TORRE",
+                    "0087-AN1L",
+                    "0205-BATTL",
+                    "0086-AN1L",
+                    "0031-AROTP",
+                    "0246-WF1",
+                    "0076-OOTGC",
+                    "0038-LFW",
+                    "0071-ENDEA",
+                    "0079-POMPE",
+                    "0084-AN1L",
+                    "0085-AN1L",
+                    "0242-DOM",
+                    "0237-DICCIT",
+                    "0161-NMBR9",
+                    "0112-KOT",
+                    "0268-BELFO",
+                    "0171-KANAG",
+                    "0150-LOSEXP",
+                    "0037-KOTPU",
+                    "0041-PSTE",
+                    "0068-TOURIA",
+                    "0030-AHTCG"
+                ],
+                "0214-GFF": [
+                    "0090-AN2L",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0088-AN1L",
+                    "0233-COISE",
+                    "0179-TORRE",
+                    "0087-AN1L",
+                    "0205-BATTL",
+                    "0086-AN1L",
+                    "0031-AROTP",
+                    "0246-WF1",
+                    "0076-OOTGC",
+                    "0038-LFW",
+                    "0071-ENDEA",
+                    "0079-POMPE",
+                    "0084-AN1L",
+                    "0085-AN1L",
+                    "0242-DOM",
+                    "0237-DICCIT",
+                    "0161-NMBR9"
+                ],
+                "0215-INNOV": [
+                    "0090-AN2L",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0088-AN1L",
+                    "0233-COISE",
+                    "0179-TORRE",
+                    "0087-AN1L",
+                    "0205-BATTL",
+                    "0086-AN1L",
+                    "0031-AROTP",
+                    "0246-WF1",
+                    "0076-OOTGC",
+                    "0038-LFW",
+                    "0071-ENDEA",
+                    "0079-POMPE",
+                    "0084-AN1L",
+                    "0085-AN1L"
+                ],
+                "0216-COMKL": [
+                    "0090-AN2L"
+                ],
+                "0217-DARWI": [
+                    "0090-AN2L",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0088-AN1L",
+                    "0233-COISE",
+                    "0179-TORRE",
+                    "0087-AN1L",
+                    "0205-BATTL",
+                    "0086-AN1L",
+                    "0031-AROTP",
+                    "0246-WF1",
+                    "0076-OOTGC",
+                    "0038-LFW"
+                ],
+                "0218-DREAM": [
+                    "0090-AN2L",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0088-AN1L"
+                ],
+                "0219-DUNFIG": [
+                    "0090-AN2L",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0088-AN1L",
+                    "0233-COISE"
+                ],
+                "0220-FORD": [
+                    "0090-AN2L",
+                    "0089-AN2L",
+                    "0274-AN2LPTB"
+                ],
+                "0221-PCOVE": [
+                    "0090-AN2L",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0088-AN1L"
+                ],
+                "0222-VOTN": [
+                    "0090-AN2L",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0088-AN1L",
+                    "0233-COISE",
+                    "0179-TORRE",
+                    "0087-AN1L",
+                    "0205-BATTL",
+                    "0086-AN1L",
+                    "0031-AROTP",
+                    "0246-WF1",
+                    "0076-OOTGC",
+                    "0038-LFW",
+                    "0071-ENDEA",
+                    "0079-POMPE",
+                    "0084-AN1L",
+                    "0085-AN1L",
+                    "0242-DOM",
+                    "0237-DICCIT",
+                    "0161-NMBR9"
+                ],
+                "0223-VERSA": [
+                    "0090-AN2L",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0088-AN1L",
+                    "0233-COISE",
+                    "0179-TORRE",
+                    "0087-AN1L",
+                    "0205-BATTL",
+                    "0086-AN1L",
+                    "0031-AROTP",
+                    "0246-WF1",
+                    "0076-OOTGC",
+                    "0038-LFW"
+                ],
+                "0224-OCEAN": [
+                    "0090-AN2L",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0088-AN1L",
+                    "0233-COISE",
+                    "0179-TORRE",
+                    "0087-AN1L"
+                ],
+                "0225-HERBA": [
+                    "0090-AN2L",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0088-AN1L",
+                    "0233-COISE",
+                    "0179-TORRE",
+                    "0087-AN1L",
+                    "0205-BATTL",
+                    "0086-AN1L",
+                    "0031-AROTP",
+                    "0246-WF1",
+                    "0076-OOTGC"
+                ],
+                "0227-MFTR": [
+                    "0090-AN2L",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0088-AN1L",
+                    "0233-COISE",
+                    "0179-TORRE",
+                    "0087-AN1L",
+                    "0205-BATTL",
+                    "0086-AN1L"
+                ]
+            }
+        },
+        "almi": {
+            "offers": {
+                "0280-SAGOBT": [
+                    "0140-GALLE",
+                    "0158-COC",
+                    "0245-COC",
+                    "0231-TLOI",
+                    "0055-AN4EVP",
+                    "0088-AN1L",
+                    "0089-AN2L",
+                    "0090-AN2L",
+                    "0274-AN2LPTB",
+                    "0077-SCYTHE",
+                    "0093-KEMET",
+                    "0117-NATIO",
+                    "0094-CRYHAV",
+                    "0005-KEYPER",
+                    "0087-AN1L",
+                    "0166-NIPPON",
+                    "0031-AROTP",
+                    "0054-AN3EVP",
+                    "0086-AN1L",
+                    "0204-PAXPAM",
+                    "0159-RTN",
+                    "0032-DOOREL"
+                ],
+                "0281-ROCKW": [
+                    "0140-GALLE",
+                    "0158-COC",
+                    "0245-COC",
+                    "0231-TLOI",
+                    "0055-AN4EVP",
+                    "0088-AN1L",
+                    "0089-AN2L",
+                    "0090-AN2L",
+                    "0274-AN2LPTB",
+                    "0077-SCYTHE",
+                    "0093-KEMET",
+                    "0117-NATIO",
+                    "0094-CRYHAV",
+                    "0005-KEYPER",
+                    "0087-AN1L",
+                    "0166-NIPPON",
+                    "0031-AROTP",
+                    "0054-AN3EVP",
+                    "0086-AN1L",
+                    "0204-PAXPAM",
+                    "0159-RTN",
+                    "0032-DOOREL",
+                    "0053-AN2EVP",
+                    "0084-AN1L",
+                    "0085-AN1L"
+                ],
+                "0282-WTTSFCG": [
+                    "0140-GALLE",
+                    "0158-COC",
+                    "0245-COC",
+                    "0231-TLOI",
+                    "0055-AN4EVP",
+                    "0088-AN1L",
+                    "0089-AN2L",
+                    "0090-AN2L",
+                    "0274-AN2LPTB",
+                    "0077-SCYTHE",
+                    "0093-KEMET",
+                    "0117-NATIO",
+                    "0094-CRYHAV",
+                    "0005-KEYPER",
+                    "0087-AN1L"
+                ],
+                "0283-BLAORC": [
+                    "0140-GALLE",
+                    "0158-COC",
+                    "0245-COC",
+                    "0231-TLOI",
+                    "0055-AN4EVP",
+                    "0088-AN1L",
+                    "0089-AN2L",
+                    "0090-AN2L",
+                    "0274-AN2LPTB"
+                ]
+            }
+        },
+        "ammorphalisk": {
+            "offers": {
+                "0050-AN5EVP": [
+                    "0140-GALLE",
+                    "0245-COC",
+                    "0002-COLON",
+                    "0184-GTAE",
+                    "0231-TLOI",
+                    "0156-POH",
+                    "0005-KEYPER",
+                    "0195-DUNPET",
+                    "0070-ALIFRO",
+                    "0158-COC",
+                    "0241-AOEAD",
+                    "0188-MERLIN",
+                    "0234-MADEI",
+                    "0169-ROUHOU",
+                    "0267-ROUHOU",
+                    "0157-MINER",
+                    "0181-GWT",
+                    "0193-CYCLA",
+                    "0216-COMKL",
+                    "0043-SIGNO",
+                    "0170-QUANT",
+                    "0100-TAKEN",
+                    "0094-CRYHAV",
+                    "0006-OOD",
+                    "0271-LUNA",
+                    "0180-CV",
+                    "0091-PHOTO",
+                    "0111-PHOTO",
+                    "0196-CSR",
+                    "0073-SNOTAI",
+                    "0227-MFTR",
+                    "0237-DICCIT",
+                    "0232-RAPTOR"
+                ],
+                "0051-AN1EVP": [
+                    "0140-GALLE",
+                    "0245-COC",
+                    "0002-COLON",
+                    "0184-GTAE",
+                    "0231-TLOI",
+                    "0156-POH",
+                    "0005-KEYPER",
+                    "0195-DUNPET",
+                    "0070-ALIFRO",
+                    "0158-COC",
+                    "0241-AOEAD",
+                    "0188-MERLIN",
+                    "0234-MADEI",
+                    "0169-ROUHOU",
+                    "0267-ROUHOU",
+                    "0157-MINER",
+                    "0181-GWT",
+                    "0193-CYCLA",
+                    "0216-COMKL",
+                    "0043-SIGNO",
+                    "0170-QUANT",
+                    "0100-TAKEN",
+                    "0094-CRYHAV",
+                    "0006-OOD",
+                    "0271-LUNA",
+                    "0180-CV",
+                    "0091-PHOTO",
+                    "0111-PHOTO",
+                    "0196-CSR",
+                    "0073-SNOTAI",
+                    "0227-MFTR",
+                    "0237-DICCIT",
+                    "0232-RAPTOR"
+                ],
+                "0052-AN1EVP": [
+                    "0140-GALLE",
+                    "0245-COC",
+                    "0002-COLON",
+                    "0184-GTAE",
+                    "0231-TLOI",
+                    "0156-POH",
+                    "0005-KEYPER",
+                    "0195-DUNPET",
+                    "0070-ALIFRO",
+                    "0158-COC",
+                    "0241-AOEAD",
+                    "0188-MERLIN",
+                    "0234-MADEI",
+                    "0169-ROUHOU",
+                    "0267-ROUHOU",
+                    "0157-MINER",
+                    "0181-GWT",
+                    "0193-CYCLA",
+                    "0216-COMKL",
+                    "0043-SIGNO",
+                    "0170-QUANT",
+                    "0100-TAKEN",
+                    "0094-CRYHAV",
+                    "0006-OOD",
+                    "0271-LUNA",
+                    "0180-CV",
+                    "0091-PHOTO",
+                    "0111-PHOTO",
+                    "0196-CSR",
+                    "0073-SNOTAI"
+                ],
+                "0053-AN2EVP": [
+                    "0140-GALLE",
+                    "0245-COC",
+                    "0002-COLON",
+                    "0184-GTAE",
+                    "0231-TLOI",
+                    "0156-POH",
+                    "0005-KEYPER",
+                    "0195-DUNPET",
+                    "0070-ALIFRO",
+                    "0158-COC",
+                    "0241-AOEAD",
+                    "0188-MERLIN",
+                    "0234-MADEI",
+                    "0169-ROUHOU",
+                    "0267-ROUHOU",
+                    "0157-MINER",
+                    "0181-GWT",
+                    "0193-CYCLA",
+                    "0216-COMKL",
+                    "0170-QUANT"
+                ],
+                "0054-AN3EVP": [
+                    "0140-GALLE",
+                    "0245-COC",
+                    "0002-COLON",
+                    "0184-GTAE"
+                ],
+                "0055-AN4EVP": [
+                    "0140-GALLE"
+                ],
+                "0056-VIKIN": [
+                    "0140-GALLE",
+                    "0245-COC",
+                    "0002-COLON"
+                ],
+                "0057-COI": [
+                    "0140-GALLE",
+                    "0245-COC",
+                    "0002-COLON",
+                    "0184-GTAE",
+                    "0231-TLOI",
+                    "0156-POH",
+                    "0005-KEYPER",
+                    "0195-DUNPET",
+                    "0070-ALIFRO",
+                    "0158-COC",
+                    "0241-AOEAD",
+                    "0188-MERLIN"
+                ],
+                "0058-STEWOR": [],
+                "0059-PGTFS": [
+                    "0140-GALLE",
+                    "0245-COC",
+                    "0002-COLON",
+                    "0184-GTAE",
+                    "0231-TLOI",
+                    "0156-POH",
+                    "0005-KEYPER",
+                    "0195-DUNPET",
+                    "0070-ALIFRO",
+                    "0158-COC",
+                    "0241-AOEAD",
+                    "0188-MERLIN"
+                ],
+                "0060-LASVEG": [
+                    "0140-GALLE"
+                ],
+                "0061-KLORUS": [
+                    "0140-GALLE",
+                    "0245-COC",
+                    "0002-COLON",
+                    "0184-GTAE",
+                    "0231-TLOI",
+                    "0156-POH",
+                    "0005-KEYPER",
+                    "0195-DUNPET",
+                    "0070-ALIFRO",
+                    "0158-COC",
+                    "0241-AOEAD",
+                    "0188-MERLIN",
+                    "0169-ROUHOU",
+                    "0267-ROUHOU",
+                    "0157-MINER",
+                    "0170-QUANT"
+                ],
+                "0062-GREEN": [],
+                "0063-ITE": [],
+                "0064-FINCA": [
+                    "0140-GALLE",
+                    "0245-COC",
+                    "0002-COLON",
+                    "0184-GTAE",
+                    "0231-TLOI",
+                    "0156-POH",
+                    "0005-KEYPER",
+                    "0070-ALIFRO"
+                ],
+                "0065-SYLVI": [
+                    "0140-GALLE",
+                    "0245-COC",
+                    "0002-COLON",
+                    "0184-GTAE",
+                    "0231-TLOI",
+                    "0156-POH",
+                    "0005-KEYPER",
+                    "0195-DUNPET",
+                    "0070-ALIFRO",
+                    "0158-COC",
+                    "0241-AOEAD",
+                    "0188-MERLIN",
+                    "0169-ROUHOU",
+                    "0267-ROUHOU",
+                    "0157-MINER",
+                    "0170-QUANT"
+                ],
+                "0066-AOD": [
+                    "0140-GALLE",
+                    "0245-COC",
+                    "0002-COLON",
+                    "0184-GTAE",
+                    "0231-TLOI",
+                    "0156-POH",
+                    "0005-KEYPER",
+                    "0195-DUNPET",
+                    "0070-ALIFRO",
+                    "0158-COC",
+                    "0241-AOEAD",
+                    "0188-MERLIN",
+                    "0234-MADEI",
+                    "0169-ROUHOU",
+                    "0267-ROUHOU",
+                    "0157-MINER",
+                    "0181-GWT",
+                    "0193-CYCLA",
+                    "0216-COMKL",
+                    "0043-SIGNO",
+                    "0170-QUANT",
+                    "0100-TAKEN",
+                    "0094-CRYHAV",
+                    "0271-LUNA",
+                    "0180-CV",
+                    "0091-PHOTO",
+                    "0111-PHOTO",
+                    "0196-CSR",
+                    "0073-SNOTAI",
+                    "0227-MFTR",
+                    "0237-DICCIT",
+                    "0232-RAPTOR"
+                ],
+                "0067-LOX": [
+                    "0140-GALLE",
+                    "0245-COC",
+                    "0002-COLON",
+                    "0184-GTAE",
+                    "0231-TLOI",
+                    "0156-POH",
+                    "0005-KEYPER",
+                    "0195-DUNPET",
+                    "0070-ALIFRO",
+                    "0158-COC",
+                    "0241-AOEAD",
+                    "0188-MERLIN"
+                ],
+                "0068-TOURIA": [
+                    "0140-GALLE",
+                    "0245-COC",
+                    "0002-COLON",
+                    "0184-GTAE",
+                    "0231-TLOI",
+                    "0156-POH",
+                    "0005-KEYPER",
+                    "0195-DUNPET",
+                    "0070-ALIFRO",
+                    "0158-COC",
+                    "0241-AOEAD",
+                    "0188-MERLIN",
+                    "0169-ROUHOU",
+                    "0267-ROUHOU",
+                    "0157-MINER",
+                    "0170-QUANT"
+                ],
+                "0069-SES": [
+                    "0140-GALLE",
+                    "0245-COC",
+                    "0002-COLON",
+                    "0184-GTAE",
+                    "0231-TLOI",
+                    "0156-POH",
+                    "0005-KEYPER",
+                    "0070-ALIFRO"
+                ]
+            }
+        },
+        "AngelEye": {
+            "offers": {
+                "0241-AOEAD": [
+                    "0077-SCYTHE",
+                    "0093-KEMET",
+                    "0070-ALIFRO",
+                    "0090-AN2L"
+                ],
+                "0242-DOM": [
+                    "0077-SCYTHE",
+                    "0093-KEMET",
+                    "0070-ALIFRO",
+                    "0090-AN2L",
+                    "0189-DOMSPE",
+                    "0140-GALLE",
+                    "0231-TLOI",
+                    "0094-CRYHAV",
+                    "0005-KEYPER",
+                    "0055-AN4EVP",
+                    "0088-AN1L",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0279-FIVTRI",
+                    "0234-MADEI",
+                    "0074-EMIDOM",
+                    "0188-MERLIN",
+                    "0060-LASVEG",
+                    "0006-OOD",
+                    "0156-POH",
+                    "0096-SMAUP",
+                    "0043-SIGNO",
+                    "0164-VDG",
+                    "0118-SAGOBT",
+                    "0087-AN1L",
+                    "0159-RTN",
+                    "0069-SES",
+                    "0216-COMKL",
+                    "0056-VIKIN",
+                    "0054-AN3EVP",
+                    "0086-AN1L",
+                    "0137-TTREU",
+                    "0014-BLAFLE",
+                    "0227-MFTR",
+                    "0009-HERREA",
+                    "0084-AN1L",
+                    "0085-AN1L",
+                    "0204-PAXPAM",
+                    "0063-ITE",
+                    "0174-BARDG",
+                    "0194-LAISLA"
+                ],
+                "0243-EEL": [
+                    "0077-SCYTHE",
+                    "0093-KEMET",
+                    "0070-ALIFRO",
+                    "0090-AN2L",
+                    "0189-DOMSPE",
+                    "0140-GALLE",
+                    "0231-TLOI",
+                    "0094-CRYHAV",
+                    "0005-KEYPER",
+                    "0055-AN4EVP",
+                    "0088-AN1L",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0279-FIVTRI",
+                    "0234-MADEI",
+                    "0074-EMIDOM",
+                    "0188-MERLIN",
+                    "0060-LASVEG",
+                    "0006-OOD",
+                    "0156-POH",
+                    "0096-SMAUP",
+                    "0043-SIGNO",
+                    "0164-VDG",
+                    "0118-SAGOBT",
+                    "0087-AN1L",
+                    "0159-RTN",
+                    "0069-SES",
+                    "0216-COMKL",
+                    "0056-VIKIN",
+                    "0054-AN3EVP",
+                    "0086-AN1L",
+                    "0137-TTREU",
+                    "0014-BLAFLE",
+                    "0227-MFTR",
+                    "0009-HERREA",
+                    "0084-AN1L",
+                    "0085-AN1L",
+                    "0204-PAXPAM",
+                    "0063-ITE",
+                    "0174-BARDG"
+                ],
+                "0244-RTTATIA": [
+                    "0077-SCYTHE",
+                    "0093-KEMET",
+                    "0070-ALIFRO",
+                    "0090-AN2L",
+                    "0189-DOMSPE",
+                    "0140-GALLE",
+                    "0231-TLOI",
+                    "0094-CRYHAV",
+                    "0005-KEYPER",
+                    "0055-AN4EVP",
+                    "0088-AN1L",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0279-FIVTRI",
+                    "0234-MADEI",
+                    "0074-EMIDOM",
+                    "0188-MERLIN",
+                    "0060-LASVEG",
+                    "0006-OOD",
+                    "0156-POH",
+                    "0096-SMAUP",
+                    "0043-SIGNO",
+                    "0164-VDG",
+                    "0118-SAGOBT",
+                    "0087-AN1L",
+                    "0159-RTN",
+                    "0069-SES"
+                ],
+                "0246-WF1": [
+                    "0077-SCYTHE",
+                    "0093-KEMET",
+                    "0070-ALIFRO",
+                    "0090-AN2L",
+                    "0189-DOMSPE",
+                    "0140-GALLE",
+                    "0231-TLOI",
+                    "0094-CRYHAV",
+                    "0005-KEYPER",
+                    "0055-AN4EVP",
+                    "0088-AN1L",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0279-FIVTRI",
+                    "0234-MADEI",
+                    "0074-EMIDOM",
+                    "0188-MERLIN",
+                    "0060-LASVEG",
+                    "0006-OOD",
+                    "0156-POH",
+                    "0096-SMAUP",
+                    "0043-SIGNO",
+                    "0164-VDG",
+                    "0118-SAGOBT",
+                    "0087-AN1L",
+                    "0159-RTN",
+                    "0069-SES",
+                    "0216-COMKL",
+                    "0056-VIKIN",
+                    "0054-AN3EVP",
+                    "0086-AN1L",
+                    "0137-TTREU",
+                    "0014-BLAFLE",
+                    "0227-MFTR",
+                    "0009-HERREA",
+                    "0084-AN1L",
+                    "0085-AN1L",
+                    "0204-PAXPAM",
+                    "0063-ITE",
+                    "0174-BARDG",
+                    "0194-LAISLA",
+                    "0181-GWT",
+                    "0273-MEM44",
+                    "0007-TZAAR",
+                    "0224-OCEAN"
+                ],
+                "0248-VIENNA": [
+                    "0077-SCYTHE",
+                    "0093-KEMET",
+                    "0070-ALIFRO",
+                    "0090-AN2L",
+                    "0189-DOMSPE",
+                    "0140-GALLE",
+                    "0231-TLOI",
+                    "0094-CRYHAV",
+                    "0005-KEYPER",
+                    "0055-AN4EVP",
+                    "0088-AN1L",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0279-FIVTRI",
+                    "0234-MADEI",
+                    "0074-EMIDOM",
+                    "0188-MERLIN",
+                    "0060-LASVEG",
+                    "0006-OOD",
+                    "0156-POH",
+                    "0096-SMAUP",
+                    "0043-SIGNO",
+                    "0164-VDG",
+                    "0118-SAGOBT",
+                    "0087-AN1L",
+                    "0159-RTN",
+                    "0069-SES",
+                    "0216-COMKL",
+                    "0056-VIKIN",
+                    "0054-AN3EVP",
+                    "0086-AN1L",
+                    "0137-TTREU",
+                    "0014-BLAFLE",
+                    "0227-MFTR",
+                    "0009-HERREA",
+                    "0084-AN1L",
+                    "0085-AN1L",
+                    "0204-PAXPAM",
+                    "0063-ITE",
+                    "0174-BARDG",
+                    "0194-LAISLA",
+                    "0181-GWT",
+                    "0273-MEM44",
+                    "0007-TZAAR",
+                    "0224-OCEAN",
+                    "0032-DOOREL",
+                    "0025-CVLIZ"
+                ],
+                "0249-LTTODDC": [
+                    "0077-SCYTHE",
+                    "0093-KEMET",
+                    "0070-ALIFRO",
+                    "0090-AN2L",
+                    "0189-DOMSPE",
+                    "0140-GALLE",
+                    "0231-TLOI",
+                    "0094-CRYHAV",
+                    "0005-KEYPER",
+                    "0055-AN4EVP",
+                    "0088-AN1L",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0279-FIVTRI",
+                    "0234-MADEI",
+                    "0074-EMIDOM",
+                    "0188-MERLIN",
+                    "0060-LASVEG",
+                    "0006-OOD",
+                    "0156-POH",
+                    "0096-SMAUP",
+                    "0043-SIGNO",
+                    "0164-VDG",
+                    "0118-SAGOBT",
+                    "0087-AN1L",
+                    "0159-RTN",
+                    "0069-SES",
+                    "0216-COMKL",
+                    "0056-VIKIN",
+                    "0054-AN3EVP",
+                    "0086-AN1L"
+                ],
+                "0257-AGENTS": [
+                    "0077-SCYTHE",
+                    "0093-KEMET",
+                    "0070-ALIFRO",
+                    "0090-AN2L",
+                    "0189-DOMSPE",
+                    "0140-GALLE",
+                    "0231-TLOI",
+                    "0094-CRYHAV",
+                    "0005-KEYPER",
+                    "0055-AN4EVP",
+                    "0088-AN1L",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0279-FIVTRI",
+                    "0234-MADEI",
+                    "0074-EMIDOM",
+                    "0188-MERLIN",
+                    "0060-LASVEG",
+                    "0006-OOD",
+                    "0156-POH",
+                    "0096-SMAUP",
+                    "0043-SIGNO",
+                    "0164-VDG",
+                    "0118-SAGOBT",
+                    "0087-AN1L",
+                    "0159-RTN",
+                    "0069-SES",
+                    "0216-COMKL",
+                    "0056-VIKIN",
+                    "0054-AN3EVP",
+                    "0086-AN1L",
+                    "0137-TTREU",
+                    "0014-BLAFLE",
+                    "0227-MFTR",
+                    "0009-HERREA",
+                    "0084-AN1L",
+                    "0085-AN1L",
+                    "0204-PAXPAM",
+                    "0063-ITE",
+                    "0174-BARDG",
+                    "0194-LAISLA",
+                    "0181-GWT",
+                    "0273-MEM44",
+                    "0007-TZAAR",
+                    "0224-OCEAN",
+                    "0032-DOOREL",
+                    "0025-CVLIZ",
+                    "0161-NMBR9",
+                    "0146-HARBO",
+                    "0255-LEALEM",
+                    "0013-COLEXP",
+                    "0171-KANAG",
+                    "0150-LOSEXP",
+                    "0149-CHTROQ",
+                    "0176-MUNCH",
+                    "0201-EPIRES"
+                ],
+                "0258-12REA": [
+                    "0077-SCYTHE",
+                    "0093-KEMET",
+                    "0070-ALIFRO",
+                    "0090-AN2L",
+                    "0189-DOMSPE",
+                    "0140-GALLE",
+                    "0231-TLOI",
+                    "0094-CRYHAV",
+                    "0005-KEYPER",
+                    "0055-AN4EVP",
+                    "0088-AN1L",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0279-FIVTRI",
+                    "0234-MADEI",
+                    "0074-EMIDOM",
+                    "0188-MERLIN",
+                    "0060-LASVEG",
+                    "0006-OOD",
+                    "0156-POH",
+                    "0096-SMAUP",
+                    "0043-SIGNO",
+                    "0164-VDG",
+                    "0118-SAGOBT",
+                    "0087-AN1L",
+                    "0159-RTN",
+                    "0069-SES",
+                    "0216-COMKL",
+                    "0056-VIKIN",
+                    "0054-AN3EVP",
+                    "0086-AN1L",
+                    "0137-TTREU",
+                    "0014-BLAFLE"
+                ],
+                "0261-TUMROY": [
+                    "0077-SCYTHE",
+                    "0093-KEMET",
+                    "0070-ALIFRO",
+                    "0090-AN2L",
+                    "0189-DOMSPE",
+                    "0140-GALLE",
+                    "0231-TLOI",
+                    "0094-CRYHAV",
+                    "0005-KEYPER",
+                    "0055-AN4EVP",
+                    "0088-AN1L",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0279-FIVTRI",
+                    "0234-MADEI",
+                    "0074-EMIDOM",
+                    "0188-MERLIN",
+                    "0060-LASVEG",
+                    "0006-OOD",
+                    "0156-POH",
+                    "0096-SMAUP",
+                    "0043-SIGNO",
+                    "0164-VDG",
+                    "0118-SAGOBT",
+                    "0087-AN1L",
+                    "0159-RTN",
+                    "0069-SES",
+                    "0216-COMKL",
+                    "0056-VIKIN",
+                    "0054-AN3EVP",
+                    "0086-AN1L",
+                    "0137-TTREU",
+                    "0014-BLAFLE",
+                    "0227-MFTR",
+                    "0009-HERREA",
+                    "0084-AN1L",
+                    "0085-AN1L",
+                    "0204-PAXPAM",
+                    "0063-ITE",
+                    "0174-BARDG",
+                    "0194-LAISLA",
+                    "0181-GWT",
+                    "0273-MEM44",
+                    "0007-TZAAR",
+                    "0224-OCEAN",
+                    "0032-DOOREL",
+                    "0025-CVLIZ",
+                    "0161-NMBR9",
+                    "0146-HARBO",
+                    "0255-LEALEM",
+                    "0013-COLEXP",
+                    "0171-KANAG",
+                    "0150-LOSEXP",
+                    "0149-CHTROQ",
+                    "0176-MUNCH",
+                    "0201-EPIRES"
+                ],
+                "0263-W4C": [
+                    "0077-SCYTHE",
+                    "0093-KEMET",
+                    "0070-ALIFRO",
+                    "0090-AN2L",
+                    "0189-DOMSPE",
+                    "0140-GALLE",
+                    "0231-TLOI",
+                    "0094-CRYHAV",
+                    "0005-KEYPER",
+                    "0055-AN4EVP",
+                    "0088-AN1L",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0279-FIVTRI",
+                    "0234-MADEI",
+                    "0074-EMIDOM",
+                    "0188-MERLIN",
+                    "0060-LASVEG",
+                    "0006-OOD",
+                    "0156-POH",
+                    "0096-SMAUP",
+                    "0043-SIGNO",
+                    "0164-VDG",
+                    "0118-SAGOBT",
+                    "0087-AN1L",
+                    "0159-RTN",
+                    "0069-SES",
+                    "0216-COMKL",
+                    "0056-VIKIN",
+                    "0054-AN3EVP",
+                    "0086-AN1L",
+                    "0137-TTREU",
+                    "0014-BLAFLE",
+                    "0227-MFTR",
+                    "0009-HERREA",
+                    "0084-AN1L",
+                    "0085-AN1L",
+                    "0204-PAXPAM",
+                    "0063-ITE",
+                    "0174-BARDG",
+                    "0194-LAISLA",
+                    "0181-GWT",
+                    "0273-MEM44",
+                    "0007-TZAAR",
+                    "0224-OCEAN",
+                    "0032-DOOREL",
+                    "0025-CVLIZ",
+                    "0161-NMBR9",
+                    "0146-HARBO",
+                    "0255-LEALEM"
+                ],
+                "0265-MUTMEE": [
+                    "0077-SCYTHE",
+                    "0093-KEMET",
+                    "0070-ALIFRO",
+                    "0090-AN2L",
+                    "0189-DOMSPE",
+                    "0140-GALLE",
+                    "0231-TLOI",
+                    "0094-CRYHAV",
+                    "0005-KEYPER",
+                    "0055-AN4EVP",
+                    "0088-AN1L",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0279-FIVTRI",
+                    "0234-MADEI",
+                    "0074-EMIDOM",
+                    "0188-MERLIN",
+                    "0060-LASVEG",
+                    "0006-OOD",
+                    "0156-POH",
+                    "0096-SMAUP",
+                    "0043-SIGNO",
+                    "0164-VDG",
+                    "0118-SAGOBT",
+                    "0087-AN1L",
+                    "0159-RTN",
+                    "0069-SES",
+                    "0216-COMKL",
+                    "0056-VIKIN",
+                    "0054-AN3EVP",
+                    "0086-AN1L",
+                    "0137-TTREU",
+                    "0014-BLAFLE",
+                    "0227-MFTR",
+                    "0009-HERREA",
+                    "0084-AN1L",
+                    "0085-AN1L",
+                    "0204-PAXPAM",
+                    "0063-ITE",
+                    "0174-BARDG",
+                    "0194-LAISLA",
+                    "0181-GWT",
+                    "0273-MEM44",
+                    "0007-TZAAR",
+                    "0224-OCEAN",
+                    "0032-DOOREL",
+                    "0025-CVLIZ",
+                    "0161-NMBR9",
+                    "0146-HARBO",
+                    "0255-LEALEM",
+                    "0013-COLEXP",
+                    "0171-KANAG",
+                    "0150-LOSEXP",
+                    "0149-CHTROQ",
+                    "0176-MUNCH",
+                    "0201-EPIRES"
+                ],
+                "0267-ROUHOU": [
+                    "0077-SCYTHE",
+                    "0093-KEMET",
+                    "0070-ALIFRO",
+                    "0090-AN2L",
+                    "0189-DOMSPE",
+                    "0140-GALLE",
+                    "0231-TLOI",
+                    "0094-CRYHAV",
+                    "0005-KEYPER",
+                    "0055-AN4EVP",
+                    "0088-AN1L",
+                    "0089-AN2L",
+                    "0274-AN2LPTB"
+                ]
+            }
+        },
+        "arthuriovan": {
+            "offers": {
+                "0140-GALLE": [],
+                "0141-BOSS": [
+                    "0167-AN7L",
+                    "0083-AN7L"
+                ],
+                "0142-BTN": [
+                    "0084-AN1L",
+                    "0085-AN1L"
+                ],
+                "0143-RSWE": [
+                    "0084-AN1L",
+                    "0085-AN1L",
+                    "0167-AN7L",
+                    "0168-FCAATOE",
+                    "0086-AN1L",
+                    "0087-AN1L"
+                ],
+                "0144-THURN": [
+                    "0167-AN7L",
+                    "0083-AN7L",
+                    "0168-FCAATOE"
+                ],
+                "0145-VICER": [
+                    "0084-AN1L",
+                    "0085-AN1L",
+                    "0168-FCAATOE",
+                    "0086-AN1L"
+                ],
+                "0146-HARBO": [
+                    "0084-AN1L",
+                    "0085-AN1L"
+                ],
+                "0147-BMA": [
+                    "0084-AN1L",
+                    "0085-AN1L",
+                    "0167-AN7L",
+                    "0083-AN7L"
+                ],
+                "0148-LLTS": [
+                    "0080-AN5L",
+                    "0081-AN5L",
+                    "0082-AN5L"
+                ],
+                "0149-CHTROQ": [
+                    "0084-AN1L",
+                    "0085-AN1L",
+                    "0086-AN1L"
+                ],
+                "0150-LOSEXP": [
+                    "0084-AN1L",
+                    "0085-AN1L"
+                ],
+                "0151-REVOL": [
+                    "0084-AN1L",
+                    "0085-AN1L"
+                ],
+                "0152-MIND": [],
+                "0153-CHICK": [
+                    "0167-AN7L",
+                    "0083-AN7L"
+                ],
+                "0154-GOTHOTK": [
+                    "0084-AN1L",
+                    "0085-AN1L",
+                    "0167-AN7L",
+                    "0083-AN7L"
+                ],
+                "0155-YARDM": [
+                    "0084-AN1L",
+                    "0085-AN1L"
+                ]
+            }
+        },
+        "Babanel": {
+            "offers": {
+                "%CVliz": [
+                    "0025-CVLIZ",
+                    "0191-CVLIZ"
+                ],
+                "%GWT": [
+                    "0104-GWT",
+                    "0181-GWT"
+                ],
+                "%Green": [
+                    "0035-GREEN",
+                    "0062-GREEN"
+                ],
+                "%KoAaS": [
+                    "0238-KOAAS",
+                    "0254-KOAAS"
+                ],
+                "%Raptor": [
+                    "0095-RAPTOR",
+                    "0232-RAPTOR"
+                ],
+                "%SmaUp": [
+                    "0096-SMAUP",
+                    "0177-SMAUP"
+                ],
+                "0110-WWE": [],
+                "0123-ALCHE": [],
+                "0124-SFC": [],
+                "0125-CITAD": [],
+                "0126-TGA": [],
+                "0127-DIXIT": [],
+                "0128-DOMIN": [],
+                "0129-HANABI": [],
+                "0130-LAPDAN": [],
+                "0131-LASLET": [],
+                "0132-LOVLET": [],
+                "0133-MDCG": [],
+                "0134-MJP": [],
+                "0135-NATFLU": [],
+                "0136-BBOM": [],
+                "0137-TTREU": [],
+                "0138-UEA": [],
+                "0139-UMA": []
+            }
+        },
+        "Cristi84": {
+            "offers": {
+                "0099-VERSA": [
+                    "0104-GWT",
+                    "0093-KEMET",
+                    "0279-FIVTRI",
+                    "0193-CYCLA",
+                    "0272-INIS",
+                    "0260-BRUGES",
+                    "0158-COC",
+                    "0117-NATIO",
+                    "0241-AOEAD",
+                    "0211-SMCTBG",
+                    "0234-MADEI",
+                    "0271-LUNA",
+                    "0188-MERLIN",
+                    "0205-BATTL"
+                ],
+                "0100-TAKEN": [
+                    "0104-GWT",
+                    "0093-KEMET",
+                    "0279-FIVTRI",
+                    "0193-CYCLA",
+                    "0272-INIS",
+                    "0260-BRUGES",
+                    "0158-COC",
+                    "0117-NATIO",
+                    "0241-AOEAD",
+                    "0211-SMCTBG",
+                    "0234-MADEI",
+                    "0271-LUNA",
+                    "0188-MERLIN",
+                    "0205-BATTL",
+                    "0237-DICCIT",
+                    "0107-PORNIG",
+                    "0145-VICER",
+                    "0147-BMA"
+                ],
+                "0101-QUEEN": [
+                    "0104-GWT",
+                    "0093-KEMET",
+                    "0279-FIVTRI",
+                    "0193-CYCLA",
+                    "0272-INIS",
+                    "0260-BRUGES",
+                    "0158-COC",
+                    "0117-NATIO",
+                    "0241-AOEAD",
+                    "0211-SMCTBG",
+                    "0234-MADEI",
+                    "0271-LUNA",
+                    "0188-MERLIN",
+                    "0205-BATTL",
+                    "0237-DICCIT",
+                    "0107-PORNIG",
+                    "0145-VICER",
+                    "0147-BMA",
+                    "0103-DEADW"
+                ]
+            }
+        },
+        "cristianf": {
+            "offers": {
+                "0070-ALIFRO": [
+                    "0184-GTAE",
+                    "0055-AN4EVP",
+                    "0090-AN2L"
+                ],
+                "0071-ENDEA": [
+                    "0184-GTAE",
+                    "0055-AN4EVP",
+                    "0090-AN2L",
+                    "0089-AN2L"
+                ],
+                "0072-KDE": [
+                    "0184-GTAE",
+                    "0055-AN4EVP",
+                    "0090-AN2L",
+                    "0089-AN2L",
+                    "0220-FORD",
+                    "0188-MERLIN",
+                    "0088-AN1L",
+                    "0107-PORNIG",
+                    "0058-STEWOR",
+                    "0006-OOD",
+                    "0087-AN1L"
+                ],
+                "0073-SNOTAI": [
+                    "0184-GTAE",
+                    "0055-AN4EVP",
+                    "0090-AN2L",
+                    "0089-AN2L",
+                    "0220-FORD",
+                    "0188-MERLIN",
+                    "0088-AN1L",
+                    "0107-PORNIG",
+                    "0058-STEWOR",
+                    "0006-OOD",
+                    "0087-AN1L",
+                    "0054-AN3EVP",
+                    "0086-AN1L",
+                    "0076-OOTGC",
+                    "0061-KLORUS"
+                ],
+                "0074-EMIDOM": [
+                    "0184-GTAE",
+                    "0055-AN4EVP",
+                    "0090-AN2L",
+                    "0089-AN2L",
+                    "0220-FORD",
+                    "0188-MERLIN",
+                    "0088-AN1L",
+                    "0107-PORNIG",
+                    "0058-STEWOR"
+                ],
+                "0274-AN2LPTB": [
+                    "0184-GTAE"
+                ]
+            }
+        },
+        "Daniel113": {
+            "offers": {
+                "%Alche": [
+                    "0123-ALCHE",
+                    "0186-ALCHE"
+                ],
+                "%CV": [
+                    "0180-CV",
+                    "0190-CV"
+                ],
+                "%CoC": [
+                    "0158-COC",
+                    "0245-COC"
+                ],
+                "0075-HOLLY": [
+                    "0283-BLAORC",
+                    "0279-FIVTRI",
+                    "0006-OOD",
+                    "0187-COHATBSE",
+                    "0070-ALIFRO",
+                    "0273-MEM44"
+                ],
+                "0076-OOTGC": [
+                    "0283-BLAORC",
+                    "0279-FIVTRI",
+                    "0006-OOD",
+                    "0187-COHATBSE",
+                    "0070-ALIFRO",
+                    "0273-MEM44"
+                ],
+                "0077-SCYTHE": [],
+                "0078-TGTTLP": [
+                    "0283-BLAORC",
+                    "0279-FIVTRI",
+                    "0006-OOD",
+                    "0187-COHATBSE",
+                    "0070-ALIFRO",
+                    "0273-MEM44"
+                ],
+                "0079-POMPE": [
+                    "0283-BLAORC",
+                    "0279-FIVTRI",
+                    "0006-OOD",
+                    "0187-COHATBSE",
+                    "0070-ALIFRO",
+                    "0273-MEM44"
+                ],
+                "0080-AN5L": [
+                    "0283-BLAORC",
+                    "0006-OOD"
+                ],
+                "0081-AN5L": [
+                    "0283-BLAORC",
+                    "0279-FIVTRI",
+                    "0187-COHATBSE"
+                ],
+                "0082-AN5L": [
+                    "0283-BLAORC"
+                ],
+                "0083-AN7L": [
+                    "0283-BLAORC"
+                ],
+                "0084-AN1L": [
+                    "0283-BLAORC"
+                ],
+                "0085-AN1L": [
+                    "0283-BLAORC"
+                ],
+                "0086-AN1L": [
+                    "0283-BLAORC"
+                ],
+                "0087-AN1L": [],
+                "0088-AN1L": [],
+                "0089-AN2L": [],
+                "0090-AN2L": []
+            }
+        },
+        "djdano": {
+            "offers": {
+                "0001-CODEN": [
+                    "0140-GALLE",
+                    "0090-AN2L",
+                    "0055-AN4EVP",
+                    "0088-AN1L",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0093-KEMET",
+                    "0054-AN3EVP",
+                    "0086-AN1L",
+                    "0087-AN1L",
+                    "0273-MEM44",
+                    "0170-QUANT",
+                    "0012-UEA",
+                    "0139-UMA",
+                    "0149-CHTROQ",
+                    "0053-AN2EVP",
+                    "0084-AN1L",
+                    "0085-AN1L"
+                ],
+                "0002-COLON": [
+                    "0140-GALLE",
+                    "0090-AN2L",
+                    "0055-AN4EVP",
+                    "0088-AN1L",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0093-KEMET"
+                ],
+                "0003-CO": [
+                    "0140-GALLE",
+                    "0090-AN2L",
+                    "0055-AN4EVP",
+                    "0088-AN1L",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0093-KEMET",
+                    "0054-AN3EVP",
+                    "0086-AN1L",
+                    "0087-AN1L",
+                    "0273-MEM44",
+                    "0170-QUANT",
+                    "0012-UEA",
+                    "0139-UMA"
+                ],
+                "0004-ELEME": [
+                    "0140-GALLE",
+                    "0090-AN2L",
+                    "0055-AN4EVP",
+                    "0088-AN1L",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0093-KEMET",
+                    "0054-AN3EVP",
+                    "0086-AN1L",
+                    "0087-AN1L",
+                    "0273-MEM44",
+                    "0170-QUANT",
+                    "0012-UEA",
+                    "0139-UMA",
+                    "0149-CHTROQ",
+                    "0053-AN2EVP",
+                    "0084-AN1L",
+                    "0085-AN1L"
+                ],
+                "0005-KEYPER": [
+                    "0140-GALLE",
+                    "0090-AN2L",
+                    "0055-AN4EVP",
+                    "0088-AN1L",
+                    "0089-AN2L",
+                    "0274-AN2LPTB"
+                ],
+                "0006-OOD": [
+                    "0140-GALLE",
+                    "0090-AN2L",
+                    "0055-AN4EVP",
+                    "0088-AN1L",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0093-KEMET",
+                    "0054-AN3EVP",
+                    "0086-AN1L",
+                    "0087-AN1L"
+                ],
+                "0007-TZAAR": [
+                    "0140-GALLE",
+                    "0090-AN2L",
+                    "0055-AN4EVP",
+                    "0088-AN1L",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0093-KEMET",
+                    "0054-AN3EVP",
+                    "0086-AN1L",
+                    "0087-AN1L",
+                    "0273-MEM44",
+                    "0170-QUANT",
+                    "0012-UEA",
+                    "0139-UMA",
+                    "0149-CHTROQ",
+                    "0053-AN2EVP",
+                    "0084-AN1L",
+                    "0085-AN1L"
+                ],
+                "0008-ANJNMED": [],
+                "0009-HERREA": [
+                    "0140-GALLE",
+                    "0090-AN2L"
+                ]
+            }
+        },
+        "hadip": {
+            "offers": {
+                "0245-COC": [],
+                "0247-RTC": [
+                    "0140-GALLE",
+                    "0117-NATIO",
+                    "0009-HERREA",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0090-AN2L",
+                    "0274-AN2LPTB",
+                    "0193-CYCLA",
+                    "0231-TLOI",
+                    "0169-ROUHOU",
+                    "0045-SWDRSS"
+                ],
+                "0250-EDO": [
+                    "0140-GALLE",
+                    "0117-NATIO",
+                    "0009-HERREA",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0090-AN2L",
+                    "0274-AN2LPTB",
+                    "0193-CYCLA",
+                    "0231-TLOI",
+                    "0169-ROUHOU",
+                    "0045-SWDRSS"
+                ],
+                "0260-BRUGES": [
+                    "0140-GALLE",
+                    "0117-NATIO",
+                    "0009-HERREA",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0090-AN2L",
+                    "0274-AN2LPTB",
+                    "0193-CYCLA",
+                    "0231-TLOI",
+                    "0169-ROUHOU",
+                    "0045-SWDRSS",
+                    "0030-AHTCG"
+                ],
+                "0268-BELFO": [
+                    "0140-GALLE",
+                    "0117-NATIO",
+                    "0009-HERREA",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0090-AN2L",
+                    "0274-AN2LPTB"
+                ],
+                "0271-LUNA": [
+                    "0140-GALLE",
+                    "0117-NATIO",
+                    "0009-HERREA",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0090-AN2L",
+                    "0274-AN2LPTB"
+                ]
+            }
+        },
+        "iadrianik": {
+            "offers": {
+                "0251-COURT": [
+                    "0090-AN2L",
+                    "0093-KEMET",
+                    "0070-ALIFRO",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0077-SCYTHE",
+                    "0158-COC",
+                    "0245-COC",
+                    "0088-AN1L",
+                    "0094-CRYHAV",
+                    "0087-AN1L",
+                    "0054-AN3EVP",
+                    "0086-AN1L",
+                    "0280-SAGOBT",
+                    "0179-TORRE",
+                    "0084-AN1L",
+                    "0085-AN1L"
+                ],
+                "0252-GAME": [
+                    "0090-AN2L",
+                    "0093-KEMET",
+                    "0070-ALIFRO",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0077-SCYTHE",
+                    "0158-COC",
+                    "0245-COC",
+                    "0088-AN1L",
+                    "0094-CRYHAV",
+                    "0087-AN1L",
+                    "0054-AN3EVP",
+                    "0086-AN1L",
+                    "0280-SAGOBT",
+                    "0179-TORRE",
+                    "0084-AN1L",
+                    "0085-AN1L",
+                    "0053-AN2EVP",
+                    "0013-COLEXP",
+                    "0083-AN7L",
+                    "0167-AN7L",
+                    "0052-AN1EVP"
+                ],
+                "0253-HIMAL": [
+                    "0090-AN2L",
+                    "0093-KEMET",
+                    "0070-ALIFRO",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0077-SCYTHE",
+                    "0158-COC",
+                    "0245-COC",
+                    "0088-AN1L",
+                    "0094-CRYHAV",
+                    "0087-AN1L",
+                    "0054-AN3EVP",
+                    "0086-AN1L",
+                    "0280-SAGOBT"
+                ],
+                "0254-KOAAS": [
+                    "0090-AN2L",
+                    "0093-KEMET",
+                    "0070-ALIFRO",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0274-AN2LPTB"
+                ],
+                "0255-LEALEM": [
+                    "0090-AN2L",
+                    "0093-KEMET",
+                    "0070-ALIFRO",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0077-SCYTHE",
+                    "0158-COC",
+                    "0245-COC",
+                    "0088-AN1L",
+                    "0094-CRYHAV",
+                    "0087-AN1L"
+                ],
+                "0256-AFE": [
+                    "0090-AN2L",
+                    "0093-KEMET",
+                    "0070-ALIFRO",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0077-SCYTHE",
+                    "0158-COC",
+                    "0245-COC",
+                    "0088-AN1L",
+                    "0094-CRYHAV",
+                    "0087-AN1L",
+                    "0054-AN3EVP",
+                    "0086-AN1L",
+                    "0280-SAGOBT",
+                    "0179-TORRE",
+                    "0084-AN1L",
+                    "0085-AN1L"
+                ],
+                "0259-LOOLON": [
+                    "0090-AN2L",
+                    "0093-KEMET",
+                    "0070-ALIFRO",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0077-SCYTHE",
+                    "0158-COC",
+                    "0245-COC",
+                    "0088-AN1L",
+                    "0094-CRYHAV",
+                    "0087-AN1L",
+                    "0054-AN3EVP",
+                    "0086-AN1L",
+                    "0280-SAGOBT",
+                    "0179-TORRE",
+                    "0084-AN1L",
+                    "0085-AN1L",
+                    "0053-AN2EVP",
+                    "0013-COLEXP",
+                    "0083-AN7L",
+                    "0167-AN7L",
+                    "0052-AN1EVP"
+                ],
+                "0262-MONBAY": [
+                    "0090-AN2L",
+                    "0093-KEMET",
+                    "0070-ALIFRO",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0077-SCYTHE",
+                    "0158-COC",
+                    "0245-COC",
+                    "0088-AN1L",
+                    "0094-CRYHAV",
+                    "0087-AN1L",
+                    "0054-AN3EVP",
+                    "0086-AN1L",
+                    "0280-SAGOBT"
+                ],
+                "0264-PFFTH": [
+                    "0090-AN2L",
+                    "0093-KEMET",
+                    "0070-ALIFRO",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0077-SCYTHE",
+                    "0158-COC",
+                    "0245-COC",
+                    "0088-AN1L",
+                    "0094-CRYHAV"
+                ],
+                "0266-SAMUR": [
+                    "0090-AN2L",
+                    "0093-KEMET",
+                    "0070-ALIFRO",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0077-SCYTHE",
+                    "0158-COC",
+                    "0245-COC",
+                    "0088-AN1L",
+                    "0094-CRYHAV",
+                    "0087-AN1L"
+                ],
+                "0269-SHOGU": [
+                    "0090-AN2L",
+                    "0093-KEMET",
+                    "0070-ALIFRO",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0077-SCYTHE",
+                    "0158-COC",
+                    "0245-COC",
+                    "0088-AN1L",
+                    "0094-CRYHAV",
+                    "0087-AN1L"
+                ],
+                "0270-DUNROL": [
+                    "0090-AN2L",
+                    "0093-KEMET",
+                    "0070-ALIFRO",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0077-SCYTHE",
+                    "0158-COC",
+                    "0245-COC",
+                    "0088-AN1L",
+                    "0094-CRYHAV",
+                    "0087-AN1L",
+                    "0054-AN3EVP",
+                    "0086-AN1L",
+                    "0280-SAGOBT",
+                    "0179-TORRE",
+                    "0084-AN1L",
+                    "0085-AN1L",
+                    "0053-AN2EVP"
+                ],
+                "0272-INIS": [
+                    "0090-AN2L"
+                ],
+                "0273-MEM44": [
+                    "0090-AN2L",
+                    "0093-KEMET",
+                    "0070-ALIFRO",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0077-SCYTHE",
+                    "0158-COC",
+                    "0245-COC",
+                    "0088-AN1L"
+                ],
+                "0275-SMCTBG": [
+                    "0090-AN2L",
+                    "0093-KEMET",
+                    "0070-ALIFRO",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0077-SCYTHE",
+                    "0158-COC",
+                    "0245-COC",
+                    "0088-AN1L"
+                ],
+                "0276-THUND": [],
+                "0277-TARGI": [
+                    "0090-AN2L",
+                    "0093-KEMET",
+                    "0070-ALIFRO",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0077-SCYTHE",
+                    "0158-COC",
+                    "0245-COC",
+                    "0088-AN1L",
+                    "0094-CRYHAV",
+                    "0087-AN1L",
+                    "0054-AN3EVP",
+                    "0086-AN1L",
+                    "0280-SAGOBT",
+                    "0179-TORRE",
+                    "0084-AN1L",
+                    "0085-AN1L",
+                    "0053-AN2EVP",
+                    "0013-COLEXP",
+                    "0083-AN7L",
+                    "0167-AN7L",
+                    "0052-AN1EVP"
+                ],
+                "0278-PRAET": [
+                    "0090-AN2L",
+                    "0093-KEMET",
+                    "0070-ALIFRO",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0077-SCYTHE",
+                    "0158-COC",
+                    "0245-COC",
+                    "0088-AN1L",
+                    "0094-CRYHAV",
+                    "0087-AN1L",
+                    "0054-AN3EVP",
+                    "0086-AN1L",
+                    "0280-SAGOBT"
+                ]
+            }
+        },
+        "mihnea_1309": {
+            "offers": {
+                "0230-BOAE": [
+                    "0012-UEA",
+                    "0052-AN1EVP",
+                    "0083-AN7L",
+                    "0167-AN7L",
+                    "0150-LOSEXP",
+                    "0051-AN1EVP",
+                    "0080-AN5L",
+                    "0081-AN5L",
+                    "0082-AN5L"
+                ],
+                "0231-TLOI": [
+                    "0140-GALLE",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0090-AN2L",
+                    "0274-AN2LPTB"
+                ],
+                "0232-RAPTOR": [
+                    "0140-GALLE",
+                    "0002-COLON",
+                    "0187-COHATBSE",
+                    "0010-LTWOT2",
+                    "0012-UEA",
+                    "0052-AN1EVP",
+                    "0054-AN3EVP",
+                    "0083-AN7L",
+                    "0167-AN7L",
+                    "0283-BLAORC",
+                    "0114-PROCLU",
+                    "0084-AN1L",
+                    "0085-AN1L"
+                ],
+                "0233-COISE": [
+                    "0140-GALLE",
+                    "0002-COLON",
+                    "0187-COHATBSE",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0090-AN2L",
+                    "0274-AN2LPTB",
+                    "0088-AN1L"
+                ],
+                "0234-MADEI": [
+                    "0140-GALLE",
+                    "0002-COLON",
+                    "0187-COHATBSE",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0090-AN2L",
+                    "0274-AN2LPTB",
+                    "0010-LTWOT2",
+                    "0054-AN3EVP",
+                    "0088-AN1L",
+                    "0086-AN1L",
+                    "0087-AN1L"
+                ]
+            }
+        },
+        "ProfessorChaos": {
+            "offers": {
+                "%CV": [
+                    "0180-CV",
+                    "0190-CV"
+                ],
+                "%CVliz": [
+                    "0025-CVLIZ",
+                    "0191-CVLIZ"
+                ],
+                "0091-PHOTO": [
+                    "0077-SCYTHE",
+                    "0055-AN4EVP",
+                    "0088-AN1L",
+                    "0089-AN2L",
+                    "0090-AN2L",
+                    "0274-AN2LPTB",
+                    "0279-FIVTRI",
+                    "0233-COISE",
+                    "0087-AN1L",
+                    "0073-SNOTAI"
+                ],
+                "0092-FOOGOL": [
+                    "0077-SCYTHE",
+                    "0055-AN4EVP",
+                    "0088-AN1L",
+                    "0089-AN2L",
+                    "0090-AN2L",
+                    "0274-AN2LPTB",
+                    "0279-FIVTRI",
+                    "0233-COISE",
+                    "0087-AN1L",
+                    "0073-SNOTAI",
+                    "0271-LUNA",
+                    "0007-TZAAR",
+                    "0227-MFTR"
+                ],
+                "0093-KEMET": [],
+                "0094-CRYHAV": [
+                    "0077-SCYTHE",
+                    "0055-AN4EVP",
+                    "0088-AN1L",
+                    "0089-AN2L",
+                    "0090-AN2L",
+                    "0274-AN2LPTB"
+                ],
+                "0095-RAPTOR": [
+                    "0077-SCYTHE",
+                    "0055-AN4EVP",
+                    "0088-AN1L",
+                    "0089-AN2L",
+                    "0090-AN2L",
+                    "0274-AN2LPTB",
+                    "0279-FIVTRI",
+                    "0233-COISE",
+                    "0087-AN1L",
+                    "0073-SNOTAI",
+                    "0271-LUNA",
+                    "0007-TZAAR",
+                    "0227-MFTR"
+                ],
+                "0096-SMAUP": [
+                    "0077-SCYTHE",
+                    "0055-AN4EVP",
+                    "0088-AN1L",
+                    "0089-AN2L",
+                    "0090-AN2L",
+                    "0274-AN2LPTB",
+                    "0279-FIVTRI",
+                    "0233-COISE",
+                    "0087-AN1L"
+                ]
+            }
+        },
+        "rabesandratana": {
+            "offers": {
+                "%Alche": [
+                    "0123-ALCHE",
+                    "0186-ALCHE"
+                ],
+                "%CoC": [
+                    "0158-COC",
+                    "0245-COC"
+                ],
+                "%Edo": [
+                    "0028-EDO",
+                    "0226-EDO"
+                ],
+                "0102-AFRIC": [],
+                "0103-DEADW": [],
+                "0104-GWT": [],
+                "0105-COURT": [
+                    "0188-MERLIN",
+                    "0006-OOD",
+                    "0077-SCYTHE",
+                    "0140-GALLE"
+                ],
+                "0106-SASTDG": [],
+                "0107-PORNIG": [
+                    "0088-AN1L",
+                    "0089-AN2L",
+                    "0090-AN2L"
+                ],
+                "0108-PACROW": [
+                    "0188-MERLIN",
+                    "0006-OOD",
+                    "0077-SCYTHE",
+                    "0140-GALLE"
+                ],
+                "0109-HOYUK": [
+                    "0188-MERLIN",
+                    "0006-OOD",
+                    "0077-SCYTHE",
+                    "0140-GALLE"
+                ],
+                "0182-KINGS": [
+                    "0188-MERLIN",
+                    "0006-OOD"
+                ],
+                "0279-FIVTRI": []
+            }
+        },
+        "raclariu": {
+            "offers": {
+                "0193-CYCLA": [
+                    "0077-SCYTHE",
+                    "0009-HERREA",
+                    "0093-KEMET",
+                    "0279-FIVTRI",
+                    "0216-COMKL",
+                    "0117-NATIO",
+                    "0231-TLOI",
+                    "0094-CRYHAV",
+                    "0188-MERLIN",
+                    "0005-KEYPER",
+                    "0055-AN4EVP",
+                    "0088-AN1L",
+                    "0274-AN2LPTB"
+                ],
+                "0194-LAISLA": [
+                    "0009-HERREA",
+                    "0100-TAKEN",
+                    "0038-LFW",
+                    "0137-TTREU",
+                    "0091-PHOTO",
+                    "0111-PHOTO",
+                    "0030-AHTCG",
+                    "0196-CSR",
+                    "0123-ALCHE",
+                    "0186-ALCHE",
+                    "0268-BELFO",
+                    "0234-MADEI",
+                    "0166-NIPPON",
+                    "0074-EMIDOM",
+                    "0168-FCAATOE",
+                    "0163-MWA",
+                    "0006-OOD",
+                    "0227-MFTR",
+                    "0136-BBOM",
+                    "0110-WWE",
+                    "0096-SMAUP",
+                    "0177-SMAUP",
+                    "0031-AROTP",
+                    "0224-OCEAN",
+                    "0067-LOX",
+                    "0085-AN1L",
+                    "0169-ROUHOU",
+                    "0267-ROUHOU",
+                    "0226-EDO",
+                    "0159-RTN"
+                ],
+                "0195-DUNPET": [
+                    "0077-SCYTHE",
+                    "0140-GALLE",
+                    "0090-AN2L"
+                ]
+            }
+        },
+        "Raizen": {
+            "offers": {
+                "0010-LTWOT2": [
+                    "0140-GALLE",
+                    "0245-COC",
+                    "0094-CRYHAV",
+                    "0283-BLAORC",
+                    "0089-AN2L",
+                    "0090-AN2L",
+                    "0274-AN2LPTB",
+                    "0276-THUND",
+                    "0178-FORAME",
+                    "0159-RTN",
+                    "0216-COMKL",
+                    "0272-INIS",
+                    "0070-ALIFRO",
+                    "0273-MEM44",
+                    "0137-TTREU",
+                    "0196-CSR",
+                    "0220-FORD",
+                    "0170-QUANT",
+                    "0071-ENDEA",
+                    "0205-BATTL",
+                    "0162-DARMOO",
+                    "0221-PCOVE",
+                    "0187-COHATBSE",
+                    "0280-SAGOBT",
+                    "0086-AN1L",
+                    "0087-AN1L",
+                    "0241-AOEAD",
+                    "0188-MERLIN",
+                    "0110-WWE",
+                    "0264-PFFTH",
+                    "0195-DUNPET",
+                    "0038-LFW",
+                    "0173-ANTIK",
+                    "0206-ANDRO"
+                ],
+                "0011-WUS": [
+                    "0140-GALLE",
+                    "0245-COC",
+                    "0094-CRYHAV",
+                    "0283-BLAORC",
+                    "0089-AN2L",
+                    "0090-AN2L",
+                    "0274-AN2LPTB",
+                    "0276-THUND",
+                    "0178-FORAME",
+                    "0159-RTN"
+                ],
+                "0012-UEA": [
+                    "0140-GALLE",
+                    "0245-COC",
+                    "0094-CRYHAV",
+                    "0283-BLAORC",
+                    "0089-AN2L",
+                    "0090-AN2L",
+                    "0274-AN2LPTB",
+                    "0276-THUND",
+                    "0178-FORAME",
+                    "0159-RTN",
+                    "0216-COMKL",
+                    "0272-INIS",
+                    "0070-ALIFRO",
+                    "0273-MEM44",
+                    "0137-TTREU",
+                    "0196-CSR",
+                    "0220-FORD",
+                    "0170-QUANT",
+                    "0071-ENDEA",
+                    "0205-BATTL",
+                    "0162-DARMOO",
+                    "0221-PCOVE",
+                    "0187-COHATBSE",
+                    "0280-SAGOBT",
+                    "0086-AN1L",
+                    "0087-AN1L",
+                    "0241-AOEAD",
+                    "0188-MERLIN",
+                    "0110-WWE",
+                    "0264-PFFTH",
+                    "0195-DUNPET",
+                    "0084-AN1L",
+                    "0085-AN1L",
+                    "0038-LFW",
+                    "0173-ANTIK",
+                    "0206-ANDRO",
+                    "0100-TAKEN",
+                    "0112-KOT",
+                    "0123-ALCHE",
+                    "0136-BBOM",
+                    "0150-LOSEXP",
+                    "0083-AN7L",
+                    "0167-AN7L",
+                    "0146-HARBO",
+                    "0103-DEADW"
+                ],
+                "0013-COLEXP": [
+                    "0140-GALLE",
+                    "0245-COC",
+                    "0094-CRYHAV",
+                    "0283-BLAORC",
+                    "0089-AN2L",
+                    "0090-AN2L",
+                    "0274-AN2LPTB",
+                    "0276-THUND",
+                    "0178-FORAME",
+                    "0159-RTN",
+                    "0216-COMKL",
+                    "0272-INIS",
+                    "0070-ALIFRO",
+                    "0273-MEM44",
+                    "0137-TTREU",
+                    "0196-CSR",
+                    "0220-FORD",
+                    "0170-QUANT",
+                    "0071-ENDEA",
+                    "0205-BATTL",
+                    "0162-DARMOO",
+                    "0221-PCOVE",
+                    "0187-COHATBSE",
+                    "0280-SAGOBT",
+                    "0086-AN1L",
+                    "0087-AN1L",
+                    "0241-AOEAD",
+                    "0188-MERLIN",
+                    "0110-WWE",
+                    "0264-PFFTH",
+                    "0195-DUNPET",
+                    "0084-AN1L",
+                    "0085-AN1L",
+                    "0038-LFW",
+                    "0173-ANTIK",
+                    "0206-ANDRO",
+                    "0100-TAKEN",
+                    "0112-KOT",
+                    "0123-ALCHE",
+                    "0136-BBOM",
+                    "0150-LOSEXP",
+                    "0083-AN7L",
+                    "0167-AN7L",
+                    "0146-HARBO",
+                    "0103-DEADW",
+                    "0182-KINGS",
+                    "0249-LTTODDC",
+                    "0243-EEL",
+                    "0236-ANTDUE",
+                    "0278-PRAET"
+                ],
+                "0014-BLAFLE": [
+                    "0140-GALLE",
+                    "0245-COC",
+                    "0094-CRYHAV",
+                    "0283-BLAORC",
+                    "0089-AN2L",
+                    "0090-AN2L",
+                    "0274-AN2LPTB",
+                    "0276-THUND",
+                    "0178-FORAME",
+                    "0159-RTN",
+                    "0216-COMKL",
+                    "0272-INIS",
+                    "0070-ALIFRO",
+                    "0273-MEM44",
+                    "0137-TTREU",
+                    "0196-CSR",
+                    "0220-FORD",
+                    "0170-QUANT",
+                    "0071-ENDEA",
+                    "0205-BATTL",
+                    "0162-DARMOO",
+                    "0221-PCOVE",
+                    "0187-COHATBSE",
+                    "0280-SAGOBT",
+                    "0086-AN1L",
+                    "0087-AN1L",
+                    "0241-AOEAD",
+                    "0188-MERLIN",
+                    "0110-WWE",
+                    "0264-PFFTH",
+                    "0195-DUNPET",
+                    "0084-AN1L",
+                    "0085-AN1L"
+                ],
+                "0015-GOTTTG": [
+                    "0140-GALLE",
+                    "0245-COC",
+                    "0094-CRYHAV",
+                    "0283-BLAORC",
+                    "0089-AN2L",
+                    "0090-AN2L",
+                    "0274-AN2LPTB",
+                    "0276-THUND",
+                    "0178-FORAME",
+                    "0159-RTN",
+                    "0216-COMKL",
+                    "0272-INIS",
+                    "0070-ALIFRO",
+                    "0273-MEM44",
+                    "0137-TTREU",
+                    "0196-CSR",
+                    "0220-FORD",
+                    "0170-QUANT",
+                    "0071-ENDEA",
+                    "0205-BATTL",
+                    "0162-DARMOO",
+                    "0221-PCOVE",
+                    "0187-COHATBSE",
+                    "0280-SAGOBT",
+                    "0086-AN1L",
+                    "0087-AN1L",
+                    "0241-AOEAD",
+                    "0188-MERLIN",
+                    "0110-WWE",
+                    "0264-PFFTH",
+                    "0195-DUNPET",
+                    "0084-AN1L",
+                    "0085-AN1L",
+                    "0038-LFW",
+                    "0173-ANTIK",
+                    "0206-ANDRO",
+                    "0100-TAKEN",
+                    "0112-KOT",
+                    "0123-ALCHE",
+                    "0136-BBOM",
+                    "0150-LOSEXP",
+                    "0083-AN7L",
+                    "0167-AN7L",
+                    "0146-HARBO",
+                    "0103-DEADW",
+                    "0182-KINGS",
+                    "0249-LTTODDC",
+                    "0243-EEL",
+                    "0236-ANTDUE",
+                    "0278-PRAET",
+                    "0185-SAMSWO",
+                    "0037-KOTPU",
+                    "0080-AN5L",
+                    "0082-AN5L",
+                    "0252-GAME"
+                ],
+                "0016-IFOSTMG": [
+                    "0140-GALLE",
+                    "0245-COC",
+                    "0094-CRYHAV",
+                    "0283-BLAORC",
+                    "0089-AN2L",
+                    "0090-AN2L",
+                    "0274-AN2LPTB",
+                    "0276-THUND",
+                    "0178-FORAME",
+                    "0159-RTN",
+                    "0216-COMKL",
+                    "0272-INIS",
+                    "0070-ALIFRO",
+                    "0273-MEM44",
+                    "0137-TTREU",
+                    "0196-CSR",
+                    "0220-FORD",
+                    "0170-QUANT",
+                    "0071-ENDEA",
+                    "0205-BATTL",
+                    "0162-DARMOO",
+                    "0221-PCOVE",
+                    "0187-COHATBSE",
+                    "0280-SAGOBT",
+                    "0086-AN1L",
+                    "0087-AN1L",
+                    "0241-AOEAD",
+                    "0188-MERLIN",
+                    "0110-WWE",
+                    "0264-PFFTH",
+                    "0195-DUNPET",
+                    "0084-AN1L",
+                    "0085-AN1L",
+                    "0038-LFW",
+                    "0206-ANDRO"
+                ],
+                "0017-BITTEN": [
+                    "0140-GALLE",
+                    "0245-COC",
+                    "0094-CRYHAV",
+                    "0283-BLAORC",
+                    "0089-AN2L",
+                    "0090-AN2L",
+                    "0274-AN2LPTB",
+                    "0276-THUND",
+                    "0178-FORAME",
+                    "0159-RTN",
+                    "0216-COMKL",
+                    "0272-INIS",
+                    "0070-ALIFRO",
+                    "0273-MEM44",
+                    "0137-TTREU",
+                    "0196-CSR",
+                    "0220-FORD",
+                    "0170-QUANT",
+                    "0071-ENDEA",
+                    "0205-BATTL",
+                    "0162-DARMOO",
+                    "0221-PCOVE",
+                    "0187-COHATBSE",
+                    "0280-SAGOBT",
+                    "0086-AN1L",
+                    "0087-AN1L",
+                    "0241-AOEAD",
+                    "0188-MERLIN",
+                    "0110-WWE",
+                    "0264-PFFTH",
+                    "0195-DUNPET",
+                    "0084-AN1L",
+                    "0085-AN1L",
+                    "0038-LFW",
+                    "0173-ANTIK",
+                    "0206-ANDRO",
+                    "0100-TAKEN",
+                    "0112-KOT",
+                    "0123-ALCHE",
+                    "0136-BBOM",
+                    "0150-LOSEXP",
+                    "0083-AN7L",
+                    "0167-AN7L",
+                    "0146-HARBO",
+                    "0103-DEADW",
+                    "0182-KINGS",
+                    "0249-LTTODDC",
+                    "0243-EEL",
+                    "0236-ANTDUE",
+                    "0278-PRAET",
+                    "0185-SAMSWO",
+                    "0037-KOTPU",
+                    "0080-AN5L",
+                    "0082-AN5L",
+                    "0252-GAME",
+                    "0152-MIND"
+                ],
+                "0018-YATM": [
+                    "0140-GALLE",
+                    "0245-COC",
+                    "0094-CRYHAV",
+                    "0283-BLAORC",
+                    "0089-AN2L",
+                    "0090-AN2L",
+                    "0274-AN2LPTB",
+                    "0276-THUND",
+                    "0178-FORAME",
+                    "0159-RTN",
+                    "0216-COMKL",
+                    "0272-INIS",
+                    "0070-ALIFRO",
+                    "0273-MEM44",
+                    "0137-TTREU",
+                    "0196-CSR",
+                    "0220-FORD",
+                    "0170-QUANT",
+                    "0071-ENDEA",
+                    "0205-BATTL",
+                    "0162-DARMOO",
+                    "0221-PCOVE",
+                    "0187-COHATBSE",
+                    "0280-SAGOBT",
+                    "0086-AN1L",
+                    "0087-AN1L",
+                    "0241-AOEAD",
+                    "0188-MERLIN",
+                    "0110-WWE",
+                    "0264-PFFTH",
+                    "0195-DUNPET",
+                    "0084-AN1L",
+                    "0085-AN1L",
+                    "0038-LFW",
+                    "0173-ANTIK",
+                    "0206-ANDRO",
+                    "0100-TAKEN",
+                    "0112-KOT",
+                    "0123-ALCHE",
+                    "0136-BBOM",
+                    "0150-LOSEXP",
+                    "0083-AN7L",
+                    "0167-AN7L",
+                    "0146-HARBO",
+                    "0103-DEADW",
+                    "0182-KINGS",
+                    "0249-LTTODDC",
+                    "0243-EEL",
+                    "0236-ANTDUE",
+                    "0278-PRAET",
+                    "0185-SAMSWO",
+                    "0037-KOTPU",
+                    "0080-AN5L",
+                    "0082-AN5L",
+                    "0252-GAME",
+                    "0152-MIND"
+                ],
+                "0019-RISK2": [
+                    "0140-GALLE",
+                    "0245-COC",
+                    "0094-CRYHAV",
+                    "0283-BLAORC",
+                    "0089-AN2L",
+                    "0090-AN2L",
+                    "0274-AN2LPTB",
+                    "0276-THUND",
+                    "0178-FORAME",
+                    "0159-RTN",
+                    "0216-COMKL",
+                    "0272-INIS",
+                    "0070-ALIFRO",
+                    "0273-MEM44",
+                    "0137-TTREU",
+                    "0196-CSR",
+                    "0220-FORD",
+                    "0170-QUANT",
+                    "0071-ENDEA",
+                    "0205-BATTL",
+                    "0162-DARMOO",
+                    "0221-PCOVE",
+                    "0187-COHATBSE",
+                    "0280-SAGOBT",
+                    "0086-AN1L",
+                    "0087-AN1L",
+                    "0241-AOEAD",
+                    "0188-MERLIN",
+                    "0110-WWE",
+                    "0264-PFFTH",
+                    "0195-DUNPET",
+                    "0084-AN1L",
+                    "0085-AN1L",
+                    "0038-LFW",
+                    "0173-ANTIK",
+                    "0206-ANDRO"
+                ],
+                "0020-ELCAB": [
+                    "0140-GALLE",
+                    "0245-COC",
+                    "0094-CRYHAV",
+                    "0283-BLAORC",
+                    "0089-AN2L",
+                    "0090-AN2L",
+                    "0274-AN2LPTB",
+                    "0276-THUND",
+                    "0178-FORAME",
+                    "0159-RTN",
+                    "0216-COMKL",
+                    "0272-INIS",
+                    "0070-ALIFRO",
+                    "0273-MEM44",
+                    "0137-TTREU",
+                    "0196-CSR",
+                    "0220-FORD",
+                    "0170-QUANT",
+                    "0071-ENDEA",
+                    "0205-BATTL",
+                    "0162-DARMOO",
+                    "0221-PCOVE",
+                    "0187-COHATBSE",
+                    "0280-SAGOBT",
+                    "0086-AN1L",
+                    "0087-AN1L",
+                    "0241-AOEAD",
+                    "0188-MERLIN",
+                    "0110-WWE",
+                    "0264-PFFTH",
+                    "0195-DUNPET",
+                    "0084-AN1L",
+                    "0085-AN1L",
+                    "0038-LFW",
+                    "0173-ANTIK",
+                    "0206-ANDRO",
+                    "0100-TAKEN",
+                    "0112-KOT",
+                    "0123-ALCHE",
+                    "0136-BBOM",
+                    "0150-LOSEXP",
+                    "0083-AN7L",
+                    "0167-AN7L",
+                    "0146-HARBO",
+                    "0103-DEADW",
+                    "0182-KINGS",
+                    "0249-LTTODDC",
+                    "0243-EEL",
+                    "0236-ANTDUE",
+                    "0278-PRAET"
+                ],
+                "0021-MUTINY": [
+                    "0140-GALLE",
+                    "0245-COC",
+                    "0094-CRYHAV",
+                    "0283-BLAORC",
+                    "0089-AN2L",
+                    "0090-AN2L",
+                    "0274-AN2LPTB",
+                    "0276-THUND",
+                    "0178-FORAME",
+                    "0159-RTN",
+                    "0216-COMKL",
+                    "0272-INIS",
+                    "0070-ALIFRO",
+                    "0273-MEM44",
+                    "0137-TTREU",
+                    "0196-CSR",
+                    "0220-FORD",
+                    "0170-QUANT",
+                    "0071-ENDEA",
+                    "0205-BATTL",
+                    "0162-DARMOO",
+                    "0221-PCOVE",
+                    "0187-COHATBSE",
+                    "0280-SAGOBT",
+                    "0086-AN1L",
+                    "0087-AN1L",
+                    "0241-AOEAD",
+                    "0188-MERLIN",
+                    "0110-WWE",
+                    "0264-PFFTH",
+                    "0195-DUNPET",
+                    "0084-AN1L",
+                    "0085-AN1L",
+                    "0038-LFW",
+                    "0173-ANTIK",
+                    "0206-ANDRO",
+                    "0100-TAKEN",
+                    "0112-KOT",
+                    "0123-ALCHE",
+                    "0136-BBOM",
+                    "0150-LOSEXP",
+                    "0083-AN7L",
+                    "0167-AN7L",
+                    "0146-HARBO",
+                    "0103-DEADW",
+                    "0182-KINGS",
+                    "0249-LTTODDC",
+                    "0243-EEL",
+                    "0236-ANTDUE",
+                    "0278-PRAET",
+                    "0185-SAMSWO"
+                ],
+                "0022-EIGEMP": [
+                    "0140-GALLE",
+                    "0245-COC",
+                    "0094-CRYHAV",
+                    "0283-BLAORC",
+                    "0089-AN2L",
+                    "0090-AN2L",
+                    "0274-AN2LPTB",
+                    "0276-THUND",
+                    "0178-FORAME",
+                    "0159-RTN",
+                    "0216-COMKL",
+                    "0272-INIS",
+                    "0070-ALIFRO",
+                    "0273-MEM44",
+                    "0137-TTREU",
+                    "0196-CSR",
+                    "0220-FORD",
+                    "0170-QUANT",
+                    "0071-ENDEA",
+                    "0205-BATTL",
+                    "0162-DARMOO",
+                    "0221-PCOVE",
+                    "0187-COHATBSE",
+                    "0280-SAGOBT",
+                    "0086-AN1L",
+                    "0087-AN1L",
+                    "0241-AOEAD",
+                    "0188-MERLIN",
+                    "0110-WWE",
+                    "0264-PFFTH",
+                    "0195-DUNPET",
+                    "0084-AN1L",
+                    "0085-AN1L",
+                    "0038-LFW",
+                    "0173-ANTIK",
+                    "0206-ANDRO",
+                    "0100-TAKEN",
+                    "0112-KOT",
+                    "0123-ALCHE",
+                    "0136-BBOM",
+                    "0150-LOSEXP",
+                    "0083-AN7L",
+                    "0167-AN7L",
+                    "0146-HARBO",
+                    "0103-DEADW",
+                    "0182-KINGS",
+                    "0249-LTTODDC",
+                    "0243-EEL",
+                    "0236-ANTDUE",
+                    "0278-PRAET",
+                    "0185-SAMSWO",
+                    "0037-KOTPU",
+                    "0080-AN5L",
+                    "0082-AN5L",
+                    "0252-GAME",
+                    "0152-MIND"
+                ],
+                "0023-PGTFS": [
+                    "0140-GALLE",
+                    "0245-COC",
+                    "0094-CRYHAV",
+                    "0283-BLAORC",
+                    "0089-AN2L",
+                    "0090-AN2L",
+                    "0274-AN2LPTB",
+                    "0276-THUND",
+                    "0178-FORAME",
+                    "0159-RTN",
+                    "0216-COMKL",
+                    "0272-INIS",
+                    "0070-ALIFRO",
+                    "0273-MEM44",
+                    "0137-TTREU",
+                    "0196-CSR",
+                    "0220-FORD",
+                    "0170-QUANT",
+                    "0071-ENDEA",
+                    "0205-BATTL",
+                    "0162-DARMOO",
+                    "0221-PCOVE",
+                    "0187-COHATBSE",
+                    "0280-SAGOBT",
+                    "0086-AN1L",
+                    "0087-AN1L",
+                    "0241-AOEAD",
+                    "0188-MERLIN",
+                    "0110-WWE",
+                    "0264-PFFTH",
+                    "0195-DUNPET",
+                    "0038-LFW",
+                    "0206-ANDRO"
+                ],
+                "0024-STRAT": [
+                    "0140-GALLE",
+                    "0245-COC",
+                    "0094-CRYHAV",
+                    "0283-BLAORC",
+                    "0089-AN2L",
+                    "0090-AN2L",
+                    "0274-AN2LPTB",
+                    "0276-THUND",
+                    "0178-FORAME",
+                    "0159-RTN",
+                    "0216-COMKL",
+                    "0272-INIS",
+                    "0070-ALIFRO",
+                    "0273-MEM44",
+                    "0137-TTREU",
+                    "0196-CSR",
+                    "0220-FORD",
+                    "0170-QUANT",
+                    "0071-ENDEA",
+                    "0205-BATTL",
+                    "0162-DARMOO",
+                    "0221-PCOVE",
+                    "0187-COHATBSE",
+                    "0280-SAGOBT",
+                    "0086-AN1L",
+                    "0087-AN1L",
+                    "0241-AOEAD",
+                    "0188-MERLIN",
+                    "0110-WWE",
+                    "0264-PFFTH",
+                    "0195-DUNPET",
+                    "0084-AN1L",
+                    "0085-AN1L",
+                    "0038-LFW",
+                    "0173-ANTIK",
+                    "0206-ANDRO",
+                    "0100-TAKEN",
+                    "0112-KOT",
+                    "0123-ALCHE",
+                    "0136-BBOM",
+                    "0150-LOSEXP",
+                    "0083-AN7L",
+                    "0167-AN7L",
+                    "0146-HARBO",
+                    "0103-DEADW",
+                    "0182-KINGS",
+                    "0249-LTTODDC",
+                    "0243-EEL",
+                    "0236-ANTDUE",
+                    "0278-PRAET",
+                    "0185-SAMSWO",
+                    "0037-KOTPU",
+                    "0080-AN5L",
+                    "0082-AN5L",
+                    "0252-GAME",
+                    "0152-MIND"
+                ],
+                "0025-CVLIZ": [
+                    "0140-GALLE",
+                    "0245-COC",
+                    "0094-CRYHAV",
+                    "0283-BLAORC",
+                    "0089-AN2L",
+                    "0090-AN2L",
+                    "0274-AN2LPTB",
+                    "0276-THUND",
+                    "0178-FORAME",
+                    "0159-RTN",
+                    "0216-COMKL",
+                    "0272-INIS",
+                    "0070-ALIFRO",
+                    "0273-MEM44",
+                    "0137-TTREU",
+                    "0196-CSR",
+                    "0220-FORD",
+                    "0170-QUANT",
+                    "0071-ENDEA",
+                    "0205-BATTL",
+                    "0162-DARMOO",
+                    "0221-PCOVE",
+                    "0187-COHATBSE",
+                    "0280-SAGOBT",
+                    "0086-AN1L",
+                    "0087-AN1L",
+                    "0241-AOEAD",
+                    "0188-MERLIN",
+                    "0110-WWE",
+                    "0264-PFFTH",
+                    "0195-DUNPET",
+                    "0084-AN1L",
+                    "0085-AN1L",
+                    "0038-LFW",
+                    "0173-ANTIK",
+                    "0206-ANDRO",
+                    "0100-TAKEN",
+                    "0112-KOT",
+                    "0123-ALCHE",
+                    "0136-BBOM",
+                    "0150-LOSEXP",
+                    "0083-AN7L",
+                    "0167-AN7L",
+                    "0146-HARBO",
+                    "0103-DEADW",
+                    "0182-KINGS",
+                    "0249-LTTODDC",
+                    "0243-EEL",
+                    "0236-ANTDUE",
+                    "0278-PRAET"
+                ],
+                "0026-SHEEP": [
+                    "0140-GALLE",
+                    "0245-COC",
+                    "0094-CRYHAV",
+                    "0283-BLAORC",
+                    "0089-AN2L",
+                    "0090-AN2L",
+                    "0274-AN2LPTB",
+                    "0276-THUND",
+                    "0178-FORAME",
+                    "0159-RTN",
+                    "0216-COMKL",
+                    "0272-INIS",
+                    "0070-ALIFRO",
+                    "0273-MEM44",
+                    "0137-TTREU",
+                    "0196-CSR",
+                    "0220-FORD",
+                    "0170-QUANT",
+                    "0071-ENDEA",
+                    "0205-BATTL",
+                    "0162-DARMOO",
+                    "0221-PCOVE",
+                    "0187-COHATBSE",
+                    "0280-SAGOBT",
+                    "0086-AN1L",
+                    "0087-AN1L",
+                    "0241-AOEAD",
+                    "0188-MERLIN",
+                    "0110-WWE",
+                    "0264-PFFTH",
+                    "0195-DUNPET",
+                    "0084-AN1L",
+                    "0085-AN1L",
+                    "0173-ANTIK"
+                ],
+                "0027-CRAKAR": [
+                    "0140-GALLE",
+                    "0245-COC",
+                    "0094-CRYHAV",
+                    "0283-BLAORC",
+                    "0089-AN2L",
+                    "0090-AN2L",
+                    "0274-AN2LPTB",
+                    "0276-THUND",
+                    "0178-FORAME",
+                    "0159-RTN",
+                    "0216-COMKL",
+                    "0272-INIS",
+                    "0070-ALIFRO",
+                    "0273-MEM44",
+                    "0137-TTREU",
+                    "0196-CSR",
+                    "0220-FORD",
+                    "0170-QUANT",
+                    "0071-ENDEA",
+                    "0205-BATTL",
+                    "0162-DARMOO",
+                    "0221-PCOVE",
+                    "0187-COHATBSE",
+                    "0280-SAGOBT",
+                    "0086-AN1L",
+                    "0087-AN1L",
+                    "0241-AOEAD",
+                    "0188-MERLIN",
+                    "0110-WWE",
+                    "0264-PFFTH",
+                    "0195-DUNPET",
+                    "0084-AN1L",
+                    "0085-AN1L",
+                    "0173-ANTIK"
+                ],
+                "0028-EDO": [
+                    "0140-GALLE",
+                    "0245-COC",
+                    "0094-CRYHAV",
+                    "0283-BLAORC",
+                    "0089-AN2L",
+                    "0090-AN2L",
+                    "0274-AN2LPTB",
+                    "0276-THUND",
+                    "0178-FORAME",
+                    "0159-RTN",
+                    "0216-COMKL",
+                    "0272-INIS",
+                    "0070-ALIFRO",
+                    "0273-MEM44",
+                    "0137-TTREU",
+                    "0196-CSR",
+                    "0220-FORD",
+                    "0170-QUANT",
+                    "0071-ENDEA",
+                    "0205-BATTL",
+                    "0162-DARMOO",
+                    "0221-PCOVE",
+                    "0187-COHATBSE",
+                    "0280-SAGOBT",
+                    "0086-AN1L",
+                    "0087-AN1L"
+                ],
+                "0029-LIGUR": [
+                    "0140-GALLE",
+                    "0245-COC",
+                    "0094-CRYHAV",
+                    "0283-BLAORC",
+                    "0089-AN2L",
+                    "0090-AN2L",
+                    "0274-AN2LPTB",
+                    "0276-THUND",
+                    "0178-FORAME",
+                    "0159-RTN",
+                    "0216-COMKL",
+                    "0272-INIS",
+                    "0070-ALIFRO",
+                    "0273-MEM44",
+                    "0137-TTREU",
+                    "0196-CSR",
+                    "0220-FORD",
+                    "0170-QUANT",
+                    "0071-ENDEA",
+                    "0205-BATTL",
+                    "0162-DARMOO",
+                    "0221-PCOVE",
+                    "0187-COHATBSE",
+                    "0280-SAGOBT",
+                    "0086-AN1L",
+                    "0087-AN1L",
+                    "0241-AOEAD",
+                    "0188-MERLIN",
+                    "0110-WWE",
+                    "0264-PFFTH"
+                ]
+            }
+        },
+        "Sol23": {
+            "offers": {
+                "0111-PHOTO": [],
+                "0112-KOT": [
+                    "0140-GALLE",
+                    "0158-COC",
+                    "0030-AHTCG",
+                    "0011-WUS",
+                    "0159-RTN",
+                    "0094-CRYHAV",
+                    "0283-BLAORC",
+                    "0073-SNOTAI",
+                    "0060-LASVEG",
+                    "0005-KEYPER",
+                    "0187-COHATBSE",
+                    "0233-COISE",
+                    "0107-PORNIG",
+                    "0169-ROUHOU",
+                    "0157-MINER",
+                    "0166-NIPPON",
+                    "0006-OOD",
+                    "0009-HERREA",
+                    "0196-CSR",
+                    "0170-QUANT",
+                    "0231-TLOI",
+                    "0137-TTREU",
+                    "0099-VERSA",
+                    "0272-INIS",
+                    "0091-PHOTO",
+                    "0240-MYRMES",
+                    "0070-ALIFRO"
+                ],
+                "0113-SPAALE": [
+                    "0140-GALLE",
+                    "0158-COC",
+                    "0030-AHTCG",
+                    "0011-WUS",
+                    "0159-RTN",
+                    "0094-CRYHAV",
+                    "0283-BLAORC",
+                    "0073-SNOTAI",
+                    "0060-LASVEG",
+                    "0005-KEYPER",
+                    "0187-COHATBSE",
+                    "0233-COISE",
+                    "0107-PORNIG",
+                    "0169-ROUHOU",
+                    "0157-MINER",
+                    "0166-NIPPON",
+                    "0006-OOD",
+                    "0009-HERREA",
+                    "0196-CSR",
+                    "0170-QUANT",
+                    "0231-TLOI",
+                    "0193-CYCLA",
+                    "0137-TTREU",
+                    "0099-VERSA",
+                    "0279-FIVTRI",
+                    "0168-FCAATOE",
+                    "0172-DISCO",
+                    "0234-MADEI"
+                ],
+                "0114-PROCLU": [
+                    "0140-GALLE",
+                    "0158-COC",
+                    "0030-AHTCG",
+                    "0011-WUS",
+                    "0159-RTN",
+                    "0094-CRYHAV",
+                    "0283-BLAORC",
+                    "0073-SNOTAI",
+                    "0060-LASVEG",
+                    "0005-KEYPER",
+                    "0187-COHATBSE",
+                    "0233-COISE",
+                    "0107-PORNIG",
+                    "0169-ROUHOU",
+                    "0157-MINER",
+                    "0166-NIPPON",
+                    "0009-HERREA",
+                    "0196-CSR",
+                    "0137-TTREU"
+                ],
+                "0115-SECHIT": [
+                    "0140-GALLE",
+                    "0158-COC",
+                    "0030-AHTCG",
+                    "0011-WUS",
+                    "0159-RTN",
+                    "0094-CRYHAV",
+                    "0283-BLAORC",
+                    "0073-SNOTAI",
+                    "0060-LASVEG",
+                    "0005-KEYPER",
+                    "0187-COHATBSE",
+                    "0233-COISE",
+                    "0107-PORNIG",
+                    "0169-ROUHOU",
+                    "0157-MINER",
+                    "0006-OOD"
+                ],
+                "0116-BTDG": [
+                    "0140-GALLE",
+                    "0158-COC",
+                    "0030-AHTCG",
+                    "0011-WUS",
+                    "0159-RTN",
+                    "0094-CRYHAV",
+                    "0283-BLAORC",
+                    "0073-SNOTAI",
+                    "0060-LASVEG",
+                    "0005-KEYPER",
+                    "0187-COHATBSE",
+                    "0233-COISE",
+                    "0107-PORNIG",
+                    "0169-ROUHOU",
+                    "0157-MINER",
+                    "0166-NIPPON",
+                    "0006-OOD",
+                    "0009-HERREA",
+                    "0170-QUANT",
+                    "0231-TLOI",
+                    "0193-CYCLA",
+                    "0099-VERSA",
+                    "0014-BLAFLE",
+                    "0173-ANTIK"
+                ],
+                "0117-NATIO": [],
+                "0118-SAGOBT": [
+                    "0140-GALLE",
+                    "0158-COC",
+                    "0030-AHTCG",
+                    "0011-WUS",
+                    "0159-RTN"
+                ],
+                "0119-LNOEGH": [
+                    "0140-GALLE",
+                    "0158-COC",
+                    "0030-AHTCG",
+                    "0011-WUS",
+                    "0159-RTN",
+                    "0094-CRYHAV",
+                    "0283-BLAORC",
+                    "0073-SNOTAI",
+                    "0060-LASVEG",
+                    "0005-KEYPER",
+                    "0187-COHATBSE",
+                    "0233-COISE",
+                    "0107-PORNIG",
+                    "0169-ROUHOU",
+                    "0157-MINER",
+                    "0166-NIPPON",
+                    "0006-OOD",
+                    "0009-HERREA",
+                    "0196-CSR",
+                    "0170-QUANT",
+                    "0231-TLOI",
+                    "0193-CYCLA",
+                    "0137-TTREU",
+                    "0099-VERSA",
+                    "0279-FIVTRI",
+                    "0272-INIS",
+                    "0091-PHOTO",
+                    "0240-MYRMES",
+                    "0168-FCAATOE",
+                    "0172-DISCO",
+                    "0070-ALIFRO",
+                    "0095-RAPTOR",
+                    "0234-MADEI",
+                    "0249-LTTODDC",
+                    "0173-ANTIK",
+                    "0227-MFTR",
+                    "0067-LOX"
+                ],
+                "0120-WHC": [
+                    "0140-GALLE",
+                    "0158-COC",
+                    "0030-AHTCG",
+                    "0011-WUS",
+                    "0159-RTN",
+                    "0094-CRYHAV",
+                    "0283-BLAORC",
+                    "0073-SNOTAI",
+                    "0060-LASVEG",
+                    "0005-KEYPER",
+                    "0187-COHATBSE",
+                    "0233-COISE",
+                    "0107-PORNIG",
+                    "0169-ROUHOU",
+                    "0157-MINER",
+                    "0166-NIPPON",
+                    "0006-OOD",
+                    "0009-HERREA",
+                    "0196-CSR",
+                    "0170-QUANT",
+                    "0231-TLOI",
+                    "0193-CYCLA",
+                    "0137-TTREU",
+                    "0099-VERSA",
+                    "0279-FIVTRI",
+                    "0272-INIS",
+                    "0091-PHOTO",
+                    "0240-MYRMES",
+                    "0168-FCAATOE",
+                    "0172-DISCO",
+                    "0070-ALIFRO",
+                    "0095-RAPTOR",
+                    "0014-BLAFLE",
+                    "0249-LTTODDC",
+                    "0173-ANTIK",
+                    "0100-TAKEN",
+                    "0179-TORRE",
+                    "0180-CV",
+                    "0067-LOX"
+                ],
+                "0121-CARMAR": [
+                    "0140-GALLE",
+                    "0158-COC",
+                    "0030-AHTCG",
+                    "0011-WUS",
+                    "0159-RTN",
+                    "0094-CRYHAV",
+                    "0283-BLAORC",
+                    "0073-SNOTAI",
+                    "0060-LASVEG",
+                    "0005-KEYPER",
+                    "0187-COHATBSE",
+                    "0233-COISE",
+                    "0107-PORNIG",
+                    "0169-ROUHOU",
+                    "0157-MINER",
+                    "0166-NIPPON",
+                    "0006-OOD",
+                    "0009-HERREA",
+                    "0196-CSR",
+                    "0170-QUANT",
+                    "0231-TLOI",
+                    "0193-CYCLA",
+                    "0137-TTREU",
+                    "0099-VERSA",
+                    "0279-FIVTRI",
+                    "0091-PHOTO",
+                    "0240-MYRMES",
+                    "0168-FCAATOE",
+                    "0172-DISCO",
+                    "0095-RAPTOR",
+                    "0234-MADEI",
+                    "0014-BLAFLE",
+                    "0249-LTTODDC",
+                    "0100-TAKEN",
+                    "0179-TORRE",
+                    "0227-MFTR",
+                    "0180-CV",
+                    "0200-MRJAC",
+                    "0161-NMBR9",
+                    "0224-OCEAN",
+                    "0154-GOTHOTK"
+                ],
+                "0122-GOTASOSE": [
+                    "0140-GALLE",
+                    "0158-COC",
+                    "0030-AHTCG",
+                    "0011-WUS",
+                    "0159-RTN",
+                    "0094-CRYHAV",
+                    "0283-BLAORC",
+                    "0073-SNOTAI",
+                    "0060-LASVEG",
+                    "0005-KEYPER",
+                    "0187-COHATBSE",
+                    "0233-COISE",
+                    "0107-PORNIG",
+                    "0169-ROUHOU",
+                    "0157-MINER",
+                    "0166-NIPPON",
+                    "0006-OOD",
+                    "0009-HERREA",
+                    "0196-CSR",
+                    "0170-QUANT",
+                    "0231-TLOI",
+                    "0193-CYCLA",
+                    "0279-FIVTRI",
+                    "0272-INIS"
+                ],
+                "0156-POH": [
+                    "0140-GALLE"
+                ]
+            }
+        },
+        "sufertashu": {
+            "offers": {
+                "0030-AHTCG": [],
+                "0031-AROTP": [
+                    "0090-AN2L",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0002-COLON",
+                    "0088-AN1L",
+                    "0087-AN1L",
+                    "0054-AN3EVP",
+                    "0086-AN1L",
+                    "0084-AN1L",
+                    "0085-AN1L"
+                ],
+                "0032-DOOREL": [
+                    "0090-AN2L",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0002-COLON",
+                    "0088-AN1L",
+                    "0087-AN1L",
+                    "0054-AN3EVP",
+                    "0086-AN1L",
+                    "0084-AN1L",
+                    "0085-AN1L",
+                    "0053-AN2EVP"
+                ],
+                "0033-FOUFAT": [
+                    "0090-AN2L",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0002-COLON",
+                    "0088-AN1L",
+                    "0087-AN1L",
+                    "0054-AN3EVP",
+                    "0086-AN1L",
+                    "0084-AN1L",
+                    "0085-AN1L",
+                    "0053-AN2EVP",
+                    "0138-UEA",
+                    "0052-AN1EVP",
+                    "0083-AN7L",
+                    "0167-AN7L",
+                    "0139-UMA"
+                ],
+                "0034-GO": [
+                    "0090-AN2L",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0002-COLON",
+                    "0088-AN1L",
+                    "0087-AN1L",
+                    "0054-AN3EVP",
+                    "0086-AN1L",
+                    "0084-AN1L",
+                    "0085-AN1L",
+                    "0053-AN2EVP",
+                    "0138-UEA",
+                    "0052-AN1EVP",
+                    "0083-AN7L",
+                    "0167-AN7L",
+                    "0139-UMA",
+                    "0080-AN5L",
+                    "0081-AN5L",
+                    "0051-AN1EVP"
+                ],
+                "0035-GREEN": [
+                    "0090-AN2L",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0002-COLON",
+                    "0088-AN1L",
+                    "0087-AN1L",
+                    "0054-AN3EVP",
+                    "0086-AN1L",
+                    "0084-AN1L",
+                    "0085-AN1L",
+                    "0053-AN2EVP",
+                    "0138-UEA",
+                    "0052-AN1EVP",
+                    "0083-AN7L",
+                    "0167-AN7L",
+                    "0139-UMA"
+                ],
+                "0036-GFF": [
+                    "0090-AN2L",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0002-COLON",
+                    "0088-AN1L",
+                    "0087-AN1L",
+                    "0054-AN3EVP",
+                    "0086-AN1L",
+                    "0084-AN1L",
+                    "0085-AN1L",
+                    "0053-AN2EVP",
+                    "0138-UEA",
+                    "0052-AN1EVP",
+                    "0083-AN7L",
+                    "0167-AN7L",
+                    "0139-UMA",
+                    "0080-AN5L",
+                    "0081-AN5L"
+                ],
+                "0037-KOTPU": [
+                    "0090-AN2L",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0002-COLON",
+                    "0088-AN1L",
+                    "0087-AN1L",
+                    "0054-AN3EVP",
+                    "0086-AN1L",
+                    "0084-AN1L",
+                    "0085-AN1L",
+                    "0053-AN2EVP",
+                    "0138-UEA",
+                    "0052-AN1EVP",
+                    "0083-AN7L",
+                    "0167-AN7L",
+                    "0139-UMA",
+                    "0080-AN5L",
+                    "0081-AN5L",
+                    "0051-AN1EVP"
+                ],
+                "0038-LFW": [
+                    "0090-AN2L",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0002-COLON",
+                    "0088-AN1L",
+                    "0087-AN1L",
+                    "0054-AN3EVP",
+                    "0086-AN1L"
+                ],
+                "0039-LOTRTC": [
+                    "0090-AN2L",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0002-COLON",
+                    "0088-AN1L",
+                    "0087-AN1L",
+                    "0054-AN3EVP",
+                    "0086-AN1L",
+                    "0084-AN1L",
+                    "0085-AN1L",
+                    "0053-AN2EVP",
+                    "0138-UEA",
+                    "0052-AN1EVP",
+                    "0083-AN7L",
+                    "0167-AN7L",
+                    "0139-UMA"
+                ],
+                "0040-MOTMA": [
+                    "0090-AN2L",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0002-COLON",
+                    "0088-AN1L",
+                    "0087-AN1L",
+                    "0054-AN3EVP",
+                    "0086-AN1L",
+                    "0084-AN1L",
+                    "0085-AN1L",
+                    "0053-AN2EVP",
+                    "0138-UEA",
+                    "0052-AN1EVP",
+                    "0083-AN7L",
+                    "0167-AN7L",
+                    "0139-UMA"
+                ],
+                "0041-PSTE": [
+                    "0090-AN2L",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0002-COLON",
+                    "0088-AN1L",
+                    "0087-AN1L",
+                    "0054-AN3EVP",
+                    "0086-AN1L",
+                    "0084-AN1L",
+                    "0085-AN1L"
+                ],
+                "0042-ROR": [
+                    "0090-AN2L",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0002-COLON",
+                    "0088-AN1L",
+                    "0087-AN1L",
+                    "0054-AN3EVP",
+                    "0086-AN1L",
+                    "0084-AN1L",
+                    "0085-AN1L",
+                    "0053-AN2EVP"
+                ],
+                "0043-SIGNO": [
+                    "0090-AN2L",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0002-COLON",
+                    "0088-AN1L",
+                    "0087-AN1L",
+                    "0054-AN3EVP",
+                    "0086-AN1L",
+                    "0084-AN1L",
+                    "0085-AN1L",
+                    "0053-AN2EVP"
+                ],
+                "0044-SPAALE": [
+                    "0090-AN2L",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0002-COLON",
+                    "0088-AN1L",
+                    "0087-AN1L",
+                    "0054-AN3EVP",
+                    "0086-AN1L",
+                    "0084-AN1L",
+                    "0085-AN1L",
+                    "0053-AN2EVP",
+                    "0138-UEA",
+                    "0052-AN1EVP",
+                    "0083-AN7L",
+                    "0167-AN7L",
+                    "0139-UMA"
+                ],
+                "0045-SWDRSS": [
+                    "0090-AN2L"
+                ],
+                "0046-SWTCG": [],
+                "0047-TOT": [
+                    "0090-AN2L",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0002-COLON",
+                    "0088-AN1L",
+                    "0087-AN1L",
+                    "0054-AN3EVP",
+                    "0086-AN1L",
+                    "0084-AN1L",
+                    "0085-AN1L",
+                    "0053-AN2EVP",
+                    "0138-UEA",
+                    "0052-AN1EVP",
+                    "0083-AN7L",
+                    "0167-AN7L",
+                    "0139-UMA",
+                    "0080-AN5L",
+                    "0081-AN5L",
+                    "0051-AN1EVP",
+                    "0050-AN5EVP"
+                ],
+                "0048-TRALOO": [
+                    "0090-AN2L",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0002-COLON",
+                    "0088-AN1L",
+                    "0087-AN1L",
+                    "0054-AN3EVP",
+                    "0086-AN1L",
+                    "0084-AN1L",
+                    "0085-AN1L",
+                    "0053-AN2EVP",
+                    "0138-UEA",
+                    "0052-AN1EVP",
+                    "0083-AN7L",
+                    "0167-AN7L",
+                    "0139-UMA"
+                ],
+                "0049-VEGAS": [
+                    "0090-AN2L",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0002-COLON",
+                    "0088-AN1L",
+                    "0087-AN1L",
+                    "0054-AN3EVP",
+                    "0086-AN1L",
+                    "0084-AN1L",
+                    "0085-AN1L",
+                    "0053-AN2EVP",
+                    "0138-UEA",
+                    "0052-AN1EVP",
+                    "0083-AN7L",
+                    "0167-AN7L",
+                    "0139-UMA"
+                ]
+            }
+        },
+        "teddz": {
+            "offers": {
+                "%Green": [
+                    "0035-GREEN",
+                    "0062-GREEN"
+                ],
+                "0157-MINER": [
+                    "0090-AN2L",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0094-CRYHAV",
+                    "0271-LUNA",
+                    "0156-POH",
+                    "0087-AN1L",
+                    "0088-AN1L",
+                    "0268-BELFO"
+                ],
+                "0158-COC": [
+                    "0090-AN2L",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0274-AN2LPTB"
+                ],
+                "0159-RTN": [
+                    "0090-AN2L"
+                ],
+                "0160-HISTO": [
+                    "0090-AN2L",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0094-CRYHAV",
+                    "0271-LUNA",
+                    "0156-POH",
+                    "0087-AN1L",
+                    "0088-AN1L",
+                    "0162-DARMOO",
+                    "0069-SES",
+                    "0056-VIKIN",
+                    "0006-OOD",
+                    "0054-AN3EVP",
+                    "0110-WWE"
+                ],
+                "0161-NMBR9": [
+                    "0090-AN2L",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0094-CRYHAV",
+                    "0271-LUNA",
+                    "0156-POH",
+                    "0087-AN1L",
+                    "0088-AN1L",
+                    "0162-DARMOO",
+                    "0069-SES",
+                    "0056-VIKIN",
+                    "0268-BELFO",
+                    "0006-OOD",
+                    "0054-AN3EVP",
+                    "0110-WWE",
+                    "0137-TTREU",
+                    "0074-EMIDOM",
+                    "0086-AN1L",
+                    "0237-DICCIT",
+                    "0043-SIGNO",
+                    "0079-POMPE",
+                    "0076-OOTGC",
+                    "0236-ANTDUE",
+                    "0064-FINCA",
+                    "0198-7WB",
+                    "0053-AN2EVP",
+                    "0084-AN1L"
+                ],
+                "0164-VDG": [
+                    "0090-AN2L",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0094-CRYHAV",
+                    "0271-LUNA",
+                    "0156-POH",
+                    "0087-AN1L",
+                    "0088-AN1L",
+                    "0162-DARMOO",
+                    "0069-SES",
+                    "0056-VIKIN",
+                    "0268-BELFO",
+                    "0006-OOD",
+                    "0054-AN3EVP",
+                    "0110-WWE",
+                    "0137-TTREU",
+                    "0074-EMIDOM",
+                    "0086-AN1L",
+                    "0043-SIGNO"
+                ],
+                "0165-SAGOBT": [
+                    "0090-AN2L",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0094-CRYHAV",
+                    "0271-LUNA",
+                    "0156-POH",
+                    "0087-AN1L",
+                    "0088-AN1L",
+                    "0162-DARMOO",
+                    "0069-SES",
+                    "0056-VIKIN",
+                    "0268-BELFO",
+                    "0006-OOD",
+                    "0054-AN3EVP",
+                    "0110-WWE",
+                    "0137-TTREU",
+                    "0074-EMIDOM",
+                    "0086-AN1L",
+                    "0043-SIGNO"
+                ],
+                "0166-NIPPON": [
+                    "0090-AN2L",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0094-CRYHAV",
+                    "0271-LUNA",
+                    "0156-POH",
+                    "0087-AN1L",
+                    "0088-AN1L",
+                    "0162-DARMOO",
+                    "0069-SES",
+                    "0056-VIKIN",
+                    "0268-BELFO",
+                    "0006-OOD",
+                    "0054-AN3EVP",
+                    "0110-WWE",
+                    "0137-TTREU",
+                    "0086-AN1L"
+                ],
+                "0167-AN7L": [
+                    "0090-AN2L",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0094-CRYHAV",
+                    "0271-LUNA",
+                    "0156-POH",
+                    "0087-AN1L",
+                    "0088-AN1L",
+                    "0162-DARMOO",
+                    "0069-SES",
+                    "0056-VIKIN",
+                    "0268-BELFO",
+                    "0006-OOD",
+                    "0054-AN3EVP",
+                    "0110-WWE",
+                    "0137-TTREU",
+                    "0074-EMIDOM",
+                    "0237-DICCIT",
+                    "0043-SIGNO",
+                    "0079-POMPE",
+                    "0076-OOTGC",
+                    "0236-ANTDUE",
+                    "0053-AN2EVP",
+                    "0084-AN1L"
+                ],
+                "0168-FCAATOE": [
+                    "0090-AN2L",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0094-CRYHAV",
+                    "0271-LUNA",
+                    "0156-POH",
+                    "0087-AN1L",
+                    "0088-AN1L",
+                    "0162-DARMOO",
+                    "0069-SES",
+                    "0056-VIKIN",
+                    "0268-BELFO",
+                    "0006-OOD",
+                    "0054-AN3EVP",
+                    "0110-WWE",
+                    "0137-TTREU",
+                    "0074-EMIDOM",
+                    "0086-AN1L",
+                    "0237-DICCIT",
+                    "0043-SIGNO"
+                ],
+                "0169-ROUHOU": [
+                    "0090-AN2L",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0094-CRYHAV",
+                    "0271-LUNA",
+                    "0156-POH",
+                    "0087-AN1L",
+                    "0088-AN1L"
+                ],
+                "0170-QUANT": [
+                    "0090-AN2L",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0094-CRYHAV",
+                    "0271-LUNA",
+                    "0156-POH",
+                    "0087-AN1L",
+                    "0088-AN1L",
+                    "0162-DARMOO",
+                    "0069-SES",
+                    "0056-VIKIN",
+                    "0268-BELFO",
+                    "0006-OOD",
+                    "0054-AN3EVP",
+                    "0110-WWE",
+                    "0074-EMIDOM"
+                ],
+                "0171-KANAG": [
+                    "0090-AN2L",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0094-CRYHAV",
+                    "0271-LUNA",
+                    "0156-POH",
+                    "0087-AN1L",
+                    "0088-AN1L",
+                    "0162-DARMOO",
+                    "0069-SES",
+                    "0056-VIKIN",
+                    "0268-BELFO",
+                    "0006-OOD",
+                    "0054-AN3EVP",
+                    "0110-WWE",
+                    "0137-TTREU",
+                    "0074-EMIDOM",
+                    "0086-AN1L",
+                    "0237-DICCIT",
+                    "0043-SIGNO",
+                    "0079-POMPE",
+                    "0076-OOTGC",
+                    "0236-ANTDUE",
+                    "0064-FINCA",
+                    "0198-7WB",
+                    "0053-AN2EVP",
+                    "0084-AN1L"
+                ],
+                "0172-DISCO": [
+                    "0090-AN2L",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0094-CRYHAV",
+                    "0271-LUNA",
+                    "0156-POH",
+                    "0087-AN1L",
+                    "0088-AN1L",
+                    "0162-DARMOO",
+                    "0069-SES",
+                    "0056-VIKIN",
+                    "0268-BELFO",
+                    "0006-OOD",
+                    "0054-AN3EVP",
+                    "0110-WWE",
+                    "0137-TTREU",
+                    "0074-EMIDOM",
+                    "0086-AN1L",
+                    "0237-DICCIT",
+                    "0043-SIGNO",
+                    "0079-POMPE",
+                    "0076-OOTGC",
+                    "0236-ANTDUE",
+                    "0064-FINCA",
+                    "0198-7WB",
+                    "0060-LASVEG"
+                ],
+                "0173-ANTIK": [
+                    "0090-AN2L",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0094-CRYHAV",
+                    "0271-LUNA",
+                    "0156-POH",
+                    "0087-AN1L",
+                    "0088-AN1L",
+                    "0162-DARMOO",
+                    "0069-SES",
+                    "0056-VIKIN",
+                    "0268-BELFO",
+                    "0006-OOD",
+                    "0054-AN3EVP",
+                    "0110-WWE",
+                    "0137-TTREU",
+                    "0074-EMIDOM",
+                    "0086-AN1L",
+                    "0237-DICCIT",
+                    "0043-SIGNO",
+                    "0079-POMPE",
+                    "0076-OOTGC"
+                ],
+                "0174-BARDG": [
+                    "0090-AN2L",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0094-CRYHAV",
+                    "0271-LUNA",
+                    "0156-POH",
+                    "0087-AN1L",
+                    "0088-AN1L",
+                    "0162-DARMOO",
+                    "0069-SES",
+                    "0056-VIKIN",
+                    "0268-BELFO",
+                    "0006-OOD",
+                    "0054-AN3EVP",
+                    "0110-WWE",
+                    "0137-TTREU",
+                    "0074-EMIDOM",
+                    "0086-AN1L",
+                    "0237-DICCIT",
+                    "0043-SIGNO",
+                    "0079-POMPE",
+                    "0076-OOTGC",
+                    "0236-ANTDUE",
+                    "0064-FINCA",
+                    "0198-7WB",
+                    "0053-AN2EVP",
+                    "0084-AN1L"
+                ],
+                "0175-BTB": [
+                    "0090-AN2L",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0094-CRYHAV",
+                    "0271-LUNA",
+                    "0156-POH",
+                    "0087-AN1L",
+                    "0088-AN1L",
+                    "0162-DARMOO",
+                    "0069-SES",
+                    "0056-VIKIN",
+                    "0268-BELFO",
+                    "0006-OOD",
+                    "0054-AN3EVP",
+                    "0110-WWE",
+                    "0137-TTREU",
+                    "0074-EMIDOM",
+                    "0237-DICCIT",
+                    "0079-POMPE",
+                    "0076-OOTGC",
+                    "0236-ANTDUE",
+                    "0064-FINCA",
+                    "0198-7WB",
+                    "0053-AN2EVP",
+                    "0084-AN1L"
+                ],
+                "0178-FORAME": [
+                    "0090-AN2L",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0094-CRYHAV",
+                    "0271-LUNA",
+                    "0156-POH",
+                    "0087-AN1L",
+                    "0088-AN1L",
+                    "0162-DARMOO",
+                    "0069-SES"
+                ],
+                "0179-TORRE": [
+                    "0090-AN2L",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0094-CRYHAV",
+                    "0271-LUNA",
+                    "0156-POH",
+                    "0087-AN1L",
+                    "0088-AN1L",
+                    "0162-DARMOO",
+                    "0069-SES",
+                    "0056-VIKIN",
+                    "0268-BELFO",
+                    "0006-OOD",
+                    "0054-AN3EVP",
+                    "0137-TTREU",
+                    "0086-AN1L"
+                ],
+                "0180-CV": [
+                    "0090-AN2L",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0094-CRYHAV",
+                    "0271-LUNA",
+                    "0156-POH",
+                    "0087-AN1L",
+                    "0088-AN1L",
+                    "0162-DARMOO",
+                    "0069-SES",
+                    "0056-VIKIN",
+                    "0268-BELFO",
+                    "0006-OOD",
+                    "0054-AN3EVP",
+                    "0110-WWE",
+                    "0137-TTREU",
+                    "0074-EMIDOM",
+                    "0086-AN1L",
+                    "0237-DICCIT"
+                ],
+                "0181-GWT": [
+                    "0090-AN2L",
+                    "0055-AN4EVP",
+                    "0089-AN2L",
+                    "0274-AN2LPTB",
+                    "0094-CRYHAV",
+                    "0271-LUNA",
+                    "0156-POH",
+                    "0087-AN1L",
+                    "0088-AN1L",
+                    "0162-DARMOO",
+                    "0069-SES",
+                    "0056-VIKIN",
+                    "0268-BELFO",
+                    "0006-OOD",
+                    "0054-AN3EVP",
+                    "0110-WWE",
+                    "0137-TTREU",
+                    "0086-AN1L"
+                ]
+            }
+        },
+        "thenede": {
+            "offers": {
+                "%CV": [
+                    "0180-CV",
+                    "0190-CV"
+                ],
+                "%CVliz": [
+                    "0025-CVLIZ",
+                    "0191-CVLIZ"
+                ],
+                "%CoC": [
+                    "0158-COC",
+                    "0245-COC"
+                ],
+                "%GWT": [
+                    "0104-GWT",
+                    "0181-GWT"
+                ],
+                "%Photo": [
+                    "0091-PHOTO",
+                    "0111-PHOTO"
+                ],
+                "%UEA": [
+                    "0012-UEA",
+                    "0138-UEA"
+                ],
+                "0198-7WB": [
+                    "0166-NIPPON",
+                    "0168-FCAATOE",
+                    "0043-SIGNO",
+                    "0188-MERLIN",
+                    "0179-TORRE"
+                ],
+                "0199-ILLUM": [
+                    "0140-GALLE",
+                    "0072-KDE",
+                    "0166-NIPPON"
+                ],
+                "0200-MRJAC": [
+                    "0140-GALLE",
+                    "0072-KDE",
+                    "0166-NIPPON"
+                ],
+                "0201-EPIRES": [
+                    "0140-GALLE",
+                    "0072-KDE",
+                    "0166-NIPPON"
+                ],
+                "0202-ACG": [
+                    "0072-KDE",
+                    "0166-NIPPON"
+                ],
+                "0203-NOSCIT": [
+                    "0166-NIPPON",
+                    "0168-FCAATOE",
+                    "0043-SIGNO",
+                    "0188-MERLIN",
+                    "0179-TORRE"
+                ],
+                "0204-PAXPAM": [
+                    "0140-GALLE",
+                    "0072-KDE",
+                    "0166-NIPPON"
+                ],
+                "0205-BATTL": [
+                    "0140-GALLE",
+                    "0072-KDE"
+                ],
+                "0206-ANDRO": [
+                    "0140-GALLE",
+                    "0072-KDE",
+                    "0166-NIPPON"
+                ],
+                "0207-ILLUM": [
+                    "0166-NIPPON",
+                    "0168-FCAATOE",
+                    "0043-SIGNO",
+                    "0188-MERLIN",
+                    "0179-TORRE"
+                ]
+            }
+        },
+        "VickdaReaper": {
+            "offers": {
+                "%CV": [
+                    "0180-CV",
+                    "0190-CV"
+                ],
+                "%CoC": [
+                    "0158-COC",
+                    "0245-COC"
+                ],
+                "%GWT": [
+                    "0104-GWT",
+                    "0181-GWT"
+                ],
+                "%Photo": [
+                    "0091-PHOTO",
+                    "0111-PHOTO"
+                ],
+                "0097-ENDEA": [
+                    "0077-SCYTHE"
+                ],
+                "0098-BRALAN": [
+                    "0077-SCYTHE"
+                ]
+            }
+        },
+        "VladOlaru": {
+            "offers": {
+                "0162-DARMOO": [
+                    "0009-HERREA",
+                    "0054-AN3EVP",
+                    "0055-AN4EVP",
+                    "0087-AN1L",
+                    "0088-AN1L",
+                    "0089-AN2L",
+                    "0090-AN2L",
+                    "0274-AN2LPTB",
+                    "0086-AN1L"
+                ],
+                "0163-MWA": [
+                    "0009-HERREA",
+                    "0054-AN3EVP",
+                    "0055-AN4EVP",
+                    "0087-AN1L",
+                    "0088-AN1L",
+                    "0089-AN2L",
+                    "0090-AN2L",
+                    "0274-AN2LPTB"
+                ],
+                "0176-MUNCH": [
+                    "0009-HERREA",
+                    "0054-AN3EVP",
+                    "0055-AN4EVP",
+                    "0087-AN1L",
+                    "0088-AN1L",
+                    "0089-AN2L",
+                    "0090-AN2L",
+                    "0274-AN2LPTB",
+                    "0086-AN1L",
+                    "0136-BBOM",
+                    "0084-AN1L",
+                    "0085-AN1L"
+                ],
+                "0177-SMAUP": [
+                    "0009-HERREA",
+                    "0054-AN3EVP",
+                    "0055-AN4EVP",
+                    "0087-AN1L",
+                    "0088-AN1L",
+                    "0089-AN2L",
+                    "0090-AN2L",
+                    "0274-AN2LPTB",
+                    "0086-AN1L",
+                    "0136-BBOM",
+                    "0084-AN1L",
+                    "0085-AN1L"
+                ]
+            }
+        },
+        "vthor": {
+            "offers": {
+                "0235-PANAM": [
+                    "0054-AN3EVP",
+                    "0055-AN4EVP",
+                    "0087-AN1L",
+                    "0088-AN1L",
+                    "0089-AN2L",
+                    "0090-AN2L",
+                    "0274-AN2LPTB"
+                ],
+                "0236-ANTDUE": [
+                    "0054-AN3EVP",
+                    "0055-AN4EVP",
+                    "0087-AN1L",
+                    "0088-AN1L",
+                    "0089-AN2L",
+                    "0090-AN2L",
+                    "0274-AN2LPTB"
+                ],
+                "0237-DICCIT": [
+                    "0054-AN3EVP",
+                    "0055-AN4EVP",
+                    "0087-AN1L",
+                    "0088-AN1L",
+                    "0089-AN2L",
+                    "0090-AN2L",
+                    "0274-AN2LPTB"
+                ],
+                "0238-KOAAS": [
+                    "0054-AN3EVP",
+                    "0055-AN4EVP",
+                    "0087-AN1L",
+                    "0088-AN1L",
+                    "0089-AN2L",
+                    "0090-AN2L",
+                    "0274-AN2LPTB"
+                ],
+                "0239-BRETA": [
+                    "0054-AN3EVP",
+                    "0055-AN4EVP",
+                    "0087-AN1L",
+                    "0088-AN1L",
+                    "0089-AN2L",
+                    "0090-AN2L",
+                    "0274-AN2LPTB"
+                ],
+                "0240-MYRMES": [
+                    "0054-AN3EVP",
+                    "0055-AN4EVP",
+                    "0087-AN1L",
+                    "0088-AN1L",
+                    "0089-AN2L",
+                    "0090-AN2L",
+                    "0274-AN2LPTB"
+                ]
+            }
+        }
+    },
+    "items": {
+        "0208-PHASOC": {
+            "name": "0208-PHASOC",
+            "owner": "26october"
+        },
+        "0209-XALAPA": {
+            "name": "0209-XALAPA",
+            "owner": "26october"
+        },
+        "0210-ROBKNI": {
+            "name": "0210-ROBKNI",
+            "owner": "26october"
+        },
+        "0211-SMCTBG": {
+            "name": "0211-SMCTBG",
+            "owner": "26october"
+        },
+        "0212-SUM": {
+            "name": "0212-SUM",
+            "owner": "26october"
+        },
+        "0213-ULTWAR": {
+            "name": "0213-ULTWAR",
+            "owner": "26october"
+        },
+        "0214-GFF": {
+            "name": "0214-GFF",
+            "owner": "26october"
+        },
+        "0215-INNOV": {
+            "name": "0215-INNOV",
+            "owner": "26october"
+        },
+        "0216-COMKL": {
+            "name": "0216-COMKL",
+            "owner": "26october"
+        },
+        "0217-DARWI": {
+            "name": "0217-DARWI",
+            "owner": "26october"
+        },
+        "0218-DREAM": {
+            "name": "0218-DREAM",
+            "owner": "26october"
+        },
+        "0219-DUNFIG": {
+            "name": "0219-DUNFIG",
+            "owner": "26october"
+        },
+        "0220-FORD": {
+            "name": "0220-FORD",
+            "owner": "26october"
+        },
+        "0221-PCOVE": {
+            "name": "0221-PCOVE",
+            "owner": "26october"
+        },
+        "0222-VOTN": {
+            "name": "0222-VOTN",
+            "owner": "26october"
+        },
+        "0223-VERSA": {
+            "name": "0223-VERSA",
+            "owner": "26october"
+        },
+        "0224-OCEAN": {
+            "name": "0224-OCEAN",
+            "owner": "26october"
+        },
+        "0225-HERBA": {
+            "name": "0225-HERBA",
+            "owner": "26october"
+        },
+        "0227-MFTR": {
+            "name": "0227-MFTR",
+            "owner": "26october"
+        },
+        "0280-SAGOBT": {
+            "name": "0280-SAGOBT",
+            "owner": "almi"
+        },
+        "0281-ROCKW": {
+            "name": "0281-ROCKW",
+            "owner": "almi"
+        },
+        "0282-WTTSFCG": {
+            "name": "0282-WTTSFCG",
+            "owner": "almi"
+        },
+        "0283-BLAORC": {
+            "name": "0283-BLAORC",
+            "owner": "almi"
+        },
+        "0050-AN5EVP": {
+            "name": "0050-AN5EVP",
+            "owner": "ammorphalisk"
+        },
+        "0051-AN1EVP": {
+            "name": "0051-AN1EVP",
+            "owner": "ammorphalisk"
+        },
+        "0052-AN1EVP": {
+            "name": "0052-AN1EVP",
+            "owner": "ammorphalisk"
+        },
+        "0053-AN2EVP": {
+            "name": "0053-AN2EVP",
+            "owner": "ammorphalisk"
+        },
+        "0054-AN3EVP": {
+            "name": "0054-AN3EVP",
+            "owner": "ammorphalisk"
+        },
+        "0055-AN4EVP": {
+            "name": "0055-AN4EVP",
+            "owner": "ammorphalisk"
+        },
+        "0056-VIKIN": {
+            "name": "0056-VIKIN",
+            "owner": "ammorphalisk"
+        },
+        "0057-COI": {
+            "name": "0057-COI",
+            "owner": "ammorphalisk"
+        },
+        "0058-STEWOR": {
+            "name": "0058-STEWOR",
+            "owner": "ammorphalisk"
+        },
+        "0059-PGTFS": {
+            "name": "0059-PGTFS",
+            "owner": "ammorphalisk"
+        },
+        "0060-LASVEG": {
+            "name": "0060-LASVEG",
+            "owner": "ammorphalisk"
+        },
+        "0061-KLORUS": {
+            "name": "0061-KLORUS",
+            "owner": "ammorphalisk"
+        },
+        "0062-GREEN": {
+            "name": "0062-GREEN",
+            "owner": "ammorphalisk"
+        },
+        "0063-ITE": {
+            "name": "0063-ITE",
+            "owner": "ammorphalisk"
+        },
+        "0064-FINCA": {
+            "name": "0064-FINCA",
+            "owner": "ammorphalisk"
+        },
+        "0065-SYLVI": {
+            "name": "0065-SYLVI",
+            "owner": "ammorphalisk"
+        },
+        "0066-AOD": {
+            "name": "0066-AOD",
+            "owner": "ammorphalisk"
+        },
+        "0067-LOX": {
+            "name": "0067-LOX",
+            "owner": "ammorphalisk"
+        },
+        "0068-TOURIA": {
+            "name": "0068-TOURIA",
+            "owner": "ammorphalisk"
+        },
+        "0069-SES": {
+            "name": "0069-SES",
+            "owner": "ammorphalisk"
+        },
+        "0241-AOEAD": {
+            "name": "0241-AOEAD",
+            "owner": "AngelEye"
+        },
+        "0242-DOM": {
+            "name": "0242-DOM",
+            "owner": "AngelEye"
+        },
+        "0243-EEL": {
+            "name": "0243-EEL",
+            "owner": "AngelEye"
+        },
+        "0244-RTTATIA": {
+            "name": "0244-RTTATIA",
+            "owner": "AngelEye"
+        },
+        "0246-WF1": {
+            "name": "0246-WF1",
+            "owner": "AngelEye"
+        },
+        "0248-VIENNA": {
+            "name": "0248-VIENNA",
+            "owner": "AngelEye"
+        },
+        "0249-LTTODDC": {
+            "name": "0249-LTTODDC",
+            "owner": "AngelEye"
+        },
+        "0257-AGENTS": {
+            "name": "0257-AGENTS",
+            "owner": "AngelEye"
+        },
+        "0258-12REA": {
+            "name": "0258-12REA",
+            "owner": "AngelEye"
+        },
+        "0261-TUMROY": {
+            "name": "0261-TUMROY",
+            "owner": "AngelEye"
+        },
+        "0263-W4C": {
+            "name": "0263-W4C",
+            "owner": "AngelEye"
+        },
+        "0265-MUTMEE": {
+            "name": "0265-MUTMEE",
+            "owner": "AngelEye"
+        },
+        "0267-ROUHOU": {
+            "name": "0267-ROUHOU",
+            "owner": "AngelEye"
+        },
+        "0140-GALLE": {
+            "name": "0140-GALLE",
+            "owner": "arthuriovan"
+        },
+        "0141-BOSS": {
+            "name": "0141-BOSS",
+            "owner": "arthuriovan"
+        },
+        "0142-BTN": {
+            "name": "0142-BTN",
+            "owner": "arthuriovan"
+        },
+        "0143-RSWE": {
+            "name": "0143-RSWE",
+            "owner": "arthuriovan"
+        },
+        "0144-THURN": {
+            "name": "0144-THURN",
+            "owner": "arthuriovan"
+        },
+        "0145-VICER": {
+            "name": "0145-VICER",
+            "owner": "arthuriovan"
+        },
+        "0146-HARBO": {
+            "name": "0146-HARBO",
+            "owner": "arthuriovan"
+        },
+        "0147-BMA": {
+            "name": "0147-BMA",
+            "owner": "arthuriovan"
+        },
+        "0148-LLTS": {
+            "name": "0148-LLTS",
+            "owner": "arthuriovan"
+        },
+        "0149-CHTROQ": {
+            "name": "0149-CHTROQ",
+            "owner": "arthuriovan"
+        },
+        "0150-LOSEXP": {
+            "name": "0150-LOSEXP",
+            "owner": "arthuriovan"
+        },
+        "0151-REVOL": {
+            "name": "0151-REVOL",
+            "owner": "arthuriovan"
+        },
+        "0152-MIND": {
+            "name": "0152-MIND",
+            "owner": "arthuriovan"
+        },
+        "0153-CHICK": {
+            "name": "0153-CHICK",
+            "owner": "arthuriovan"
+        },
+        "0154-GOTHOTK": {
+            "name": "0154-GOTHOTK",
+            "owner": "arthuriovan"
+        },
+        "0155-YARDM": {
+            "name": "0155-YARDM",
+            "owner": "arthuriovan"
+        },
+        "%CVliz": {
+            "name": "%CVliz",
+            "owner": "Babanel"
+        },
+        "%GWT": {
+            "name": "%GWT",
+            "owner": "Babanel"
+        },
+        "%Green": {
+            "name": "%Green",
+            "owner": "Babanel"
+        },
+        "%KoAaS": {
+            "name": "%KoAaS",
+            "owner": "Babanel"
+        },
+        "%Raptor": {
+            "name": "%Raptor",
+            "owner": "Babanel"
+        },
+        "%SmaUp": {
+            "name": "%SmaUp",
+            "owner": "Babanel"
+        },
+        "0110-WWE": {
+            "name": "0110-WWE",
+            "owner": "Babanel"
+        },
+        "0123-ALCHE": {
+            "name": "0123-ALCHE",
+            "owner": "Babanel"
+        },
+        "0124-SFC": {
+            "name": "0124-SFC",
+            "owner": "Babanel"
+        },
+        "0125-CITAD": {
+            "name": "0125-CITAD",
+            "owner": "Babanel"
+        },
+        "0126-TGA": {
+            "name": "0126-TGA",
+            "owner": "Babanel"
+        },
+        "0127-DIXIT": {
+            "name": "0127-DIXIT",
+            "owner": "Babanel"
+        },
+        "0128-DOMIN": {
+            "name": "0128-DOMIN",
+            "owner": "Babanel"
+        },
+        "0129-HANABI": {
+            "name": "0129-HANABI",
+            "owner": "Babanel"
+        },
+        "0130-LAPDAN": {
+            "name": "0130-LAPDAN",
+            "owner": "Babanel"
+        },
+        "0131-LASLET": {
+            "name": "0131-LASLET",
+            "owner": "Babanel"
+        },
+        "0132-LOVLET": {
+            "name": "0132-LOVLET",
+            "owner": "Babanel"
+        },
+        "0133-MDCG": {
+            "name": "0133-MDCG",
+            "owner": "Babanel"
+        },
+        "0134-MJP": {
+            "name": "0134-MJP",
+            "owner": "Babanel"
+        },
+        "0135-NATFLU": {
+            "name": "0135-NATFLU",
+            "owner": "Babanel"
+        },
+        "0136-BBOM": {
+            "name": "0136-BBOM",
+            "owner": "Babanel"
+        },
+        "0137-TTREU": {
+            "name": "0137-TTREU",
+            "owner": "Babanel"
+        },
+        "0138-UEA": {
+            "name": "0138-UEA",
+            "owner": "Babanel"
+        },
+        "0139-UMA": {
+            "name": "0139-UMA",
+            "owner": "Babanel"
+        },
+        "0099-VERSA": {
+            "name": "0099-VERSA",
+            "owner": "Cristi84"
+        },
+        "0100-TAKEN": {
+            "name": "0100-TAKEN",
+            "owner": "Cristi84"
+        },
+        "0101-QUEEN": {
+            "name": "0101-QUEEN",
+            "owner": "Cristi84"
+        },
+        "0070-ALIFRO": {
+            "name": "0070-ALIFRO",
+            "owner": "cristianf"
+        },
+        "0071-ENDEA": {
+            "name": "0071-ENDEA",
+            "owner": "cristianf"
+        },
+        "0072-KDE": {
+            "name": "0072-KDE",
+            "owner": "cristianf"
+        },
+        "0073-SNOTAI": {
+            "name": "0073-SNOTAI",
+            "owner": "cristianf"
+        },
+        "0074-EMIDOM": {
+            "name": "0074-EMIDOM",
+            "owner": "cristianf"
+        },
+        "0274-AN2LPTB": {
+            "name": "0274-AN2LPTB",
+            "owner": "cristianf"
+        },
+        "%Alche": {
+            "name": "%Alche",
+            "owner": "Daniel113"
+        },
+        "%CV": {
+            "name": "%CV",
+            "owner": "Daniel113"
+        },
+        "%CoC": {
+            "name": "%CoC",
+            "owner": "Daniel113"
+        },
+        "0075-HOLLY": {
+            "name": "0075-HOLLY",
+            "owner": "Daniel113"
+        },
+        "0076-OOTGC": {
+            "name": "0076-OOTGC",
+            "owner": "Daniel113"
+        },
+        "0077-SCYTHE": {
+            "name": "0077-SCYTHE",
+            "owner": "Daniel113"
+        },
+        "0078-TGTTLP": {
+            "name": "0078-TGTTLP",
+            "owner": "Daniel113"
+        },
+        "0079-POMPE": {
+            "name": "0079-POMPE",
+            "owner": "Daniel113"
+        },
+        "0080-AN5L": {
+            "name": "0080-AN5L",
+            "owner": "Daniel113"
+        },
+        "0081-AN5L": {
+            "name": "0081-AN5L",
+            "owner": "Daniel113"
+        },
+        "0082-AN5L": {
+            "name": "0082-AN5L",
+            "owner": "Daniel113"
+        },
+        "0083-AN7L": {
+            "name": "0083-AN7L",
+            "owner": "Daniel113"
+        },
+        "0084-AN1L": {
+            "name": "0084-AN1L",
+            "owner": "Daniel113"
+        },
+        "0085-AN1L": {
+            "name": "0085-AN1L",
+            "owner": "Daniel113"
+        },
+        "0086-AN1L": {
+            "name": "0086-AN1L",
+            "owner": "Daniel113"
+        },
+        "0087-AN1L": {
+            "name": "0087-AN1L",
+            "owner": "Daniel113"
+        },
+        "0088-AN1L": {
+            "name": "0088-AN1L",
+            "owner": "Daniel113"
+        },
+        "0089-AN2L": {
+            "name": "0089-AN2L",
+            "owner": "Daniel113"
+        },
+        "0090-AN2L": {
+            "name": "0090-AN2L",
+            "owner": "Daniel113"
+        },
+        "0001-CODEN": {
+            "name": "0001-CODEN",
+            "owner": "djdano"
+        },
+        "0002-COLON": {
+            "name": "0002-COLON",
+            "owner": "djdano"
+        },
+        "0003-CO": {
+            "name": "0003-CO",
+            "owner": "djdano"
+        },
+        "0004-ELEME": {
+            "name": "0004-ELEME",
+            "owner": "djdano"
+        },
+        "0005-KEYPER": {
+            "name": "0005-KEYPER",
+            "owner": "djdano"
+        },
+        "0006-OOD": {
+            "name": "0006-OOD",
+            "owner": "djdano"
+        },
+        "0007-TZAAR": {
+            "name": "0007-TZAAR",
+            "owner": "djdano"
+        },
+        "0008-ANJNMED": {
+            "name": "0008-ANJNMED",
+            "owner": "djdano"
+        },
+        "0009-HERREA": {
+            "name": "0009-HERREA",
+            "owner": "djdano"
+        },
+        "0245-COC": {
+            "name": "0245-COC",
+            "owner": "hadip"
+        },
+        "0247-RTC": {
+            "name": "0247-RTC",
+            "owner": "hadip"
+        },
+        "0250-EDO": {
+            "name": "0250-EDO",
+            "owner": "hadip"
+        },
+        "0260-BRUGES": {
+            "name": "0260-BRUGES",
+            "owner": "hadip"
+        },
+        "0268-BELFO": {
+            "name": "0268-BELFO",
+            "owner": "hadip"
+        },
+        "0271-LUNA": {
+            "name": "0271-LUNA",
+            "owner": "hadip"
+        },
+        "0251-COURT": {
+            "name": "0251-COURT",
+            "owner": "iadrianik"
+        },
+        "0252-GAME": {
+            "name": "0252-GAME",
+            "owner": "iadrianik"
+        },
+        "0253-HIMAL": {
+            "name": "0253-HIMAL",
+            "owner": "iadrianik"
+        },
+        "0254-KOAAS": {
+            "name": "0254-KOAAS",
+            "owner": "iadrianik"
+        },
+        "0255-LEALEM": {
+            "name": "0255-LEALEM",
+            "owner": "iadrianik"
+        },
+        "0256-AFE": {
+            "name": "0256-AFE",
+            "owner": "iadrianik"
+        },
+        "0259-LOOLON": {
+            "name": "0259-LOOLON",
+            "owner": "iadrianik"
+        },
+        "0262-MONBAY": {
+            "name": "0262-MONBAY",
+            "owner": "iadrianik"
+        },
+        "0264-PFFTH": {
+            "name": "0264-PFFTH",
+            "owner": "iadrianik"
+        },
+        "0266-SAMUR": {
+            "name": "0266-SAMUR",
+            "owner": "iadrianik"
+        },
+        "0269-SHOGU": {
+            "name": "0269-SHOGU",
+            "owner": "iadrianik"
+        },
+        "0270-DUNROL": {
+            "name": "0270-DUNROL",
+            "owner": "iadrianik"
+        },
+        "0272-INIS": {
+            "name": "0272-INIS",
+            "owner": "iadrianik"
+        },
+        "0273-MEM44": {
+            "name": "0273-MEM44",
+            "owner": "iadrianik"
+        },
+        "0275-SMCTBG": {
+            "name": "0275-SMCTBG",
+            "owner": "iadrianik"
+        },
+        "0276-THUND": {
+            "name": "0276-THUND",
+            "owner": "iadrianik"
+        },
+        "0277-TARGI": {
+            "name": "0277-TARGI",
+            "owner": "iadrianik"
+        },
+        "0278-PRAET": {
+            "name": "0278-PRAET",
+            "owner": "iadrianik"
+        },
+        "0230-BOAE": {
+            "name": "0230-BOAE",
+            "owner": "mihnea_1309"
+        },
+        "0231-TLOI": {
+            "name": "0231-TLOI",
+            "owner": "mihnea_1309"
+        },
+        "0232-RAPTOR": {
+            "name": "0232-RAPTOR",
+            "owner": "mihnea_1309"
+        },
+        "0233-COISE": {
+            "name": "0233-COISE",
+            "owner": "mihnea_1309"
+        },
+        "0234-MADEI": {
+            "name": "0234-MADEI",
+            "owner": "mihnea_1309"
+        },
+        "0091-PHOTO": {
+            "name": "0091-PHOTO",
+            "owner": "ProfessorChaos"
+        },
+        "0092-FOOGOL": {
+            "name": "0092-FOOGOL",
+            "owner": "ProfessorChaos"
+        },
+        "0093-KEMET": {
+            "name": "0093-KEMET",
+            "owner": "ProfessorChaos"
+        },
+        "0094-CRYHAV": {
+            "name": "0094-CRYHAV",
+            "owner": "ProfessorChaos"
+        },
+        "0095-RAPTOR": {
+            "name": "0095-RAPTOR",
+            "owner": "ProfessorChaos"
+        },
+        "0096-SMAUP": {
+            "name": "0096-SMAUP",
+            "owner": "ProfessorChaos"
+        },
+        "%Edo": {
+            "name": "%Edo",
+            "owner": "rabesandratana"
+        },
+        "0102-AFRIC": {
+            "name": "0102-AFRIC",
+            "owner": "rabesandratana"
+        },
+        "0103-DEADW": {
+            "name": "0103-DEADW",
+            "owner": "rabesandratana"
+        },
+        "0104-GWT": {
+            "name": "0104-GWT",
+            "owner": "rabesandratana"
+        },
+        "0105-COURT": {
+            "name": "0105-COURT",
+            "owner": "rabesandratana"
+        },
+        "0106-SASTDG": {
+            "name": "0106-SASTDG",
+            "owner": "rabesandratana"
+        },
+        "0107-PORNIG": {
+            "name": "0107-PORNIG",
+            "owner": "rabesandratana"
+        },
+        "0108-PACROW": {
+            "name": "0108-PACROW",
+            "owner": "rabesandratana"
+        },
+        "0109-HOYUK": {
+            "name": "0109-HOYUK",
+            "owner": "rabesandratana"
+        },
+        "0182-KINGS": {
+            "name": "0182-KINGS",
+            "owner": "rabesandratana"
+        },
+        "0279-FIVTRI": {
+            "name": "0279-FIVTRI",
+            "owner": "rabesandratana"
+        },
+        "0193-CYCLA": {
+            "name": "0193-CYCLA",
+            "owner": "raclariu"
+        },
+        "0194-LAISLA": {
+            "name": "0194-LAISLA",
+            "owner": "raclariu"
+        },
+        "0195-DUNPET": {
+            "name": "0195-DUNPET",
+            "owner": "raclariu"
+        },
+        "0010-LTWOT2": {
+            "name": "0010-LTWOT2",
+            "owner": "Raizen"
+        },
+        "0011-WUS": {
+            "name": "0011-WUS",
+            "owner": "Raizen"
+        },
+        "0012-UEA": {
+            "name": "0012-UEA",
+            "owner": "Raizen"
+        },
+        "0013-COLEXP": {
+            "name": "0013-COLEXP",
+            "owner": "Raizen"
+        },
+        "0014-BLAFLE": {
+            "name": "0014-BLAFLE",
+            "owner": "Raizen"
+        },
+        "0015-GOTTTG": {
+            "name": "0015-GOTTTG",
+            "owner": "Raizen"
+        },
+        "0016-IFOSTMG": {
+            "name": "0016-IFOSTMG",
+            "owner": "Raizen"
+        },
+        "0017-BITTEN": {
+            "name": "0017-BITTEN",
+            "owner": "Raizen"
+        },
+        "0018-YATM": {
+            "name": "0018-YATM",
+            "owner": "Raizen"
+        },
+        "0019-RISK2": {
+            "name": "0019-RISK2",
+            "owner": "Raizen"
+        },
+        "0020-ELCAB": {
+            "name": "0020-ELCAB",
+            "owner": "Raizen"
+        },
+        "0021-MUTINY": {
+            "name": "0021-MUTINY",
+            "owner": "Raizen"
+        },
+        "0022-EIGEMP": {
+            "name": "0022-EIGEMP",
+            "owner": "Raizen"
+        },
+        "0023-PGTFS": {
+            "name": "0023-PGTFS",
+            "owner": "Raizen"
+        },
+        "0024-STRAT": {
+            "name": "0024-STRAT",
+            "owner": "Raizen"
+        },
+        "0025-CVLIZ": {
+            "name": "0025-CVLIZ",
+            "owner": "Raizen"
+        },
+        "0026-SHEEP": {
+            "name": "0026-SHEEP",
+            "owner": "Raizen"
+        },
+        "0027-CRAKAR": {
+            "name": "0027-CRAKAR",
+            "owner": "Raizen"
+        },
+        "0028-EDO": {
+            "name": "0028-EDO",
+            "owner": "Raizen"
+        },
+        "0029-LIGUR": {
+            "name": "0029-LIGUR",
+            "owner": "Raizen"
+        },
+        "0111-PHOTO": {
+            "name": "0111-PHOTO",
+            "owner": "Sol23"
+        },
+        "0112-KOT": {
+            "name": "0112-KOT",
+            "owner": "Sol23"
+        },
+        "0113-SPAALE": {
+            "name": "0113-SPAALE",
+            "owner": "Sol23"
+        },
+        "0114-PROCLU": {
+            "name": "0114-PROCLU",
+            "owner": "Sol23"
+        },
+        "0115-SECHIT": {
+            "name": "0115-SECHIT",
+            "owner": "Sol23"
+        },
+        "0116-BTDG": {
+            "name": "0116-BTDG",
+            "owner": "Sol23"
+        },
+        "0117-NATIO": {
+            "name": "0117-NATIO",
+            "owner": "Sol23"
+        },
+        "0118-SAGOBT": {
+            "name": "0118-SAGOBT",
+            "owner": "Sol23"
+        },
+        "0119-LNOEGH": {
+            "name": "0119-LNOEGH",
+            "owner": "Sol23"
+        },
+        "0120-WHC": {
+            "name": "0120-WHC",
+            "owner": "Sol23"
+        },
+        "0121-CARMAR": {
+            "name": "0121-CARMAR",
+            "owner": "Sol23"
+        },
+        "0122-GOTASOSE": {
+            "name": "0122-GOTASOSE",
+            "owner": "Sol23"
+        },
+        "0156-POH": {
+            "name": "0156-POH",
+            "owner": "Sol23"
+        },
+        "0030-AHTCG": {
+            "name": "0030-AHTCG",
+            "owner": "sufertashu"
+        },
+        "0031-AROTP": {
+            "name": "0031-AROTP",
+            "owner": "sufertashu"
+        },
+        "0032-DOOREL": {
+            "name": "0032-DOOREL",
+            "owner": "sufertashu"
+        },
+        "0033-FOUFAT": {
+            "name": "0033-FOUFAT",
+            "owner": "sufertashu"
+        },
+        "0034-GO": {
+            "name": "0034-GO",
+            "owner": "sufertashu"
+        },
+        "0035-GREEN": {
+            "name": "0035-GREEN",
+            "owner": "sufertashu"
+        },
+        "0036-GFF": {
+            "name": "0036-GFF",
+            "owner": "sufertashu"
+        },
+        "0037-KOTPU": {
+            "name": "0037-KOTPU",
+            "owner": "sufertashu"
+        },
+        "0038-LFW": {
+            "name": "0038-LFW",
+            "owner": "sufertashu"
+        },
+        "0039-LOTRTC": {
+            "name": "0039-LOTRTC",
+            "owner": "sufertashu"
+        },
+        "0040-MOTMA": {
+            "name": "0040-MOTMA",
+            "owner": "sufertashu"
+        },
+        "0041-PSTE": {
+            "name": "0041-PSTE",
+            "owner": "sufertashu"
+        },
+        "0042-ROR": {
+            "name": "0042-ROR",
+            "owner": "sufertashu"
+        },
+        "0043-SIGNO": {
+            "name": "0043-SIGNO",
+            "owner": "sufertashu"
+        },
+        "0044-SPAALE": {
+            "name": "0044-SPAALE",
+            "owner": "sufertashu"
+        },
+        "0045-SWDRSS": {
+            "name": "0045-SWDRSS",
+            "owner": "sufertashu"
+        },
+        "0046-SWTCG": {
+            "name": "0046-SWTCG",
+            "owner": "sufertashu"
+        },
+        "0047-TOT": {
+            "name": "0047-TOT",
+            "owner": "sufertashu"
+        },
+        "0048-TRALOO": {
+            "name": "0048-TRALOO",
+            "owner": "sufertashu"
+        },
+        "0049-VEGAS": {
+            "name": "0049-VEGAS",
+            "owner": "sufertashu"
+        },
+        "0157-MINER": {
+            "name": "0157-MINER",
+            "owner": "teddz"
+        },
+        "0158-COC": {
+            "name": "0158-COC",
+            "owner": "teddz"
+        },
+        "0159-RTN": {
+            "name": "0159-RTN",
+            "owner": "teddz"
+        },
+        "0160-HISTO": {
+            "name": "0160-HISTO",
+            "owner": "teddz"
+        },
+        "0161-NMBR9": {
+            "name": "0161-NMBR9",
+            "owner": "teddz"
+        },
+        "0164-VDG": {
+            "name": "0164-VDG",
+            "owner": "teddz"
+        },
+        "0165-SAGOBT": {
+            "name": "0165-SAGOBT",
+            "owner": "teddz"
+        },
+        "0166-NIPPON": {
+            "name": "0166-NIPPON",
+            "owner": "teddz"
+        },
+        "0167-AN7L": {
+            "name": "0167-AN7L",
+            "owner": "teddz"
+        },
+        "0168-FCAATOE": {
+            "name": "0168-FCAATOE",
+            "owner": "teddz"
+        },
+        "0169-ROUHOU": {
+            "name": "0169-ROUHOU",
+            "owner": "teddz"
+        },
+        "0170-QUANT": {
+            "name": "0170-QUANT",
+            "owner": "teddz"
+        },
+        "0171-KANAG": {
+            "name": "0171-KANAG",
+            "owner": "teddz"
+        },
+        "0172-DISCO": {
+            "name": "0172-DISCO",
+            "owner": "teddz"
+        },
+        "0173-ANTIK": {
+            "name": "0173-ANTIK",
+            "owner": "teddz"
+        },
+        "0174-BARDG": {
+            "name": "0174-BARDG",
+            "owner": "teddz"
+        },
+        "0175-BTB": {
+            "name": "0175-BTB",
+            "owner": "teddz"
+        },
+        "0178-FORAME": {
+            "name": "0178-FORAME",
+            "owner": "teddz"
+        },
+        "0179-TORRE": {
+            "name": "0179-TORRE",
+            "owner": "teddz"
+        },
+        "0180-CV": {
+            "name": "0180-CV",
+            "owner": "teddz"
+        },
+        "0181-GWT": {
+            "name": "0181-GWT",
+            "owner": "teddz"
+        },
+        "%Photo": {
+            "name": "%Photo",
+            "owner": "thenede"
+        },
+        "%UEA": {
+            "name": "%UEA",
+            "owner": "thenede"
+        },
+        "0198-7WB": {
+            "name": "0198-7WB",
+            "owner": "thenede"
+        },
+        "0199-ILLUM": {
+            "name": "0199-ILLUM",
+            "owner": "thenede"
+        },
+        "0200-MRJAC": {
+            "name": "0200-MRJAC",
+            "owner": "thenede"
+        },
+        "0201-EPIRES": {
+            "name": "0201-EPIRES",
+            "owner": "thenede"
+        },
+        "0202-ACG": {
+            "name": "0202-ACG",
+            "owner": "thenede"
+        },
+        "0203-NOSCIT": {
+            "name": "0203-NOSCIT",
+            "owner": "thenede"
+        },
+        "0204-PAXPAM": {
+            "name": "0204-PAXPAM",
+            "owner": "thenede"
+        },
+        "0205-BATTL": {
+            "name": "0205-BATTL",
+            "owner": "thenede"
+        },
+        "0206-ANDRO": {
+            "name": "0206-ANDRO",
+            "owner": "thenede"
+        },
+        "0207-ILLUM": {
+            "name": "0207-ILLUM",
+            "owner": "thenede"
+        },
+        "0097-ENDEA": {
+            "name": "0097-ENDEA",
+            "owner": "VickdaReaper"
+        },
+        "0098-BRALAN": {
+            "name": "0098-BRALAN",
+            "owner": "VickdaReaper"
+        },
+        "0162-DARMOO": {
+            "name": "0162-DARMOO",
+            "owner": "VladOlaru"
+        },
+        "0163-MWA": {
+            "name": "0163-MWA",
+            "owner": "VladOlaru"
+        },
+        "0176-MUNCH": {
+            "name": "0176-MUNCH",
+            "owner": "VladOlaru"
+        },
+        "0177-SMAUP": {
+            "name": "0177-SMAUP",
+            "owner": "VladOlaru"
+        },
+        "0235-PANAM": {
+            "name": "0235-PANAM",
+            "owner": "vthor"
+        },
+        "0236-ANTDUE": {
+            "name": "0236-ANTDUE",
+            "owner": "vthor"
+        },
+        "0237-DICCIT": {
+            "name": "0237-DICCIT",
+            "owner": "vthor"
+        },
+        "0238-KOAAS": {
+            "name": "0238-KOAAS",
+            "owner": "vthor"
+        },
+        "0239-BRETA": {
+            "name": "0239-BRETA",
+            "owner": "vthor"
+        },
+        "0240-MYRMES": {
+            "name": "0240-MYRMES",
+            "owner": "vthor"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "C:\\\\Users\\\\szyma\\\\Desktop\\\\System wspomagania i monitorowania procesu wymiany gier\\\\data\\\\for_tests\\test.json": {
+        "execution_time_seconds": 0.5048291683197021,
+        "memory_usage_MB": 0.08190727233886719,
+        "num_users": 5,
+        "num_items": 7,
+        "num_cycles_found": 5,
+        "num_cycles_selected": 2,
+        "num_exchanges": 6,
+        "genetic_algorithm_time_seconds": 0.5017890930175781,
+        "participation_percent": 100.0,
+        "overall_effectiveness_percent": 85.71428571428571,
+        "num_warnings": 0
+    }
+}
